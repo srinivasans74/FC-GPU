@@ -3,20 +3,23 @@
 ## Abstract
 
 GPUs have recently been adopted in many real-time embedded systems. However, existing GPU scheduling solutions are mostly open-loop and rely on the estimation of worst-case execution time (WCET). Although adaptive solutions, such as feedback control scheduling, have been previously proposed to handle this challenge for CPU-based real-time tasks, they cannot be directly applied to GPUs, because GPUs have different and more complex architectures and schedulable utilization bounds do not yet apply to them.
+
 In this paper, we propose **FC-GPU**, the first **Feedback Control GPU scheduling framework** for real-time embedded systems. To model the GPU resource contention among tasks, we analytically derive a **multi-input-multi-output (MIMO)** system model that captures the impacts of task rate adaptation on the response times of different tasks. Building on this model, we design a MIMO controller that dynamically adjusts task rates based on measured response times.
+
 Our extensive hardware testbed results on an Nvidia RTX 3090 GPU and an AMD MI-100 GPU demonstrate that FC-GPU can provide better real-time performance, even when task execution times significantly increase at runtime.
 
+---
 
 ## Python Requirements
 
-All Python dependencies used in the experiments are listed in [`requirements.txt`](./requirements.txt). Please go through the [`REQUIREMENTS.md`](./REQUIREMENTS.md) since somtimes we need to adjust the gain parameteres. 
+All Python dependencies used in the experiments are listed in [`requirements.txt`](./requirements.txt). Please go through the [REQUIREMENTS.md](./REQUIREMENTS.md) since sometimes we need to adjust the gain parameters.
 
- You can install them using:
+You can install them using:
 
-'''
-bash
+```bash
 pip install -r requirements.txt
-'''
+```
+
 ---
 
 ## Experiments
