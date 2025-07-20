@@ -9,12 +9,12 @@ Our extensive hardware testbed results on an Nvidia RTX 3090 GPU and an AMD MI-1
 
 ## Python Requirements
 
-All Python dependencies used in the experiments are listed in [`requirements.txt`](./requirements.txt). Please go through the ['REQUIREMENTS.md'](./REQUIREMENTS.md) since somtimes we need to adjust the gain parameteres. 
-
+All Python dependencies used in the experiments are listed in [`requirements.txt`](./requirements.txt). Please go through the [`REQUIREMENTS.md`](./REQUIREMENTS.md) since somtimes we need to adjust the gain parameteres. 
 
  You can install them using:
 
-```bash
+'''
+bash
 pip install -r requirements.txt
 '''
 ---
