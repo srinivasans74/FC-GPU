@@ -47,6 +47,6 @@ We believe this artifact merits the **Artifacts Evaluated – Reusable** badge b
 - `README.md` includes instructions on how to execute the software and reproduce the results from the paper.
 - Scripts for performance evaluation and plot generation are included.
 - GPU configurations and limitations are explicitly noted.
-- The system is designed to be extensible to other GPUs or scheduling models with minimal modification.
+- The system is designed to be extensible to other GPUs  with minimal modification.
 
 Overall, this artifact can be repurposed, extended, or reused by researchers exploring real-time GPU scheduling.
