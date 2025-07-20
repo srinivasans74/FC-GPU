@@ -14,7 +14,8 @@ All Python dependencies used in the experiments are listed in [`requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
-Please go through the ['REQUIREMENTS.md'] since somtimes we need to adjust the gain parameteres.
+
+Please go through the ['REQUIREMENTS.md'](./REQUIREMENTS.md) since somtimes we need to adjust the gain parameteres.
 ---
 
 ## Experiments
