@@ -1,7 +1,6 @@
 # Experiment Guide
 
 This guide outlines how to run the experiments and reproduce the figures presented in the paper.
-
 -----
 
 ## Open-Loop Experiments

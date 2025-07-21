@@ -19,7 +19,8 @@ You can install them using:
 ```bash
 pip install -r requirements.txt
 ```
-
+To make all .sh files in the repository executable, run the following command from the repository root:
+find . -type f -name "*.sh" -exec chmod +x {} +
 ---
 
 ## Experiments
