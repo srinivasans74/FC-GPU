@@ -65,18 +65,10 @@ Figure 3 saved as model_figure3.png
 
 ---
 
-### Run Baseline Experiments
+### Experiments
 
-```bash
-cd ../baseline/
-python run_baseline_experiments.py
-```
-
-Expected output:
-```
-Running baseline experiments...
-Baseline figures saved: baseline_fig1.png, baseline_fig2.png, ...
-```
+---
+> All the experiments are in the `Experiments/`
 
 ---
 
