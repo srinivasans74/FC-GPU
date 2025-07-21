@@ -85,4 +85,4 @@ To reproduce **Figure 9c** and **9d**:
 
 -----
 
-**Note:** More Online experiments will be released in the next version (v.1).
+**Note:** More Online experiments and experiments focusing on AMD-GPU will be released in the next version (v.1). 
