@@ -97,6 +97,8 @@ __global__ void stencil3d(
 void allocateAndInitMemory()
 {
     // page-locked host memory that the GPU can directly address
+    cudaSetDeviceFlags(cudaDeviceMapHost);        
+
     cudaHostAlloc(&h_Vm,    sizeof(Real) * vol,     cudaHostAllocMapped);
     cudaHostAlloc(&h_sigma, sizeof(Real) * vol * 9, cudaHostAllocMapped);
     cudaHostAlloc(&h_dVm,   sizeof(Real) * vol,     cudaHostAllocMapped);

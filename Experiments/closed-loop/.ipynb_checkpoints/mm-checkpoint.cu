@@ -65,6 +65,8 @@ __global__ void matMulKernel(float* A, float* B, float* C, int N) {
 void allocateAndInitMemory(int size)
 {
     // Page-locked host buffers that the GPU can directly access
+    cudaSetDeviceFlags(cudaDeviceMapHost);        
+
     cudaHostAlloc(&h_A, size * sizeof(float), cudaHostAllocMapped);
     cudaHostAlloc(&h_B, size * sizeof(float), cudaHostAllocMapped);
     cudaHostAlloc(&h_C, size * sizeof(float), cudaHostAllocMapped);
