@@ -1,0 +1,1573 @@
+Job time (m_i=1) = 127.538 ms
+Job time (m_i=1) = 127.991 ms
+Job time (m_i=1) = 127.933 ms
+Job time (m_i=1) = 127.872 ms
+Job time (m_i=1) = 128.133 ms
+Job time (m_i=1) = 128.057 ms
+Job time (m_i=1) = 127.917 ms
+Job time (m_i=1) = 128.049 ms
+Job time (m_i=1) = 128.172 ms
+Job time (m_i=1) = 128.043 ms
+Job time (m_i=1) = 129.331 ms
+Job time (m_i=1) = 129.212 ms
+Job time (m_i=1) = 130.744 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 128.384 ms, Period = 100 ms
+[CONTROL] Slicing enabled. m_i = 6
+Job time (m_i=6) = 102.831 ms
+Job time (m_i=6) = 103.034 ms
+Job time (m_i=6) = 103.002 ms
+Job time (m_i=6) = 102.927 ms
+Job time (m_i=6) = 103.044 ms
+Job time (m_i=6) = 102.907 ms
+Job time (m_i=6) = 103.091 ms
+Job time (m_i=6) = 102.851 ms
+Job time (m_i=6) = 103.003 ms
+Job time (m_i=6) = 102.921 ms
+Job time (m_i=6) = 102.936 ms
+Job time (m_i=6) = 102.886 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 102.953 ms, Period = 100 ms
+[CONTROL] Slicing enabled. m_i = 11
+Job time (m_i=11) = 93.355 ms
+Job time (m_i=11) = 93.442 ms
+Job time (m_i=11) = 93.3678 ms
+Job time (m_i=11) = 93.4057 ms
+Job time (m_i=11) = 93.375 ms
+Job time (m_i=11) = 93.4011 ms
+Job time (m_i=11) = 93.3903 ms
+Job time (m_i=11) = 93.3514 ms
+Job time (m_i=11) = 93.3929 ms
+Job time (m_i=11) = 93.3806 ms
+Job time (m_i=11) = 93.356 ms
+Job time (m_i=11) = 93.4282 ms
+Job time (m_i=11) = 93.4226 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.3899 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3673 ms
+Job time (m_i=11) = 93.3658 ms
+Job time (m_i=11) = 93.3601 ms
+Job time (m_i=11) = 93.396 ms
+Job time (m_i=11) = 93.4098 ms
+Job time (m_i=11) = 93.441 ms
+Job time (m_i=11) = 93.4036 ms
+Job time (m_i=11) = 93.4006 ms
+Job time (m_i=11) = 93.4042 ms
+Job time (m_i=11) = 93.3325 ms
+Job time (m_i=11) = 93.3924 ms
+Job time (m_i=11) = 93.3673 ms
+Job time (m_i=11) = 93.3908 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.387 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4201 ms
+Job time (m_i=11) = 93.4364 ms
+Job time (m_i=11) = 93.3781 ms
+Job time (m_i=11) = 93.378 ms
+Job time (m_i=11) = 93.4251 ms
+Job time (m_i=11) = 93.3289 ms
+Job time (m_i=11) = 93.4098 ms
+Job time (m_i=11) = 93.4205 ms
+Job time (m_i=11) = 93.3724 ms
+Job time (m_i=11) = 93.4021 ms
+Job time (m_i=11) = 93.3653 ms
+Job time (m_i=11) = 93.4037 ms
+Job time (m_i=11) = 93.4369 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.3983 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3632 ms
+Job time (m_i=11) = 93.3678 ms
+Job time (m_i=11) = 93.4144 ms
+Job time (m_i=11) = 93.3719 ms
+Job time (m_i=11) = 93.4241 ms
+Job time (m_i=11) = 93.4267 ms
+Job time (m_i=11) = 93.3965 ms
+Job time (m_i=11) = 93.3714 ms
+Job time (m_i=11) = 93.3924 ms
+Job time (m_i=11) = 93.3688 ms
+Job time (m_i=11) = 93.3617 ms
+Job time (m_i=11) = 93.4098 ms
+Job time (m_i=11) = 93.3929 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.3894 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3975 ms
+Job time (m_i=11) = 93.3821 ms
+Job time (m_i=11) = 93.3484 ms
+Job time (m_i=11) = 93.3284 ms
+Job time (m_i=11) = 93.4272 ms
+Job time (m_i=11) = 93.3944 ms
+Job time (m_i=11) = 93.418 ms
+Job time (m_i=11) = 93.4037 ms
+Job time (m_i=11) = 93.4088 ms
+Job time (m_i=11) = 93.3919 ms
+Job time (m_i=11) = 93.4359 ms
+Job time (m_i=11) = 93.3622 ms
+Job time (m_i=11) = 93.3827 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.3909 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.375 ms
+Job time (m_i=11) = 93.398 ms
+Job time (m_i=11) = 93.4124 ms
+Job time (m_i=11) = 93.3857 ms
+Job time (m_i=11) = 93.4415 ms
+Job time (m_i=11) = 93.3965 ms
+Job time (m_i=11) = 93.3228 ms
+Job time (m_i=11) = 93.3975 ms
+Job time (m_i=11) = 93.4456 ms
+Job time (m_i=11) = 93.4078 ms
+Job time (m_i=11) = 93.4047 ms
+Job time (m_i=11) = 93.4298 ms
+Job time (m_i=11) = 93.4323 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4038 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4052 ms
+Job time (m_i=11) = 93.4339 ms
+Job time (m_i=11) = 93.4431 ms
+Job time (m_i=11) = 93.418 ms
+Job time (m_i=11) = 93.42 ms
+Job time (m_i=11) = 93.3827 ms
+Job time (m_i=11) = 93.3745 ms
+Job time (m_i=11) = 93.3709 ms
+Job time (m_i=11) = 93.3524 ms
+Job time (m_i=11) = 93.4298 ms
+Job time (m_i=11) = 93.3939 ms
+Job time (m_i=11) = 93.4195 ms
+Job time (m_i=11) = 93.4292 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4056 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3765 ms
+Job time (m_i=11) = 93.4277 ms
+Job time (m_i=11) = 93.4287 ms
+Job time (m_i=11) = 93.4129 ms
+Job time (m_i=11) = 93.4323 ms
+Job time (m_i=11) = 93.4134 ms
+Job time (m_i=11) = 93.4124 ms
+Job time (m_i=11) = 93.4334 ms
+Job time (m_i=11) = 93.4313 ms
+Job time (m_i=11) = 93.4026 ms
+Job time (m_i=11) = 93.377 ms
+Job time (m_i=11) = 93.4538 ms
+Job time (m_i=11) = 93.4016 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4157 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4221 ms
+Job time (m_i=11) = 93.377 ms
+Job time (m_i=11) = 93.4538 ms
+Job time (m_i=11) = 93.4226 ms
+Job time (m_i=11) = 93.4359 ms
+Job time (m_i=11) = 93.3571 ms
+Job time (m_i=11) = 93.3601 ms
+Job time (m_i=11) = 93.4339 ms
+Job time (m_i=11) = 93.4037 ms
+Job time (m_i=11) = 93.3954 ms
+Job time (m_i=11) = 93.3601 ms
+Job time (m_i=11) = 93.4047 ms
+Job time (m_i=11) = 93.4185 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4035 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3335 ms
+Job time (m_i=11) = 93.4144 ms
+Job time (m_i=11) = 93.42 ms
+Job time (m_i=11) = 93.4472 ms
+Job time (m_i=11) = 93.4057 ms
+Job time (m_i=11) = 93.3878 ms
+Job time (m_i=11) = 93.4057 ms
+Job time (m_i=11) = 93.3699 ms
+Job time (m_i=11) = 93.3908 ms
+Job time (m_i=11) = 93.4129 ms
+Job time (m_i=11) = 93.376 ms
+Job time (m_i=11) = 93.4042 ms
+Job time (m_i=11) = 93.4436 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4009 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3985 ms
+Job time (m_i=11) = 93.3929 ms
+Job time (m_i=11) = 93.3699 ms
+Job time (m_i=11) = 93.4072 ms
+Job time (m_i=11) = 93.4088 ms
+Job time (m_i=11) = 93.3832 ms
+Job time (m_i=11) = 93.4426 ms
+Job time (m_i=11) = 93.4154 ms
+Job time (m_i=11) = 93.4 ms
+Job time (m_i=11) = 93.3837 ms
+Job time (m_i=11) = 93.3898 ms
+Job time (m_i=11) = 93.419 ms
+Job time (m_i=11) = 93.3903 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4001 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4564 ms
+Job time (m_i=11) = 93.4267 ms
+Job time (m_i=11) = 93.4257 ms
+Job time (m_i=11) = 93.4037 ms
+Job time (m_i=11) = 93.396 ms
+Job time (m_i=11) = 93.3729 ms
+Job time (m_i=11) = 93.397 ms
+Job time (m_i=11) = 93.4205 ms
+Job time (m_i=11) = 93.399 ms
+Job time (m_i=11) = 93.4477 ms
+Job time (m_i=11) = 93.44 ms
+Job time (m_i=11) = 93.4216 ms
+Job time (m_i=11) = 93.4093 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4166 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4272 ms
+Job time (m_i=11) = 93.4251 ms
+Job time (m_i=11) = 93.4743 ms
+Job time (m_i=11) = 93.4579 ms
+Job time (m_i=11) = 93.4717 ms
+Job time (m_i=11) = 93.4129 ms
+Job time (m_i=11) = 93.4144 ms
+Job time (m_i=11) = 93.4144 ms
+Job time (m_i=11) = 93.3622 ms
+Job time (m_i=11) = 93.418 ms
+Job time (m_i=11) = 93.4211 ms
+Job time (m_i=11) = 93.3786 ms
+Job time (m_i=11) = 93.397 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4211 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4236 ms
+Job time (m_i=11) = 93.4277 ms
+Job time (m_i=11) = 93.3929 ms
+Job time (m_i=11) = 93.4083 ms
+Job time (m_i=11) = 93.4103 ms
+Job time (m_i=11) = 93.3765 ms
+Job time (m_i=11) = 93.4149 ms
+Job time (m_i=11) = 93.3975 ms
+Job time (m_i=11) = 93.4605 ms
+Job time (m_i=11) = 93.3862 ms
+Job time (m_i=11) = 93.4144 ms
+Job time (m_i=11) = 93.4036 ms
+Job time (m_i=11) = 93.4129 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.41 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4124 ms
+Job time (m_i=11) = 93.4011 ms
+Job time (m_i=11) = 93.4016 ms
+Job time (m_i=11) = 93.4477 ms
+Job time (m_i=11) = 93.3965 ms
+Job time (m_i=11) = 93.4221 ms
+Job time (m_i=11) = 93.4559 ms
+Job time (m_i=11) = 93.4057 ms
+Job time (m_i=11) = 93.3944 ms
+Job time (m_i=11) = 93.4257 ms
+Job time (m_i=11) = 93.3908 ms
+Job time (m_i=11) = 93.4026 ms
+Job time (m_i=11) = 93.3443 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4077 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3504 ms
+Job time (m_i=11) = 93.4856 ms
+Job time (m_i=11) = 93.4374 ms
+Job time (m_i=11) = 93.4113 ms
+Job time (m_i=11) = 93.4461 ms
+Job time (m_i=11) = 93.3796 ms
+Job time (m_i=11) = 93.4226 ms
+Job time (m_i=11) = 93.3924 ms
+Job time (m_i=11) = 93.3873 ms
+Job time (m_i=11) = 93.3965 ms
+Job time (m_i=11) = 93.419 ms
+Job time (m_i=11) = 93.4318 ms
+Job time (m_i=11) = 93.3765 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4105 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3965 ms
+Job time (m_i=11) = 93.3709 ms
+Job time (m_i=11) = 93.3499 ms
+Job time (m_i=11) = 93.4149 ms
+Job time (m_i=11) = 93.3934 ms
+Job time (m_i=11) = 93.3924 ms
+Job time (m_i=11) = 93.3975 ms
+Job time (m_i=11) = 93.3791 ms
+Job time (m_i=11) = 93.3781 ms
+Job time (m_i=11) = 93.4359 ms
+Job time (m_i=11) = 93.4144 ms
+Job time (m_i=11) = 93.4282 ms
+Job time (m_i=11) = 93.3632 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.3934 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4042 ms
+Job time (m_i=11) = 93.3873 ms
+Job time (m_i=11) = 93.3827 ms
+Job time (m_i=11) = 93.4262 ms
+Job time (m_i=11) = 93.3269 ms
+Job time (m_i=11) = 93.3484 ms
+Job time (m_i=11) = 93.4123 ms
+Job time (m_i=11) = 93.3975 ms
+Job time (m_i=11) = 93.3862 ms
+Job time (m_i=11) = 93.4129 ms
+Job time (m_i=11) = 93.4318 ms
+Job time (m_i=11) = 93.4154 ms
+Job time (m_i=11) = 93.419 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.3962 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4011 ms
+Job time (m_i=11) = 93.3857 ms
+Job time (m_i=11) = 93.4098 ms
+Job time (m_i=11) = 93.3955 ms
+Job time (m_i=11) = 93.4528 ms
+Job time (m_i=11) = 93.3862 ms
+Job time (m_i=11) = 93.3745 ms
+Job time (m_i=11) = 93.4042 ms
+Job time (m_i=11) = 93.398 ms
+Job time (m_i=11) = 93.4298 ms
+Job time (m_i=11) = 93.375 ms
+Job time (m_i=11) = 93.3985 ms
+Job time (m_i=11) = 93.4482 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4046 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4052 ms
+Job time (m_i=11) = 93.3821 ms
+Job time (m_i=11) = 93.438 ms
+Job time (m_i=11) = 93.4548 ms
+Job time (m_i=11) = 93.374 ms
+Job time (m_i=11) = 93.3914 ms
+Job time (m_i=11) = 93.4364 ms
+Job time (m_i=11) = 93.4011 ms
+Job time (m_i=11) = 93.3601 ms
+Job time (m_i=11) = 93.3581 ms
+Job time (m_i=11) = 93.3709 ms
+Job time (m_i=11) = 93.4508 ms
+Job time (m_i=11) = 93.3954 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4014 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4415 ms
+Job time (m_i=11) = 93.4001 ms
+Job time (m_i=11) = 93.4098 ms
+Job time (m_i=11) = 93.4144 ms
+Job time (m_i=11) = 93.416 ms
+Job time (m_i=11) = 93.3924 ms
+Job time (m_i=11) = 93.4001 ms
+Job time (m_i=11) = 93.4876 ms
+Job time (m_i=11) = 93.4113 ms
+Job time (m_i=11) = 93.3827 ms
+Job time (m_i=11) = 93.3965 ms
+Job time (m_i=11) = 93.3468 ms
+Job time (m_i=11) = 93.4185 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.409 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4533 ms
+Job time (m_i=11) = 93.4195 ms
+Job time (m_i=11) = 93.3929 ms
+Job time (m_i=11) = 93.3914 ms
+Job time (m_i=11) = 93.4047 ms
+Job time (m_i=11) = 93.4088 ms
+Job time (m_i=11) = 93.4205 ms
+Job time (m_i=11) = 93.4067 ms
+Job time (m_i=11) = 93.4026 ms
+Job time (m_i=11) = 93.3842 ms
+Job time (m_i=11) = 93.3893 ms
+Job time (m_i=11) = 93.4057 ms
+Job time (m_i=11) = 93.3862 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4051 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4477 ms
+Job time (m_i=11) = 93.377 ms
+Job time (m_i=11) = 93.3878 ms
+Job time (m_i=11) = 93.4159 ms
+Job time (m_i=11) = 93.4042 ms
+Job time (m_i=11) = 93.4339 ms
+Job time (m_i=11) = 93.418 ms
+Job time (m_i=11) = 93.4098 ms
+Job time (m_i=11) = 93.4077 ms
+Job time (m_i=11) = 93.3852 ms
+Job time (m_i=11) = 93.4374 ms
+Job time (m_i=11) = 93.4277 ms
+Job time (m_i=11) = 93.4205 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4133 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4333 ms
+Job time (m_i=11) = 93.4287 ms
+Job time (m_i=11) = 93.3919 ms
+Job time (m_i=11) = 93.3888 ms
+Job time (m_i=11) = 93.3893 ms
+Job time (m_i=11) = 93.4559 ms
+Job time (m_i=11) = 93.3637 ms
+Job time (m_i=11) = 93.3678 ms
+Job time (m_i=11) = 93.4129 ms
+Job time (m_i=11) = 93.4093 ms
+Job time (m_i=11) = 93.4037 ms
+Job time (m_i=11) = 93.3673 ms
+Job time (m_i=11) = 93.3673 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.3984 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4251 ms
+Job time (m_i=11) = 93.4272 ms
+Job time (m_i=11) = 93.4154 ms
+Job time (m_i=11) = 93.3934 ms
+Job time (m_i=11) = 93.4021 ms
+Job time (m_i=11) = 93.4159 ms
+Job time (m_i=11) = 93.3647 ms
+Job time (m_i=11) = 93.4042 ms
+Job time (m_i=11) = 93.4103 ms
+Job time (m_i=11) = 93.4293 ms
+Job time (m_i=11) = 93.4431 ms
+Job time (m_i=11) = 93.4549 ms
+Job time (m_i=11) = 93.4431 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4176 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4502 ms
+Job time (m_i=11) = 93.438 ms
+Job time (m_i=11) = 93.441 ms
+Job time (m_i=11) = 93.4333 ms
+Job time (m_i=11) = 93.4359 ms
+Job time (m_i=11) = 93.4456 ms
+Job time (m_i=11) = 93.4794 ms
+Job time (m_i=11) = 93.4339 ms
+Job time (m_i=11) = 93.3909 ms
+Job time (m_i=11) = 93.4098 ms
+Job time (m_i=11) = 93.4328 ms
+Job time (m_i=11) = 93.4293 ms
+Job time (m_i=11) = 93.4492 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4361 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4508 ms
+Job time (m_i=11) = 93.399 ms
+Job time (m_i=11) = 93.4134 ms
+Job time (m_i=11) = 93.4692 ms
+Job time (m_i=11) = 93.4057 ms
+Job time (m_i=11) = 93.4548 ms
+Job time (m_i=11) = 93.4758 ms
+Job time (m_i=11) = 93.4159 ms
+Job time (m_i=11) = 93.4462 ms
+Job time (m_i=11) = 93.4303 ms
+Job time (m_i=11) = 93.4794 ms
+Job time (m_i=11) = 93.4165 ms
+Job time (m_i=11) = 93.3857 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4341 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4666 ms
+Job time (m_i=11) = 93.484 ms
+Job time (m_i=11) = 93.4907 ms
+Job time (m_i=11) = 93.526 ms
+Job time (m_i=11) = 93.4369 ms
+Job time (m_i=11) = 93.4231 ms
+Job time (m_i=11) = 93.4272 ms
+Job time (m_i=11) = 93.4226 ms
+Job time (m_i=11) = 93.4154 ms
+Job time (m_i=11) = 93.4487 ms
+Job time (m_i=11) = 93.4436 ms
+Job time (m_i=11) = 93.4339 ms
+Job time (m_i=11) = 93.4431 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4509 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4124 ms
+Job time (m_i=11) = 93.399 ms
+Job time (m_i=11) = 93.4349 ms
+Job time (m_i=11) = 93.4103 ms
+Job time (m_i=11) = 93.4103 ms
+Job time (m_i=11) = 93.4349 ms
+Job time (m_i=11) = 93.4369 ms
+Job time (m_i=11) = 93.4323 ms
+Job time (m_i=11) = 93.3724 ms
+Job time (m_i=11) = 93.419 ms
+Job time (m_i=11) = 93.4472 ms
+Job time (m_i=11) = 93.4631 ms
+Job time (m_i=11) = 93.4441 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4244 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4712 ms
+Job time (m_i=11) = 93.4594 ms
+Job time (m_i=11) = 93.4159 ms
+Job time (m_i=11) = 93.4154 ms
+Job time (m_i=11) = 93.4369 ms
+Job time (m_i=11) = 93.4308 ms
+Job time (m_i=11) = 93.4113 ms
+Job time (m_i=11) = 93.4579 ms
+Job time (m_i=11) = 93.4451 ms
+Job time (m_i=11) = 93.4134 ms
+Job time (m_i=11) = 93.438 ms
+Job time (m_i=11) = 93.4482 ms
+Job time (m_i=11) = 93.4175 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4355 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4103 ms
+Job time (m_i=11) = 93.4559 ms
+Job time (m_i=11) = 93.3944 ms
+Job time (m_i=11) = 93.4308 ms
+Job time (m_i=11) = 93.4467 ms
+Job time (m_i=11) = 93.3576 ms
+Job time (m_i=11) = 93.4098 ms
+Job time (m_i=11) = 93.4753 ms
+Job time (m_i=11) = 93.42 ms
+Job time (m_i=11) = 93.4359 ms
+Job time (m_i=11) = 93.44 ms
+Job time (m_i=11) = 93.4451 ms
+Job time (m_i=11) = 93.4241 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4266 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.438 ms
+Job time (m_i=11) = 93.4211 ms
+Job time (m_i=11) = 93.4584 ms
+Job time (m_i=11) = 93.4257 ms
+Job time (m_i=11) = 93.4856 ms
+Job time (m_i=11) = 93.4205 ms
+Job time (m_i=11) = 93.4006 ms
+Job time (m_i=11) = 93.4487 ms
+Job time (m_i=11) = 93.3908 ms
+Job time (m_i=11) = 93.3601 ms
+Job time (m_i=11) = 93.4626 ms
+Job time (m_i=11) = 93.3949 ms
+Job time (m_i=11) = 93.4467 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4272 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3862 ms
+Job time (m_i=11) = 93.4241 ms
+Job time (m_i=11) = 93.4113 ms
+Job time (m_i=11) = 93.4057 ms
+Job time (m_i=11) = 93.4794 ms
+Job time (m_i=11) = 93.4339 ms
+Job time (m_i=11) = 93.4717 ms
+Job time (m_i=11) = 93.4661 ms
+Job time (m_i=11) = 93.4385 ms
+Job time (m_i=11) = 93.4277 ms
+Job time (m_i=11) = 93.4784 ms
+Job time (m_i=11) = 93.3801 ms
+Job time (m_i=11) = 93.4323 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4335 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4246 ms
+Job time (m_i=11) = 93.4728 ms
+Job time (m_i=11) = 93.4548 ms
+Job time (m_i=11) = 93.4298 ms
+Job time (m_i=11) = 93.398 ms
+Job time (m_i=11) = 93.417 ms
+Job time (m_i=11) = 93.4467 ms
+Job time (m_i=11) = 93.4354 ms
+Job time (m_i=11) = 93.4656 ms
+Job time (m_i=11) = 93.4195 ms
+Job time (m_i=11) = 93.3596 ms
+Job time (m_i=11) = 93.4861 ms
+Job time (m_i=11) = 93.4226 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4333 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3944 ms
+Job time (m_i=11) = 93.3934 ms
+Job time (m_i=11) = 93.3975 ms
+Job time (m_i=11) = 93.3996 ms
+Job time (m_i=11) = 93.4308 ms
+Job time (m_i=11) = 93.4508 ms
+Job time (m_i=11) = 93.4323 ms
+Job time (m_i=11) = 93.4031 ms
+Job time (m_i=11) = 93.4159 ms
+Job time (m_i=11) = 93.396 ms
+Job time (m_i=11) = 93.399 ms
+Job time (m_i=11) = 93.3985 ms
+Job time (m_i=11) = 93.4339 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4112 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4257 ms
+Job time (m_i=11) = 93.4426 ms
+Job time (m_i=11) = 93.3739 ms
+Job time (m_i=11) = 93.4426 ms
+Job time (m_i=11) = 93.4144 ms
+Job time (m_i=11) = 93.4564 ms
+Job time (m_i=11) = 93.4574 ms
+Job time (m_i=11) = 93.418 ms
+Job time (m_i=11) = 93.4395 ms
+Job time (m_i=11) = 93.439 ms
+Job time (m_i=11) = 93.4769 ms
+Job time (m_i=11) = 93.4625 ms
+Job time (m_i=11) = 93.4303 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4369 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4129 ms
+Job time (m_i=11) = 93.4543 ms
+Job time (m_i=11) = 93.4149 ms
+Job time (m_i=11) = 93.3914 ms
+Job time (m_i=11) = 93.4282 ms
+Job time (m_i=11) = 93.354 ms
+Job time (m_i=11) = 93.3888 ms
+Job time (m_i=11) = 93.4426 ms
+Job time (m_i=11) = 93.4262 ms
+Job time (m_i=11) = 93.4364 ms
+Job time (m_i=11) = 93.4175 ms
+Job time (m_i=11) = 93.4846 ms
+Job time (m_i=11) = 93.4241 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4212 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4282 ms
+Job time (m_i=11) = 93.4236 ms
+Job time (m_i=11) = 93.4303 ms
+Job time (m_i=11) = 93.4262 ms
+Job time (m_i=11) = 93.4364 ms
+Job time (m_i=11) = 93.4528 ms
+Job time (m_i=11) = 93.4574 ms
+Job time (m_i=11) = 93.4461 ms
+Job time (m_i=11) = 93.398 ms
+Job time (m_i=11) = 93.4067 ms
+Job time (m_i=11) = 93.4257 ms
+Job time (m_i=11) = 93.4287 ms
+Job time (m_i=11) = 93.4124 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4287 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4487 ms
+Job time (m_i=11) = 93.3857 ms
+Job time (m_i=11) = 93.3934 ms
+Job time (m_i=11) = 93.418 ms
+Job time (m_i=11) = 93.4169 ms
+Job time (m_i=11) = 93.4077 ms
+Job time (m_i=11) = 93.4328 ms
+Job time (m_i=11) = 93.4477 ms
+Job time (m_i=11) = 93.4098 ms
+Job time (m_i=11) = 93.504 ms
+Job time (m_i=11) = 93.3791 ms
+Job time (m_i=11) = 93.4236 ms
+Job time (m_i=11) = 93.4149 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4217 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4451 ms
+Job time (m_i=11) = 93.4569 ms
+Job time (m_i=11) = 93.4001 ms
+Job time (m_i=11) = 93.4579 ms
+Job time (m_i=11) = 93.463 ms
+Job time (m_i=11) = 93.419 ms
+Job time (m_i=11) = 93.4528 ms
+Job time (m_i=11) = 93.4165 ms
+Job time (m_i=11) = 93.4206 ms
+Job time (m_i=11) = 93.4011 ms
+Job time (m_i=11) = 93.4369 ms
+Job time (m_i=11) = 93.4569 ms
+Job time (m_i=11) = 93.4149 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.434 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3622 ms
+Job time (m_i=11) = 93.3888 ms
+Job time (m_i=11) = 93.4364 ms
+Job time (m_i=11) = 93.4236 ms
+Job time (m_i=11) = 93.4559 ms
+Job time (m_i=11) = 93.4236 ms
+Job time (m_i=11) = 93.4308 ms
+Job time (m_i=11) = 93.4461 ms
+Job time (m_i=11) = 93.4446 ms
+Job time (m_i=11) = 93.4103 ms
+Job time (m_i=11) = 93.4001 ms
+Job time (m_i=11) = 93.4247 ms
+Job time (m_i=11) = 93.4456 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4225 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4052 ms
+Job time (m_i=11) = 93.4605 ms
+Job time (m_i=11) = 93.44 ms
+Job time (m_i=11) = 93.3765 ms
+Job time (m_i=11) = 93.4385 ms
+Job time (m_i=11) = 93.4308 ms
+Job time (m_i=11) = 93.4446 ms
+Job time (m_i=11) = 93.4328 ms
+Job time (m_i=11) = 93.4682 ms
+Job time (m_i=11) = 93.4042 ms
+Job time (m_i=11) = 93.3965 ms
+Job time (m_i=11) = 93.4385 ms
+Job time (m_i=11) = 93.3704 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4236 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4252 ms
+Job time (m_i=11) = 93.4185 ms
+Job time (m_i=11) = 93.3791 ms
+Job time (m_i=11) = 93.4298 ms
+Job time (m_i=11) = 93.4001 ms
+Job time (m_i=11) = 93.4052 ms
+Job time (m_i=11) = 93.3591 ms
+Job time (m_i=11) = 93.4405 ms
+Job time (m_i=11) = 93.4144 ms
+Job time (m_i=11) = 93.4492 ms
+Job time (m_i=11) = 93.3975 ms
+Job time (m_i=11) = 93.4584 ms
+Job time (m_i=11) = 93.4548 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4178 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4349 ms
+Job time (m_i=11) = 93.3934 ms
+Job time (m_i=11) = 93.4006 ms
+Job time (m_i=11) = 93.4436 ms
+Job time (m_i=11) = 93.4313 ms
+Job time (m_i=11) = 93.3949 ms
+Job time (m_i=11) = 93.42 ms
+Job time (m_i=11) = 93.3914 ms
+Job time (m_i=11) = 93.3642 ms
+Job time (m_i=11) = 93.4257 ms
+Job time (m_i=11) = 93.4118 ms
+Job time (m_i=11) = 93.4257 ms
+Job time (m_i=11) = 93.398 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4104 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4339 ms
+Job time (m_i=11) = 93.438 ms
+Job time (m_i=11) = 93.3796 ms
+Job time (m_i=11) = 93.3781 ms
+Job time (m_i=11) = 93.4426 ms
+Job time (m_i=11) = 93.4595 ms
+Job time (m_i=11) = 93.3888 ms
+Job time (m_i=11) = 93.4139 ms
+Job time (m_i=11) = 93.4446 ms
+Job time (m_i=11) = 93.4067 ms
+Job time (m_i=11) = 93.4231 ms
+Job time (m_i=11) = 93.4052 ms
+Job time (m_i=11) = 93.4374 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4193 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.417 ms
+Job time (m_i=11) = 93.4543 ms
+Job time (m_i=11) = 93.4467 ms
+Job time (m_i=11) = 93.4252 ms
+Job time (m_i=11) = 93.4216 ms
+Job time (m_i=11) = 93.417 ms
+Job time (m_i=11) = 93.4953 ms
+Job time (m_i=11) = 93.4431 ms
+Job time (m_i=11) = 93.399 ms
+Job time (m_i=11) = 93.4144 ms
+Job time (m_i=11) = 93.4011 ms
+Job time (m_i=11) = 93.4441 ms
+Job time (m_i=11) = 93.3893 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4283 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3642 ms
+Job time (m_i=11) = 93.4308 ms
+Job time (m_i=11) = 93.4236 ms
+Job time (m_i=11) = 93.3924 ms
+Job time (m_i=11) = 93.4395 ms
+Job time (m_i=11) = 93.4579 ms
+Job time (m_i=11) = 93.4021 ms
+Job time (m_i=11) = 93.3996 ms
+Job time (m_i=11) = 93.4328 ms
+Job time (m_i=11) = 93.3796 ms
+Job time (m_i=11) = 93.4303 ms
+Job time (m_i=11) = 93.4185 ms
+Job time (m_i=11) = 93.4451 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4166 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4569 ms
+Job time (m_i=11) = 93.3903 ms
+Job time (m_i=11) = 93.4712 ms
+Job time (m_i=11) = 93.4385 ms
+Job time (m_i=11) = 93.4564 ms
+Job time (m_i=11) = 93.4293 ms
+Job time (m_i=11) = 93.4124 ms
+Job time (m_i=11) = 93.4257 ms
+Job time (m_i=11) = 93.439 ms
+Job time (m_i=11) = 93.4426 ms
+Job time (m_i=11) = 93.4241 ms
+Job time (m_i=11) = 93.4487 ms
+Job time (m_i=11) = 93.4231 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4352 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4359 ms
+Job time (m_i=11) = 93.4354 ms
+Job time (m_i=11) = 93.442 ms
+Job time (m_i=11) = 93.4482 ms
+Job time (m_i=11) = 93.4195 ms
+Job time (m_i=11) = 93.3622 ms
+Job time (m_i=11) = 93.4282 ms
+Job time (m_i=11) = 93.4318 ms
+Job time (m_i=11) = 93.3873 ms
+Job time (m_i=11) = 93.4159 ms
+Job time (m_i=11) = 93.4267 ms
+Job time (m_i=11) = 93.4328 ms
+Job time (m_i=11) = 93.4369 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4233 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3924 ms
+Job time (m_i=11) = 93.4492 ms
+Job time (m_i=11) = 93.417 ms
+Job time (m_i=11) = 93.4768 ms
+Job time (m_i=11) = 93.4462 ms
+Job time (m_i=11) = 93.4241 ms
+Job time (m_i=11) = 93.4538 ms
+Job time (m_i=11) = 93.3524 ms
+Job time (m_i=11) = 93.4129 ms
+Job time (m_i=11) = 93.4461 ms
+Job time (m_i=11) = 93.4226 ms
+Job time (m_i=11) = 93.4702 ms
+Job time (m_i=11) = 93.4569 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4324 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4103 ms
+Job time (m_i=11) = 93.4287 ms
+Job time (m_i=11) = 93.4405 ms
+Job time (m_i=11) = 93.4129 ms
+Job time (m_i=11) = 93.4513 ms
+Job time (m_i=11) = 93.4211 ms
+Job time (m_i=11) = 93.4574 ms
+Job time (m_i=11) = 93.4287 ms
+Job time (m_i=11) = 93.4047 ms
+Job time (m_i=11) = 93.4313 ms
+Job time (m_i=11) = 93.437 ms
+Job time (m_i=11) = 93.4477 ms
+Job time (m_i=11) = 93.3719 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4264 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4569 ms
+Job time (m_i=11) = 93.4282 ms
+Job time (m_i=11) = 93.4446 ms
+Job time (m_i=11) = 93.46 ms
+Job time (m_i=11) = 93.4001 ms
+Job time (m_i=11) = 93.4431 ms
+Job time (m_i=11) = 93.4052 ms
+Job time (m_i=11) = 93.4374 ms
+Job time (m_i=11) = 93.4938 ms
+Job time (m_i=11) = 93.4661 ms
+Job time (m_i=11) = 93.4165 ms
+Job time (m_i=11) = 93.4236 ms
+Job time (m_i=11) = 93.3821 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4352 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3637 ms
+Job time (m_i=11) = 93.4733 ms
+Job time (m_i=11) = 93.4605 ms
+Job time (m_i=11) = 93.4272 ms
+Job time (m_i=11) = 93.4123 ms
+Job time (m_i=11) = 93.4211 ms
+Job time (m_i=11) = 93.4072 ms
+Job time (m_i=11) = 93.438 ms
+Job time (m_i=11) = 93.4405 ms
+Job time (m_i=11) = 93.4369 ms
+Job time (m_i=11) = 93.4646 ms
+Job time (m_i=11) = 93.4236 ms
+Job time (m_i=11) = 93.4093 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4291 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.416 ms
+Job time (m_i=11) = 93.4036 ms
+Job time (m_i=11) = 93.3821 ms
+Job time (m_i=11) = 93.4047 ms
+Job time (m_i=11) = 93.3601 ms
+Job time (m_i=11) = 93.3944 ms
+Job time (m_i=11) = 93.4631 ms
+Job time (m_i=11) = 93.4482 ms
+Job time (m_i=11) = 93.4185 ms
+Job time (m_i=11) = 93.4528 ms
+Job time (m_i=11) = 93.3908 ms
+Job time (m_i=11) = 93.4298 ms
+Job time (m_i=11) = 93.4385 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4156 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4072 ms
+Job time (m_i=11) = 93.4487 ms
+Job time (m_i=11) = 93.4461 ms
+Job time (m_i=11) = 93.4164 ms
+Job time (m_i=11) = 93.3832 ms
+Job time (m_i=11) = 93.3223 ms
+Job time (m_i=11) = 93.4461 ms
+Job time (m_i=11) = 93.4487 ms
+Job time (m_i=11) = 93.4323 ms
+Job time (m_i=11) = 93.4569 ms
+Job time (m_i=11) = 93.4205 ms
+Job time (m_i=11) = 93.4564 ms
+Job time (m_i=11) = 93.441 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4251 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3955 ms
+Job time (m_i=11) = 93.4636 ms
+Job time (m_i=11) = 93.4154 ms
+Job time (m_i=11) = 93.4349 ms
+Job time (m_i=11) = 93.4267 ms
+Job time (m_i=11) = 93.4287 ms
+Job time (m_i=11) = 93.4103 ms
+Job time (m_i=11) = 93.3591 ms
+Job time (m_i=11) = 93.4472 ms
+Job time (m_i=11) = 93.4764 ms
+Job time (m_i=11) = 93.4287 ms
+Job time (m_i=11) = 93.4241 ms
+Job time (m_i=11) = 93.4206 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4255 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4395 ms
+Job time (m_i=11) = 93.4077 ms
+Job time (m_i=11) = 93.4682 ms
+Job time (m_i=11) = 93.3995 ms
+Job time (m_i=11) = 93.4584 ms
+Job time (m_i=11) = 93.4067 ms
+Job time (m_i=11) = 93.4507 ms
+Job time (m_i=11) = 93.4185 ms
+Job time (m_i=11) = 93.438 ms
+Job time (m_i=11) = 93.3893 ms
+Job time (m_i=11) = 93.4267 ms
+Job time (m_i=11) = 93.4124 ms
+Job time (m_i=11) = 93.462 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.429 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4185 ms
+Job time (m_i=11) = 93.504 ms
+Job time (m_i=11) = 93.4103 ms
+Job time (m_i=11) = 93.4354 ms
+Job time (m_i=11) = 93.3929 ms
+Job time (m_i=11) = 93.4339 ms
+Job time (m_i=11) = 93.4144 ms
+Job time (m_i=11) = 93.4431 ms
+Job time (m_i=11) = 93.396 ms
+Job time (m_i=11) = 93.4205 ms
+Job time (m_i=11) = 93.4538 ms
+Job time (m_i=11) = 93.3847 ms
+Job time (m_i=11) = 93.3842 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4224 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4712 ms
+Job time (m_i=11) = 93.4738 ms
+Job time (m_i=11) = 93.4497 ms
+Job time (m_i=11) = 93.419 ms
+Job time (m_i=11) = 93.4298 ms
+Job time (m_i=11) = 93.4113 ms
+Job time (m_i=11) = 93.4472 ms
+Job time (m_i=11) = 93.4165 ms
+Job time (m_i=11) = 93.4528 ms
+Job time (m_i=11) = 93.4154 ms
+Job time (m_i=11) = 93.3965 ms
+Job time (m_i=11) = 93.4246 ms
+Job time (m_i=11) = 93.4364 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4342 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4211 ms
+Job time (m_i=11) = 93.3898 ms
+Job time (m_i=11) = 93.3929 ms
+Job time (m_i=11) = 93.418 ms
+Job time (m_i=11) = 93.4262 ms
+Job time (m_i=11) = 93.4979 ms
+Job time (m_i=11) = 93.4129 ms
+Job time (m_i=11) = 93.4656 ms
+Job time (m_i=11) = 93.4318 ms
+Job time (m_i=11) = 93.4323 ms
+Job time (m_i=11) = 93.4605 ms
+Job time (m_i=11) = 93.3704 ms
+Job time (m_i=11) = 93.4241 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4264 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4625 ms
+Job time (m_i=11) = 93.438 ms
+Job time (m_i=11) = 93.4559 ms
+Job time (m_i=11) = 93.3596 ms
+Job time (m_i=11) = 93.3832 ms
+Job time (m_i=11) = 93.4165 ms
+Job time (m_i=11) = 93.4303 ms
+Job time (m_i=11) = 93.4165 ms
+Job time (m_i=11) = 93.4231 ms
+Job time (m_i=11) = 93.4113 ms
+Job time (m_i=11) = 93.3862 ms
+Job time (m_i=11) = 93.442 ms
+Job time (m_i=11) = 93.4564 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4216 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4272 ms
+Job time (m_i=11) = 93.3862 ms
+Job time (m_i=11) = 93.4108 ms
+Job time (m_i=11) = 93.4835 ms
+Job time (m_i=11) = 93.4164 ms
+Job time (m_i=11) = 93.3944 ms
+Job time (m_i=11) = 93.4103 ms
+Job time (m_i=11) = 93.4416 ms
+Job time (m_i=11) = 93.377 ms
+Job time (m_i=11) = 93.4886 ms
+Job time (m_i=11) = 93.4441 ms
+Job time (m_i=11) = 93.4328 ms
+Job time (m_i=11) = 93.4405 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4272 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4072 ms
+Job time (m_i=11) = 93.4379 ms
+Job time (m_i=11) = 93.4216 ms
+Job time (m_i=11) = 93.4047 ms
+Job time (m_i=11) = 93.42 ms
+Job time (m_i=11) = 93.4006 ms
+Job time (m_i=11) = 93.419 ms
+Job time (m_i=11) = 93.418 ms
+Job time (m_i=11) = 93.3903 ms
+Job time (m_i=11) = 93.3868 ms
+Job time (m_i=11) = 93.4676 ms
+Job time (m_i=11) = 93.399 ms
+Job time (m_i=11) = 93.4252 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4152 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4052 ms
+Job time (m_i=11) = 93.419 ms
+Job time (m_i=11) = 93.395 ms
+Job time (m_i=11) = 93.3995 ms
+Job time (m_i=11) = 93.4379 ms
+Job time (m_i=11) = 93.4641 ms
+Job time (m_i=11) = 93.4159 ms
+Job time (m_i=11) = 93.4513 ms
+Job time (m_i=11) = 93.4303 ms
+Job time (m_i=11) = 93.4298 ms
+Job time (m_i=11) = 93.4518 ms
+Job time (m_i=11) = 93.3914 ms
+Job time (m_i=11) = 93.3719 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4202 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4349 ms
+Job time (m_i=11) = 93.4308 ms
+Job time (m_i=11) = 93.4252 ms
+Job time (m_i=11) = 93.4395 ms
+Job time (m_i=11) = 93.4656 ms
+Job time (m_i=11) = 93.3893 ms
+Job time (m_i=11) = 93.3985 ms
+Job time (m_i=11) = 93.4206 ms
+Job time (m_i=11) = 93.4431 ms
+Job time (m_i=11) = 93.4036 ms
+Job time (m_i=11) = 93.4129 ms
+Job time (m_i=11) = 93.4451 ms
+Job time (m_i=11) = 93.4226 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4255 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4405 ms
+Job time (m_i=11) = 93.3709 ms
+Job time (m_i=11) = 93.4507 ms
+Job time (m_i=11) = 93.3658 ms
+Job time (m_i=11) = 93.4416 ms
+Job time (m_i=11) = 93.4195 ms
+Job time (m_i=11) = 93.4349 ms
+Job time (m_i=11) = 93.3857 ms
+Job time (m_i=11) = 93.3893 ms
+Job time (m_i=11) = 93.3868 ms
+Job time (m_i=11) = 93.4267 ms
+Job time (m_i=11) = 93.4354 ms
+Job time (m_i=11) = 93.4241 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4132 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4666 ms
+Job time (m_i=11) = 93.4282 ms
+Job time (m_i=11) = 93.3565 ms
+Job time (m_i=11) = 93.3913 ms
+Job time (m_i=11) = 93.3248 ms
+Job time (m_i=11) = 93.459 ms
+Job time (m_i=11) = 93.439 ms
+Job time (m_i=11) = 93.4267 ms
+Job time (m_i=11) = 93.4088 ms
+Job time (m_i=11) = 93.4415 ms
+Job time (m_i=11) = 93.3919 ms
+Job time (m_i=11) = 93.4692 ms
+Job time (m_i=11) = 93.4553 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4199 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4456 ms
+Job time (m_i=11) = 93.4738 ms
+Job time (m_i=11) = 93.4287 ms
+Job time (m_i=11) = 93.4287 ms
+Job time (m_i=11) = 93.4072 ms
+Job time (m_i=11) = 93.419 ms
+Job time (m_i=11) = 93.4108 ms
+Job time (m_i=11) = 93.4405 ms
+Job time (m_i=11) = 93.4615 ms
+Job time (m_i=11) = 93.4272 ms
+Job time (m_i=11) = 93.4318 ms
+Job time (m_i=11) = 93.4569 ms
+Job time (m_i=11) = 93.4308 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4356 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4185 ms
+Job time (m_i=11) = 93.4702 ms
+Job time (m_i=11) = 93.4497 ms
+Job time (m_i=11) = 93.4231 ms
+Job time (m_i=11) = 93.4538 ms
+Job time (m_i=11) = 93.4881 ms
+Job time (m_i=11) = 93.4221 ms
+Job time (m_i=11) = 93.4072 ms
+Job time (m_i=11) = 93.3975 ms
+Job time (m_i=11) = 93.3729 ms
+Job time (m_i=11) = 93.4579 ms
+Job time (m_i=11) = 93.4451 ms
+Job time (m_i=11) = 93.4277 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4334 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4564 ms
+Job time (m_i=11) = 93.4297 ms
+Job time (m_i=11) = 93.4513 ms
+Job time (m_i=11) = 93.44 ms
+Job time (m_i=11) = 93.4257 ms
+Job time (m_i=11) = 93.4354 ms
+Job time (m_i=11) = 93.4431 ms
+Job time (m_i=11) = 93.4548 ms
+Job time (m_i=11) = 93.4513 ms
+Job time (m_i=11) = 93.4769 ms
+Job time (m_i=11) = 93.4805 ms
+Job time (m_i=11) = 93.3898 ms
+Job time (m_i=11) = 93.463 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.446 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4677 ms
+Job time (m_i=11) = 93.4953 ms
+Job time (m_i=11) = 93.4825 ms
+Job time (m_i=11) = 93.483 ms
+Job time (m_i=11) = 93.5009 ms
+Job time (m_i=11) = 93.4523 ms
+Job time (m_i=11) = 93.4589 ms
+Job time (m_i=11) = 93.439 ms
+Job time (m_i=11) = 93.417 ms
+Job time (m_i=11) = 93.4871 ms
+Job time (m_i=11) = 93.484 ms
+Job time (m_i=11) = 93.4241 ms
+Job time (m_i=11) = 93.4241 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4628 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.397 ms
+Job time (m_i=11) = 93.4815 ms
+Job time (m_i=11) = 93.462 ms
+Job time (m_i=11) = 93.4625 ms
+Job time (m_i=11) = 93.4513 ms
+Job time (m_i=11) = 93.4175 ms
+Job time (m_i=11) = 93.4861 ms
+Job time (m_i=11) = 93.4318 ms
+Job time (m_i=11) = 93.4385 ms
+Job time (m_i=11) = 93.4472 ms
+Job time (m_i=11) = 93.4287 ms
+Job time (m_i=11) = 93.482 ms
+Job time (m_i=11) = 93.4728 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4507 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4385 ms
+Job time (m_i=11) = 93.4328 ms
+Job time (m_i=11) = 93.4216 ms
+Job time (m_i=11) = 93.4108 ms
+Job time (m_i=11) = 93.505 ms
+Job time (m_i=11) = 93.4584 ms
+Job time (m_i=11) = 93.459 ms
+Job time (m_i=11) = 93.4077 ms
+Job time (m_i=11) = 93.4554 ms
+Job time (m_i=11) = 93.44 ms
+Job time (m_i=11) = 93.442 ms
+Job time (m_i=11) = 93.4978 ms
+Job time (m_i=11) = 93.419 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4452 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4118 ms
+Job time (m_i=11) = 93.4548 ms
+Job time (m_i=11) = 93.4651 ms
+Job time (m_i=11) = 93.4395 ms
+Job time (m_i=11) = 93.4318 ms
+Job time (m_i=11) = 93.4369 ms
+Job time (m_i=11) = 93.4236 ms
+Job time (m_i=11) = 93.4211 ms
+Job time (m_i=11) = 93.4487 ms
+Job time (m_i=11) = 93.4477 ms
+Job time (m_i=11) = 93.4912 ms
+Job time (m_i=11) = 93.4405 ms
+Job time (m_i=11) = 93.4584 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4439 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4661 ms
+Job time (m_i=11) = 93.4042 ms
+Job time (m_i=11) = 93.4677 ms
+Job time (m_i=11) = 93.4538 ms
+Job time (m_i=11) = 93.4457 ms
+Job time (m_i=11) = 93.4641 ms
+Job time (m_i=11) = 93.4446 ms
+Job time (m_i=11) = 93.4594 ms
+Job time (m_i=11) = 93.4001 ms
+Job time (m_i=11) = 93.438 ms
+Job time (m_i=11) = 93.4333 ms
+Job time (m_i=11) = 93.4518 ms
+Job time (m_i=11) = 93.4738 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4463 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4129 ms
+Job time (m_i=11) = 93.4369 ms
+Job time (m_i=11) = 93.4543 ms
+Job time (m_i=11) = 93.4666 ms
+Job time (m_i=11) = 93.4282 ms
+Job time (m_i=11) = 93.4569 ms
+Job time (m_i=11) = 93.481 ms
+Job time (m_i=11) = 93.4687 ms
+Job time (m_i=11) = 93.503 ms
+Job time (m_i=11) = 93.4774 ms
+Job time (m_i=11) = 93.377 ms
+Job time (m_i=11) = 93.4369 ms
+Job time (m_i=11) = 93.4502 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.45 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.5091 ms
+Job time (m_i=11) = 93.4497 ms
+Job time (m_i=11) = 93.4513 ms
+Job time (m_i=11) = 93.4359 ms
+Job time (m_i=11) = 93.4635 ms
+Job time (m_i=11) = 93.4646 ms
+Job time (m_i=11) = 93.4395 ms
+Job time (m_i=11) = 93.4267 ms
+Job time (m_i=11) = 93.4523 ms
+Job time (m_i=11) = 93.4815 ms
+Job time (m_i=11) = 93.4072 ms
+Job time (m_i=11) = 93.4702 ms
+Job time (m_i=11) = 93.4538 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4543 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4052 ms
+Job time (m_i=11) = 93.4656 ms
+Job time (m_i=11) = 93.504 ms
+Job time (m_i=11) = 93.4671 ms
+Job time (m_i=11) = 93.4702 ms
+Job time (m_i=11) = 93.4482 ms
+Job time (m_i=11) = 93.4472 ms
+Job time (m_i=11) = 93.4856 ms
+Job time (m_i=11) = 93.4216 ms
+Job time (m_i=11) = 93.4006 ms
+Job time (m_i=11) = 93.4354 ms
+Job time (m_i=11) = 93.482 ms
+Job time (m_i=11) = 93.4779 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4547 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.442 ms
+Job time (m_i=11) = 93.441 ms
+Job time (m_i=11) = 93.4287 ms
+Job time (m_i=11) = 93.4543 ms
+Job time (m_i=11) = 93.4354 ms
+Job time (m_i=11) = 93.4559 ms
+Job time (m_i=11) = 93.4707 ms
+Job time (m_i=11) = 93.4625 ms
+Job time (m_i=11) = 93.4466 ms
+Job time (m_i=11) = 93.483 ms
+Job time (m_i=11) = 93.4323 ms
+Job time (m_i=11) = 93.4528 ms
+Job time (m_i=11) = 93.4974 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4541 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4661 ms
+Job time (m_i=11) = 93.484 ms
+Job time (m_i=11) = 93.4594 ms
+Job time (m_i=11) = 93.463 ms
+Job time (m_i=11) = 93.4533 ms
+Job time (m_i=11) = 93.4154 ms
+Job time (m_i=11) = 93.4533 ms
+Job time (m_i=11) = 93.4697 ms
+Job time (m_i=11) = 93.461 ms
+Job time (m_i=11) = 93.4277 ms
+Job time (m_i=11) = 93.4487 ms
+Job time (m_i=11) = 93.4272 ms
+Job time (m_i=11) = 93.4523 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4524 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4635 ms
+Job time (m_i=11) = 93.4651 ms
+Job time (m_i=11) = 93.4282 ms
+Job time (m_i=11) = 93.4804 ms
+Job time (m_i=11) = 93.4487 ms
+Job time (m_i=11) = 93.459 ms
+Job time (m_i=11) = 93.4328 ms
+Job time (m_i=11) = 93.4308 ms
+Job time (m_i=11) = 93.399 ms
+Job time (m_i=11) = 93.4646 ms
+Job time (m_i=11) = 93.4006 ms
+Job time (m_i=11) = 93.4641 ms
+Job time (m_i=11) = 93.4257 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4433 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4666 ms
+Job time (m_i=11) = 93.4436 ms
+Job time (m_i=11) = 93.4559 ms
+Job time (m_i=11) = 93.4687 ms
+Job time (m_i=11) = 93.4446 ms
+Job time (m_i=11) = 93.4589 ms
+Job time (m_i=11) = 93.4359 ms
+Job time (m_i=11) = 93.4774 ms
+Job time (m_i=11) = 93.4595 ms
+Job time (m_i=11) = 93.4774 ms
+Job time (m_i=11) = 93.399 ms
+Job time (m_i=11) = 93.4328 ms
+Job time (m_i=11) = 93.4748 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4535 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4805 ms
+Job time (m_i=11) = 93.4677 ms
+Job time (m_i=11) = 93.4339 ms
+Job time (m_i=11) = 93.4651 ms
+Job time (m_i=11) = 93.4421 ms
+Job time (m_i=11) = 93.4763 ms
+Job time (m_i=11) = 93.4646 ms
+Job time (m_i=11) = 93.4431 ms
+Job time (m_i=11) = 93.5107 ms
+Job time (m_i=11) = 93.461 ms
+Job time (m_i=11) = 93.4733 ms
+Job time (m_i=11) = 93.462 ms
+Job time (m_i=11) = 93.4313 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4624 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3873 ms
+Job time (m_i=11) = 93.5076 ms
+Job time (m_i=11) = 93.4759 ms
+Job time (m_i=11) = 93.4743 ms
+Job time (m_i=11) = 93.4835 ms
+Job time (m_i=11) = 93.4349 ms
+Job time (m_i=11) = 93.4543 ms
+Job time (m_i=11) = 93.483 ms
+Job time (m_i=11) = 93.4717 ms
+Job time (m_i=11) = 93.5137 ms
+Job time (m_i=11) = 93.4211 ms
+Job time (m_i=11) = 93.4416 ms
+Job time (m_i=11) = 93.4548 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4618 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4932 ms
+Job time (m_i=11) = 93.4789 ms
+Job time (m_i=11) = 93.4098 ms
+Job time (m_i=11) = 93.4298 ms
+Job time (m_i=11) = 93.4139 ms
+Job time (m_i=11) = 93.5004 ms
+Job time (m_i=11) = 93.4595 ms
+Job time (m_i=11) = 93.4211 ms
+Job time (m_i=11) = 93.483 ms
+Job time (m_i=11) = 93.4482 ms
+Job time (m_i=11) = 93.4364 ms
+Job time (m_i=11) = 93.4318 ms
+Job time (m_i=11) = 93.4646 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4516 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4917 ms
+Job time (m_i=11) = 93.484 ms
+Job time (m_i=11) = 93.4431 ms
+Job time (m_i=11) = 93.4436 ms
+Job time (m_i=11) = 93.4897 ms
+Job time (m_i=11) = 93.4026 ms
+Job time (m_i=11) = 93.4093 ms
+Job time (m_i=11) = 93.4763 ms
+Job time (m_i=11) = 93.4497 ms
+Job time (m_i=11) = 93.4676 ms
+Job time (m_i=11) = 93.4682 ms
+Job time (m_i=11) = 93.4451 ms
+Job time (m_i=11) = 93.4226 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4534 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4477 ms
+Job time (m_i=11) = 93.484 ms
+Job time (m_i=11) = 93.4748 ms
+Job time (m_i=11) = 93.4907 ms
+Job time (m_i=11) = 93.4323 ms
+Job time (m_i=11) = 93.5363 ms
+Job time (m_i=11) = 93.4774 ms
+Job time (m_i=11) = 93.4216 ms
+Job time (m_i=11) = 93.44 ms
+Job time (m_i=11) = 93.4477 ms
+Job time (m_i=11) = 93.4385 ms
+Job time (m_i=11) = 93.4712 ms
+Job time (m_i=11) = 93.4564 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.463 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4369 ms
+Job time (m_i=11) = 93.4615 ms
+Job time (m_i=11) = 93.4124 ms
+Job time (m_i=11) = 93.4554 ms
+Job time (m_i=11) = 93.4472 ms
+Job time (m_i=11) = 93.4456 ms
+Job time (m_i=11) = 93.4799 ms
+Job time (m_i=11) = 93.5112 ms
+Job time (m_i=11) = 93.4671 ms
+Job time (m_i=11) = 93.4287 ms
+Job time (m_i=11) = 93.4154 ms
+Job time (m_i=11) = 93.4712 ms
+Job time (m_i=11) = 93.4641 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4536 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4543 ms
+Job time (m_i=11) = 93.4405 ms
+Job time (m_i=11) = 93.4595 ms
+Job time (m_i=11) = 93.4533 ms
+Job time (m_i=11) = 93.4518 ms
+Job time (m_i=11) = 93.4635 ms
+Job time (m_i=11) = 93.4477 ms
+Job time (m_i=11) = 93.484 ms
+Job time (m_i=11) = 93.4681 ms
+Job time (m_i=11) = 93.4426 ms
+Job time (m_i=11) = 93.4513 ms
+Job time (m_i=11) = 93.4405 ms
+Job time (m_i=11) = 93.4385 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4535 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.3888 ms
+Job time (m_i=11) = 93.4426 ms
+Job time (m_i=11) = 93.4533 ms
+Job time (m_i=11) = 93.4784 ms
+Job time (m_i=11) = 93.4753 ms
+Job time (m_i=11) = 93.5071 ms
+Job time (m_i=11) = 93.4211 ms
+Job time (m_i=11) = 93.4272 ms
+Job time (m_i=11) = 93.4886 ms
+Job time (m_i=11) = 93.4508 ms
+Job time (m_i=11) = 93.4395 ms
+Job time (m_i=11) = 93.4692 ms
+Job time (m_i=11) = 93.4508 ms
+
+=== CONTROL PERIOD ===
+Avg Response = 93.4533 ms, Period = 100 ms
+[CONTROL] Full kernel launch. m_i = 11
+Job time (m_i=11) = 93.4717 ms
+Job time (m_i=11) = 93.4021 ms
+Job time (m_i=11) = 93.4042 ms
+Job time (m_i=11) = 93.4277 ms
+Job time (m_i=11) = 93.4625 ms
+Job time (m_i=11) = 93.4743 ms
+Job time (m_i=11) = 93.4656 ms
+Job time (m_i=11) = 93.4825 ms
+Job time (m_i=11) = 93.4548 ms
+Termination reached at 400.109s

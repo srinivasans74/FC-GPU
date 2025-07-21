@@ -1,0 +1,5491 @@
+FFT2
+Grapht3
+M = 8192N= 8192
+Setpoint = 0.8Period= 0.4
+Init done
+Task launched at: 0 sec
+
+Task launched at: 0 sec
+
+Jobtime = 	 1.68899 ms
+Task launched at: 0.261 sec
+
+Jobtime = 	 0.38704 ms
+Task launched at: 0.263 sec
+
+Jobtime = 	 0.306176 ms
+Task launched at: 0.263 sec
+
+Jobtime = 	 0.37984 ms
+Task launched at: 0.265 sec
+
+Jobtime = 	 0.384992 ms
+Task launched at: 0.266 sec
+
+Jobtime = 	 0.302112 ms
+Task launched at: 0.267 sec
+
+Jobtime = 	 0.393216 ms
+Task launched at: 0.268 sec
+
+Jobtime = 	 0.444416 ms
+Task launched at: 0.269 sec
+
+Jobtime = 	 0.377952 ms
+Task launched at: 0.271 sec
+
+Jobtime = 	 0.307168 ms
+Task launched at: 0.272 sec
+
+Jobtime = 	 0.374752 ms
+Task launched at: 0.273 sec
+
+Jobtime = 	 0.427008 ms
+Task launched at: 0.274 sec
+
+Jobtime = 	 0.303072 ms
+Task launched at: 0.275 sec
+
+Jobtime = 	 0.3656 ms
+Task launched at: 0.276 sec
+
+Jobtime = 	 0.373696 ms
+Task launched at: 0.277 sec
+
+Jobtime = 	 0.424928 ms
+Task launched at: 0.279 sec
+
+Jobtime = 	 0.329728 ms
+Task launched at: 0.28 sec
+
+Jobtime = 	 0.369664 ms
+Task launched at: 0.281 sec
+
+Jobtime = 	 0.3768 ms
+Task launched at: 0.282 sec
+
+Jobtime = 	 0.319488 ms
+Task launched at: 0.283 sec
+
+Jobtime = 	 0.37072 ms
+Task launched at: 0.284 sec
+
+Jobtime = 	 0.425952 ms
+Task launched at: 0.286 sec
+
+Jobtime = 	 0.401408 ms
+Task launched at: 0.287 sec
+
+Jobtime = 	 0.37168 ms
+Task launched at: 0.288 sec
+
+Jobtime = 	 0.356352 ms
+Task launched at: 0.289 sec
+
+Jobtime = 	 0.367552 ms
+Task launched at: 0.29 sec
+
+Jobtime = 	 0.36768 ms
+Task launched at: 0.292 sec
+
+Jobtime = 	 0.352256 ms
+Task launched at: 0.293 sec
+
+Jobtime = 	 0.362496 ms
+Task launched at: 0.294 sec
+
+Jobtime = 	 0.424 ms
+Task launched at: 0.295 sec
+
+Jobtime = 	 0.36768 ms
+Task launched at: 0.296 sec
+
+Jobtime = 	 0.358368 ms
+Task launched at: 0.298 sec
+
+Jobtime = 	 0.475104 ms
+Task launched at: 0.299 sec
+
+Jobtime = 	 0.372736 ms
+Task launched at: 0.3 sec
+
+Jobtime = 	 0.364576 ms
+Task launched at: 0.302 sec
+
+Jobtime = 	 0.368672 ms
+Task launched at: 0.303 sec
+
+Jobtime = 	 0.369696 ms
+Task launched at: 0.304 sec
+
+Jobtime = 	 0.425984 ms
+Task launched at: 0.305 sec
+
+Jobtime = 	 0.420928 ms
+Task launched at: 0.307 sec
+
+Jobtime = 	 0.36352 ms
+Task launched at: 0.308 sec
+
+Jobtime = 	 0.372704 ms
+Task launched at: 0.309 sec
+
+Jobtime = 	 0.430048 ms
+Task launched at: 0.31 sec
+
+Jobtime = 	 0.364512 ms
+Task launched at: 0.312 sec
+
+Jobtime = 	 0.360448 ms
+Task launched at: 0.313 sec
+
+Jobtime = 	 0.433152 ms
+Task launched at: 0.314 sec
+
+Jobtime = 	 0.371744 ms
+Task launched at: 0.315 sec
+
+Jobtime = 	 0.362496 ms
+Task launched at: 0.316 sec
+
+Jobtime = 	 0.42496 ms
+Task launched at: 0.318 sec
+
+Jobtime = 	 0.370688 ms
+Task launched at: 0.319 sec
+
+Jobtime = 	 0.396288 ms
+Task launched at: 0.32 sec
+
+Jobtime = 	 0.366592 ms
+Task launched at: 0.321 sec
+
+Jobtime = 	 0.425952 ms
+Task launched at: 0.323 sec
+
+Jobtime = 	 0.3656 ms
+Task launched at: 0.324 sec
+
+Jobtime = 	 0.419776 ms
+Task launched at: 0.325 sec
+
+Jobtime = 	 0.368576 ms
+Task launched at: 0.327 sec
+
+Jobtime = 	 0.370688 ms
+Task launched at: 0.328 sec
+
+Jobtime = 	 0.42192 ms
+Task launched at: 0.329 sec
+
+Jobtime = 	 0.374752 ms
+Task launched at: 0.33 sec
+
+Jobtime = 	 0.365568 ms
+Task launched at: 0.332 sec
+
+Jobtime = 	 0.36864 ms
+Task launched at: 0.333 sec
+
+Jobtime = 	 0.367712 ms
+Task launched at: 0.334 sec
+
+Jobtime = 	 0.374784 ms
+Task launched at: 0.335 sec
+
+Jobtime = 	 0.426016 ms
+Task launched at: 0.337 sec
+
+Jobtime = 	 0.375808 ms
+Task launched at: 0.338 sec
+
+Jobtime = 	 0.364576 ms
+Task launched at: 0.339 sec
+
+Jobtime = 	 0.36976 ms
+Task launched at: 0.34 sec
+
+Jobtime = 	 0.37888 ms
+Task launched at: 0.341 sec
+
+Jobtime = 	 0.423968 ms
+Task launched at: 0.343 sec
+
+Jobtime = 	 0.36768 ms
+Task launched at: 0.344 sec
+
+Jobtime = 	 0.419904 ms
+Task launched at: 0.345 sec
+
+Jobtime = 	 0.375776 ms
+Task launched at: 0.347 sec
+
+Jobtime = 	 0.3696 ms
+Task launched at: 0.348 sec
+
+Jobtime = 	 0.364576 ms
+Task launched at: 0.349 sec
+
+Jobtime = 	 0.43824 ms
+Task launched at: 0.35 sec
+
+Jobtime = 	 0.372736 ms
+Task launched at: 0.352 sec
+
+Jobtime = 	 0.37376 ms
+Task launched at: 0.353 sec
+
+Jobtime = 	 0.459712 ms
+Task launched at: 0.354 sec
+
+Jobtime = 	 0.370688 ms
+Task launched at: 0.355 sec
+
+Jobtime = 	 1.86867 ms
+Task launched at: 0.36 sec
+
+Jobtime = 	 0.42288 ms
+Task launched at: 0.361 sec
+
+Jobtime = 	 0.370688 ms
+Task launched at: 0.362 sec
+
+Jobtime = 	 0.370624 ms
+Task launched at: 0.363 sec
+
+Jobtime = 	 0.425984 ms
+Task launched at: 0.365 sec
+
+Jobtime = 	 0.399328 ms
+Task launched at: 0.366 sec
+
+Jobtime = 	 0.37072 ms
+Task launched at: 0.367 sec
+
+Jobtime = 	 0.364544 ms
+Task launched at: 0.368 sec
+
+Jobtime = 	 0.423008 ms
+Task launched at: 0.37 sec
+
+Jobtime = 	 0.366592 ms
+Task launched at: 0.371 sec
+
+Jobtime = 	 0.369632 ms
+Task launched at: 0.372 sec
+
+Jobtime = 	 0.368672 ms
+Task launched at: 0.373 sec
+
+Jobtime = 	 0.423936 ms
+Task launched at: 0.375 sec
+
+Jobtime = 	 0.368672 ms
+Task launched at: 0.376 sec
+
+Jobtime = 	 0.423904 ms
+Task launched at: 0.377 sec
+
+Jobtime = 	 0.406496 ms
+Task launched at: 0.379 sec
+
+Jobtime = 	 0.374784 ms
+Task launched at: 0.38 sec
+
+Jobtime = 	 0.37072 ms
+Task launched at: 0.381 sec
+
+Jobtime = 	 0.427008 ms
+Task launched at: 0.382 sec
+
+Jobtime = 	 0.364576 ms
+Task launched at: 0.384 sec
+
+Jobtime = 	 0.3656 ms
+Task launched at: 0.385 sec
+
+Jobtime = 	 0.429088 ms
+Task launched at: 0.386 sec
+
+Jobtime = 	 0.367648 ms
+Task launched at: 0.387 sec
+
+Jobtime = 	 0.368672 ms
+Task launched at: 0.389 sec
+
+Jobtime = 	 0.370592 ms
+Task launched at: 0.39 sec
+
+Jobtime = 	 0.41984 ms
+Task launched at: 0.391 sec
+
+Jobtime = 	 0.369664 ms
+Task launched at: 0.392 sec
+
+Jobtime = 	 0.361504 ms
+Task launched at: 0.394 sec
+
+Jobtime = 	 0.358432 ms
+Task launched at: 0.395 sec
+
+Jobtime = 	 0.423936 ms
+Task launched at: 0.396 sec
+
+Jobtime = 	 0.370656 ms
+Task launched at: 0.397 sec
+
+Jobtime = 	 0.368576 ms
+Task launched at: 0.399 sec
+
+Jobtime = 	 0.367648 ms
+Task launched at: 0.4 sec
+
+Jobtime = 	 0.523232 ms
+Task launched at: 0.401 sec
+
+Jobtime = 	 0.482304 ms
+Task launched at: 0.403 sec
+
+Jobtime = 	 0.467968 ms
+Task launched at: 0.404 sec
+
+Jobtime = 	 0.474112 ms
+Task launched at: 0.406 sec
+
+Jobtime = 	 0.461824 ms
+Task launched at: 0.407 sec
+
+Jobtime = 	 0.456672 ms
+Task launched at: 0.409 sec
+
+Jobtime = 	 0.463872 ms
+Task launched at: 0.41 sec
+
+Jobtime = 	 0.462816 ms
+Task launched at: 0.412 sec
+
+Jobtime = 	 0.463872 ms
+Task launched at: 0.413 sec
+
+Jobtime = 	 0.46592 ms
+Task launched at: 0.415 sec
+
+Jobtime = 	 0.464864 ms
+Task launched at: 0.416 sec
+
+Jobtime = 	 0.460768 ms
+Task launched at: 0.417 sec
+
+Jobtime = 	 0.477184 ms
+Task launched at: 0.419 sec
+
+Jobtime = 	 0.464896 ms
+Task launched at: 0.42 sec
+
+Jobtime = 	 0.479232 ms
+Task launched at: 0.422 sec
+
+Jobtime = 	 0.461888 ms
+Task launched at: 0.423 sec
+
+Jobtime = 	 0.465888 ms
+Task launched at: 0.425 sec
+
+Jobtime = 	 0.462816 ms
+Task launched at: 0.426 sec
+
+Jobtime = 	 0.465856 ms
+Task launched at: 0.428 sec
+
+Jobtime = 	 0.480192 ms
+Task launched at: 0.429 sec
+
+Jobtime = 	 41.0663 ms
+Task launched at: 0.51 sec
+
+Jobtime = 	 115.152 ms
+Task launched at: 0.736 sec
+
+Jobtime = 	 68.8506 ms
+Task launched at: 0.878 sec
+
+Jobtime = 	 118.548 ms
+Task launched at: 1.114 sec
+
+Jobtime = 	 84.3159 ms
+Task launched at: 1.284 sec
+
+Jobtime = 	 83.9718 ms
+Task launched at: 1.452 sec
+
+Jobtime = 	 117.439 ms
+Task launched at: 1.688 sec
+
+Jobtime = 	 83.911 ms
+Task launched at: 1.853 sec
+
+Jobtime = 	 119.066 ms
+Task launched at: 2.089 sec
+
+Jobtime = 	 79.809 ms
+Task launched at: 2.246 sec
+
+Jobtime = 	 88.0604 ms
+Task launched at: 2.425 sec
+
+Jobtime = 	 118.021 ms
+Task launched at: 2.661 sec
+
+Jobtime = 	 93.8989 ms
+Task launched at: 2.853 sec
+
+Jobtime = 	 118.923 ms
+Task launched at: 3.09 sec
+
+Jobtime = 	 82.2806 ms
+Task launched at: 3.252 sec
+
+Jobtime = 	 85.1846 ms
+Task launched at: 3.426 sec
+
+Jobtime = 	 117.93 ms
+Task launched at: 3.661 sec
+
+Jobtime = 	 93.9241 ms
+Task launched at: 3.854 sec
+
+Jobtime = 	 119.049 ms
+Task launched at: 4.09 sec
+
+Jobtime = 	 74.5199 ms
+Task launched at: 4.241 sec
+
+Jobtime = 	 118.546 ms
+Task launched at: 4.477 sec
+
+Jobtime = 	 99.6019 ms
+Task launched at: 4.675 sec
+
+Jobtime = 	 117.752 ms
+Task launched at: 4.914 sec
+
+Jobtime = 	 118.891 ms
+Task launched at: 5.153 sec
+
+Jobtime = 	 121.392 ms
+Task launched at: 5.394 sec
+
+Jobtime = 	 118.123 ms
+Task launched at: 5.633 sec
+
+Jobtime = 	 119.602 ms
+Task launched at: 5.873 sec
+
+Jobtime = 	 118.176 ms
+Task launched at: 6.11 sec
+
+Jobtime = 	 120.676 ms
+Task launched at: 6.35 sec
+
+Jobtime = 	 120.823 ms
+Task launched at: 6.59 sec
+
+Jobtime = 	 118.238 ms
+Task launched at: 6.828 sec
+
+Jobtime = 	 117.735 ms
+Task launched at: 7.064 sec
+
+Jobtime = 	 120.53 ms
+Task launched at: 7.306 sec
+
+Jobtime = 	 85.6572 ms
+Task launched at: 7.475 sec
+
+Jobtime = 	 117.846 ms
+Task launched at: 7.711 sec
+
+Jobtime = 	 117.649 ms
+Task launched at: 7.948 sec
+
+Jobtime = 	 120.15 ms
+Task launched at: 8.189 sec
+
+Jobtime = 	 121.142 ms
+Task launched at: 8.43 sec
+
+Jobtime = 	 118.029 ms
+Task launched at: 8.666 sec
+
+Jobtime = 	 120.289 ms
+Task launched at: 8.906 sec
+
+Jobtime = 	 118.947 ms
+Task launched at: 9.145 sec
+
+Jobtime = 	 118.559 ms
+Task launched at: 9.382 sec
+
+Jobtime = 	 120.415 ms
+Task launched at: 9.623 sec
+
+Jobtime = 	 119.438 ms
+Task launched at: 9.86 sec
+
+Jobtime = 	 121.043 ms
+Task launched at: 10.101 sec
+
+Jobtime = 	 118.651 ms
+Task launched at: 10.339 sec
+
+Jobtime = 	 118.341 ms
+Task launched at: 10.578 sec
+
+Jobtime = 	 119.519 ms
+Task launched at: 10.817 sec
+
+Jobtime = 	 118.518 ms
+Task launched at: 11.054 sec
+
+Jobtime = 	 119.696 ms
+Task launched at: 11.293 sec
+
+Jobtime = 	 121.089 ms
+Task launched at: 11.535 sec
+
+Jobtime = 	 117.621 ms
+Task launched at: 11.772 sec
+
+Jobtime = 	 118.577 ms
+Task launched at: 12.009 sec
+
+Jobtime = 	 119.777 ms
+Task launched at: 12.249 sec
+
+Jobtime = 	 120.785 ms
+Task launched at: 12.489 sec
+
+Jobtime = 	 120.101 ms
+Task launched at: 12.729 sec
+
+Jobtime = 	 93.5094 ms
+Task launched at: 12.919 sec
+
+Jobtime = 	 121.683 ms
+Task launched at: 13.162 sec
+
+Jobtime = 	 117.696 ms
+Task launched at: 13.402 sec
+
+Jobtime = 	 120.053 ms
+Task launched at: 13.64 sec
+
+Jobtime = 	 120.292 ms
+Task launched at: 13.88 sec
+
+Jobtime = 	 99.3378 ms
+Task launched at: 14.076 sec
+
+Jobtime = 	 121.128 ms
+Task launched at: 14.318 sec
+
+Jobtime = 	 118.627 ms
+Task launched at: 14.555 sec
+
+Jobtime = 	 118.069 ms
+Task launched at: 14.794 sec
+
+Jobtime = 	 120.683 ms
+Task launched at: 15.036 sec
+
+Jobtime = 	 119.195 ms
+Task launched at: 15.277 sec
+
+Jobtime = 	 118.039 ms
+Task launched at: 15.514 sec
+
+Jobtime = 	 120.591 ms
+Task launched at: 15.755 sec
+
+Jobtime = 	 119.936 ms
+Task launched at: 15.993 sec
+
+Jobtime = 	 117.992 ms
+Task launched at: 16.23 sec
+
+Jobtime = 	 121.13 ms
+Task launched at: 16.472 sec
+
+Jobtime = 	 118.4 ms
+Task launched at: 16.71 sec
+
+Jobtime = 	 120.5 ms
+Task launched at: 16.951 sec
+
+Jobtime = 	 118.822 ms
+Task launched at: 17.189 sec
+
+Jobtime = 	 104.86 ms
+Task launched at: 17.396 sec
+
+Jobtime = 	 120.156 ms
+Task launched at: 17.636 sec
+
+Jobtime = 	 118.51 ms
+Task launched at: 17.874 sec
+
+Jobtime = 	 120.489 ms
+Task launched at: 18.116 sec
+
+Jobtime = 	 119.215 ms
+Task launched at: 18.355 sec
+
+Jobtime = 	 118.009 ms
+Task launched at: 18.593 sec
+
+Jobtime = 	 119.505 ms
+Task launched at: 18.833 sec
+
+Jobtime = 	 119.123 ms
+Task launched at: 19.071 sec
+
+Jobtime = 	 119.918 ms
+Task launched at: 19.309 sec
+
+Jobtime = 	 120.399 ms
+Task launched at: 19.549 sec
+
+Jobtime = 	 117.876 ms
+Task launched at: 19.786 sec
+
+Jobtime = 	 119.141 ms
+Task launched at: 20.025 sec
+
+Jobtime = 	 119.614 ms
+Task launched at: 20.265 sec
+
+Jobtime = 	 120.348 ms
+Task launched at: 20.504 sec
+
+Jobtime = 	 117.809 ms
+Task launched at: 20.744 sec
+
+Jobtime = 	 121.518 ms
+Task launched at: 20.986 sec
+
+Jobtime = 	 119.201 ms
+Task launched at: 21.226 sec
+
+Jobtime = 	 119.855 ms
+Task launched at: 21.466 sec
+
+Jobtime = 	 118.312 ms
+Task launched at: 21.702 sec
+
+Jobtime = 	 120.363 ms
+Task launched at: 21.942 sec
+
+Jobtime = 	 121.43 ms
+Task launched at: 22.184 sec
+
+Jobtime = 	 118.165 ms
+Task launched at: 22.423 sec
+
+Jobtime = 	 117.658 ms
+Task launched at: 22.658 sec
+
+Jobtime = 	 120.54 ms
+Task launched at: 22.9 sec
+
+Jobtime = 	 120.53 ms
+Task launched at: 23.143 sec
+
+Jobtime = 	 117.912 ms
+Task launched at: 23.379 sec
+
+Jobtime = 	 119.936 ms
+Task launched at: 23.619 sec
+
+Jobtime = 	 120.058 ms
+Task launched at: 23.858 sec
+
+Jobtime = 	 121.41 ms
+Task launched at: 24.1 sec
+
+Jobtime = 	 120.257 ms
+Task launched at: 24.341 sec
+
+Jobtime = 	 119.791 ms
+Task launched at: 24.578 sec
+
+Jobtime = 	 120.055 ms
+Task launched at: 24.818 sec
+
+Jobtime = 	 119.535 ms
+Task launched at: 25.057 sec
+
+Jobtime = 	 118.401 ms
+Task launched at: 25.296 sec
+
+Jobtime = 	 120.084 ms
+Task launched at: 25.536 sec
+
+Jobtime = 	 120.09 ms
+Task launched at: 25.774 sec
+
+Jobtime = 	 118.747 ms
+Task launched at: 26.012 sec
+
+Jobtime = 	 120.811 ms
+Task launched at: 26.253 sec
+
+Jobtime = 	 118.045 ms
+Task launched at: 26.491 sec
+
+Jobtime = 	 116.795 ms
+Task launched at: 26.725 sec
+
+Jobtime = 	 120.885 ms
+Task launched at: 26.967 sec
+
+Jobtime = 	 26.1197 ms
+Task launched at: 27.021 sec
+
+Jobtime = 	 119.784 ms
+Task launched at: 27.26 sec
+
+Jobtime = 	 118.412 ms
+Task launched at: 27.498 sec
+
+Jobtime = 	 119.82 ms
+Task launched at: 27.739 sec
+
+Jobtime = 	 118.86 ms
+Task launched at: 27.976 sec
+
+Jobtime = 	 120.62 ms
+Task launched at: 28.215 sec
+
+Jobtime = 	 119.921 ms
+Task launched at: 28.454 sec
+
+Jobtime = 	 118.836 ms
+Task launched at: 28.694 sec
+
+Jobtime = 	 118.938 ms
+Task launched at: 28.931 sec
+
+Jobtime = 	 120.203 ms
+Task launched at: 29.173 sec
+
+Jobtime = 	 119.817 ms
+Task launched at: 29.41 sec
+
+Jobtime = 	 118.536 ms
+Task launched at: 29.647 sec
+
+Jobtime = 	 122.013 ms
+Task launched at: 29.89 sec
+
+Jobtime = 	 118.486 ms
+Task launched at: 30.129 sec
+
+Jobtime = 	 119.81 ms
+Task launched at: 30.369 sec
+
+Jobtime = 	 118.168 ms
+Task launched at: 30.606 sec
+
+Jobtime = 	 120.263 ms
+Task launched at: 30.845 sec
+
+Jobtime = 	 120.861 ms
+Task launched at: 31.086 sec
+
+Jobtime = 	 124.427 ms
+Task launched at: 31.328 sec
+
+Jobtime = 	 118.108 ms
+Task launched at: 31.566 sec
+
+Jobtime = 	 120.922 ms
+Task launched at: 31.809 sec
+
+Jobtime = 	 119.343 ms
+Task launched at: 32.051 sec
+
+Jobtime = 	 107.62 ms
+Task launched at: 32.269 sec
+
+Jobtime = 	 120.613 ms
+Task launched at: 32.51 sec
+
+Jobtime = 	 101.649 ms
+Task launched at: 32.715 sec
+
+Jobtime = 	 120.555 ms
+Task launched at: 32.956 sec
+
+Jobtime = 	 120.242 ms
+Task launched at: 33.194 sec
+
+Jobtime = 	 85.7215 ms
+Task launched at: 33.365 sec
+
+Jobtime = 	 118.019 ms
+Task launched at: 33.603 sec
+
+Jobtime = 	 120.63 ms
+Task launched at: 33.845 sec
+
+Jobtime = 	 119.923 ms
+Task launched at: 34.084 sec
+
+Jobtime = 	 117.962 ms
+Task launched at: 34.32 sec
+
+Jobtime = 	 120.241 ms
+Task launched at: 34.56 sec
+
+Jobtime = 	 119.301 ms
+Task launched at: 34.8 sec
+
+Jobtime = 	 118.476 ms
+Task launched at: 35.038 sec
+
+Jobtime = 	 120.471 ms
+Task launched at: 35.279 sec
+
+Jobtime = 	 118.019 ms
+Task launched at: 35.517 sec
+
+Jobtime = 	 120.858 ms
+Task launched at: 35.759 sec
+
+Jobtime = 	 118.169 ms
+Task launched at: 35.995 sec
+
+Jobtime = 	 119.9 ms
+Task launched at: 36.234 sec
+
+Jobtime = 	 120.49 ms
+Task launched at: 36.474 sec
+
+Jobtime = 	 119.005 ms
+Task launched at: 36.713 sec
+
+Jobtime = 	 119.06 ms
+Task launched at: 36.951 sec
+
+Jobtime = 	 119.852 ms
+Task launched at: 37.191 sec
+
+Jobtime = 	 120.31 ms
+Task launched at: 37.43 sec
+
+Jobtime = 	 119.42 ms
+Task launched at: 37.667 sec
+
+Jobtime = 	 121.851 ms
+Task launched at: 37.91 sec
+
+Jobtime = 	 117.896 ms
+Task launched at: 38.148 sec
+
+Jobtime = 	 119.947 ms
+Task launched at: 38.388 sec
+
+Jobtime = 	 118.703 ms
+Task launched at: 38.626 sec
+
+Jobtime = 	 120.028 ms
+Task launched at: 38.866 sec
+
+Jobtime = 	 120.028 ms
+Task launched at: 39.106 sec
+
+Jobtime = 	 118.197 ms
+Task launched at: 39.343 sec
+
+Jobtime = 	 118.779 ms
+Task launched at: 39.582 sec
+
+Jobtime = 	 120.006 ms
+Task launched at: 39.823 sec
+
+Jobtime = 	 120.113 ms
+Task launched at: 40.062 sec
+
+Jobtime = 	 118.18 ms
+Task launched at: 40.298 sec
+
+Jobtime = 	 120.894 ms
+Task launched at: 40.54 sec
+
+Jobtime = 	 118.945 ms
+Task launched at: 40.78 sec
+
+Jobtime = 	 118.061 ms
+Task launched at: 41.018 sec
+
+Jobtime = 	 120.42 ms
+Task launched at: 41.258 sec
+
+Jobtime = 	 119.204 ms
+Task launched at: 41.498 sec
+
+Jobtime = 	 120.144 ms
+Task launched at: 41.739 sec
+
+Jobtime = 	 118.696 ms
+Task launched at: 41.976 sec
+
+Jobtime = 	 119.172 ms
+Task launched at: 42.213 sec
+
+Jobtime = 	 120.165 ms
+Task launched at: 42.454 sec
+
+Jobtime = 	 81.5062 ms
+Task launched at: 42.62 sec
+
+Jobtime = 	 121.15 ms
+Task launched at: 42.862 sec
+
+Jobtime = 	 117.661 ms
+Task launched at: 43.099 sec
+
+Jobtime = 	 120.68 ms
+Task launched at: 43.34 sec
+
+Jobtime = 	 118.63 ms
+Task launched at: 43.578 sec
+
+Jobtime = 	 120.716 ms
+Task launched at: 43.817 sec
+
+Jobtime = 	 120.134 ms
+Task launched at: 44.059 sec
+
+Jobtime = 	 122.414 ms
+Task launched at: 44.298 sec
+
+Jobtime = 	 119.204 ms
+Task launched at: 44.537 sec
+
+Jobtime = 	 119.724 ms
+Task launched at: 44.778 sec
+
+Jobtime = 	 119.901 ms
+Task launched at: 45.016 sec
+
+Jobtime = 	 85.9667 ms
+Task launched at: 45.188 sec
+
+Jobtime = 	 99.0831 ms
+Task launched at: 45.389 sec
+
+Jobtime = 	 121.847 ms
+Task launched at: 45.631 sec
+
+Jobtime = 	 118.326 ms
+Task launched at: 45.87 sec
+
+Jobtime = 	 120.252 ms
+Task launched at: 46.11 sec
+
+Jobtime = 	 112.396 ms
+Task launched at: 46.333 sec
+
+Jobtime = 	 119.197 ms
+Task launched at: 46.572 sec
+
+Jobtime = 	 120.508 ms
+Task launched at: 46.813 sec
+
+Jobtime = 	 117.731 ms
+Task launched at: 47.051 sec
+
+Jobtime = 	 119.385 ms
+Task launched at: 47.291 sec
+
+Jobtime = 	 121.052 ms
+Task launched at: 47.533 sec
+
+Jobtime = 	 117.908 ms
+Task launched at: 47.77 sec
+
+Jobtime = 	 120.174 ms
+Task launched at: 48.011 sec
+
+Jobtime = 	 120.08 ms
+Task launched at: 48.252 sec
+
+Jobtime = 	 118.903 ms
+Task launched at: 48.491 sec
+
+Jobtime = 	 120.167 ms
+Task launched at: 48.732 sec
+
+Jobtime = 	 118.237 ms
+Task launched at: 48.97 sec
+
+Jobtime = 	 119.266 ms
+Task launched at: 49.21 sec
+
+Jobtime = 	 120.537 ms
+Task launched at: 49.452 sec
+
+Jobtime = 	 119.745 ms
+Task launched at: 49.69 sec
+
+Jobtime = 	 118.175 ms
+Task launched at: 49.926 sec
+
+Jobtime = 	 120.814 ms
+Task launched at: 50.167 sec
+
+Jobtime = 	 119.367 ms
+Task launched at: 50.407 sec
+
+Jobtime = 	 118.143 ms
+Task launched at: 50.643 sec
+
+Jobtime = 	 120.488 ms
+Task launched at: 50.884 sec
+
+Jobtime = 	 120.393 ms
+Task launched at: 51.122 sec
+
+Jobtime = 	 120.677 ms
+Task launched at: 51.363 sec
+
+Jobtime = 	 118.891 ms
+Task launched at: 51.601 sec
+
+Jobtime = 	 104.029 ms
+Task launched at: 51.806 sec
+
+Jobtime = 	 121.095 ms
+Task launched at: 52.047 sec
+
+Jobtime = 	 118.55 ms
+Task launched at: 52.286 sec
+
+Jobtime = 	 120.381 ms
+Task launched at: 52.527 sec
+
+Jobtime = 	 118.246 ms
+Task launched at: 52.765 sec
+
+Jobtime = 	 119.141 ms
+Task launched at: 53.005 sec
+
+Jobtime = 	 121.65 ms
+Task launched at: 53.243 sec
+
+Jobtime = 	 118.227 ms
+Task launched at: 53.482 sec
+
+Jobtime = 	 118.658 ms
+Task launched at: 53.719 sec
+
+Jobtime = 	 120.352 ms
+Task launched at: 53.96 sec
+
+Jobtime = 	 120.366 ms
+Task launched at: 54.199 sec
+
+Jobtime = 	 118.329 ms
+Task launched at: 54.436 sec
+
+Jobtime = 	 120.268 ms
+Task launched at: 54.677 sec
+
+Jobtime = 	 119.371 ms
+Task launched at: 54.916 sec
+
+Jobtime = 	 120.246 ms
+Task launched at: 55.157 sec
+
+Jobtime = 	 118.618 ms
+Task launched at: 55.394 sec
+
+Jobtime = 	 120.345 ms
+Task launched at: 55.633 sec
+
+Jobtime = 	 120.787 ms
+Task launched at: 55.874 sec
+
+Jobtime = 	 118.261 ms
+Task launched at: 56.112 sec
+
+Jobtime = 	 117.876 ms
+Task launched at: 56.35 sec
+
+Jobtime = 	 119.917 ms
+Task launched at: 56.591 sec
+
+Jobtime = 	 120.456 ms
+Task launched at: 56.83 sec
+
+Jobtime = 	 118.6 ms
+Task launched at: 57.067 sec
+
+Jobtime = 	 120.512 ms
+Task launched at: 57.308 sec
+
+Jobtime = 	 118.134 ms
+Task launched at: 57.546 sec
+
+Jobtime = 	 84.6032 ms
+Task launched at: 57.713 sec
+
+Jobtime = 	 108.779 ms
+Task launched at: 57.933 sec
+
+Jobtime = 	 120.733 ms
+Task launched at: 58.173 sec
+
+Jobtime = 	 118.808 ms
+Task launched at: 58.414 sec
+
+Jobtime = 	 120.733 ms
+Task launched at: 58.656 sec
+
+Jobtime = 	 118.24 ms
+Task launched at: 58.893 sec
+
+Jobtime = 	 118.175 ms
+Task launched at: 59.132 sec
+
+Jobtime = 	 120.197 ms
+Task launched at: 59.373 sec
+
+Jobtime = 	 118.397 ms
+Task launched at: 59.61 sec
+
+Jobtime = 	 120.652 ms
+Task launched at: 59.85 sec
+
+Jobtime = 	 119.884 ms
+Task launched at: 60.089 sec
+
+Jobtime = 	 119.302 ms
+Task launched at: 60.329 sec
+
+Jobtime = 	 118.232 ms
+Task launched at: 60.565 sec
+
+Jobtime = 	 119.833 ms
+Task launched at: 60.807 sec
+
+Jobtime = 	 120.126 ms
+Task launched at: 61.045 sec
+
+Jobtime = 	 120.741 ms
+Task launched at: 61.285 sec
+
+Jobtime = 	 120.836 ms
+Task launched at: 61.527 sec
+
+Jobtime = 	 118.58 ms
+Task launched at: 61.767 sec
+
+Jobtime = 	 120.719 ms
+Task launched at: 62.008 sec
+
+Jobtime = 	 87.1354 ms
+Task launched at: 62.181 sec
+
+Jobtime = 	 121.63 ms
+Task launched at: 62.423 sec
+
+Jobtime = 	 118.614 ms
+Task launched at: 62.662 sec
+
+Jobtime = 	 118.664 ms
+Task launched at: 62.899 sec
+
+Jobtime = 	 120.07 ms
+Task launched at: 63.14 sec
+
+Jobtime = 	 120.277 ms
+Task launched at: 63.378 sec
+
+Jobtime = 	 121.599 ms
+Task launched at: 63.62 sec
+
+Jobtime = 	 119.936 ms
+Task launched at: 63.86 sec
+
+Jobtime = 	 120.549 ms
+Task launched at: 64.099 sec
+
+Jobtime = 	 120.426 ms
+Task launched at: 64.339 sec
+
+Jobtime = 	 119.991 ms
+Task launched at: 64.579 sec
+
+Jobtime = 	 120.777 ms
+Task launched at: 64.818 sec
+
+Jobtime = 	 120.775 ms
+Task launched at: 65.059 sec
+
+Jobtime = 	 120.59 ms
+Task launched at: 65.299 sec
+
+Jobtime = 	 120.168 ms
+Task launched at: 65.538 sec
+
+Jobtime = 	 120.223 ms
+Task launched at: 65.778 sec
+
+Jobtime = 	 118.789 ms
+Task launched at: 66.017 sec
+
+Jobtime = 	 118.735 ms
+Task launched at: 66.254 sec
+
+Jobtime = 	 120.93 ms
+Task launched at: 66.496 sec
+
+Jobtime = 	 94.5767 ms
+Task launched at: 66.684 sec
+
+Jobtime = 	 120.885 ms
+Task launched at: 66.925 sec
+
+Jobtime = 	 118.807 ms
+Task launched at: 67.164 sec
+
+Jobtime = 	 120.767 ms
+Task launched at: 67.406 sec
+
+Jobtime = 	 118.622 ms
+Task launched at: 67.643 sec
+
+Jobtime = 	 120.628 ms
+Task launched at: 67.882 sec
+
+Jobtime = 	 121.036 ms
+Task launched at: 68.123 sec
+
+Jobtime = 	 118.616 ms
+Task launched at: 68.362 sec
+
+Jobtime = 	 118.92 ms
+Task launched at: 68.599 sec
+
+Jobtime = 	 119.631 ms
+Task launched at: 68.84 sec
+
+Jobtime = 	 120.594 ms
+Task launched at: 69.079 sec
+
+Jobtime = 	 118.277 ms
+Task launched at: 69.316 sec
+
+Jobtime = 	 120.9 ms
+Task launched at: 69.558 sec
+
+Jobtime = 	 118.278 ms
+Task launched at: 69.796 sec
+
+Jobtime = 	 119.677 ms
+Task launched at: 70.037 sec
+
+Jobtime = 	 119.554 ms
+Task launched at: 70.277 sec
+
+Jobtime = 	 118.578 ms
+Task launched at: 70.515 sec
+
+Jobtime = 	 119.677 ms
+Task launched at: 70.756 sec
+
+Jobtime = 	 118.543 ms
+Task launched at: 70.994 sec
+
+Jobtime = 	 107.185 ms
+Task launched at: 71.207 sec
+
+Jobtime = 	 120.8 ms
+Task launched at: 71.448 sec
+
+Jobtime = 	 117.587 ms
+Task launched at: 71.686 sec
+
+Jobtime = 	 120.94 ms
+Task launched at: 71.928 sec
+
+Jobtime = 	 118.346 ms
+Task launched at: 72.164 sec
+
+Jobtime = 	 120.197 ms
+Task launched at: 72.403 sec
+
+Jobtime = 	 120.559 ms
+Task launched at: 72.644 sec
+
+Jobtime = 	 118.207 ms
+Task launched at: 72.882 sec
+
+Jobtime = 	 118.931 ms
+Task launched at: 73.12 sec
+
+Jobtime = 	 120.138 ms
+Task launched at: 73.362 sec
+
+Jobtime = 	 119.527 ms
+Task launched at: 73.6 sec
+
+Jobtime = 	 118.967 ms
+Task launched at: 73.837 sec
+
+Jobtime = 	 120.861 ms
+Task launched at: 74.078 sec
+
+Jobtime = 	 119.077 ms
+Task launched at: 74.318 sec
+
+Jobtime = 	 119.467 ms
+Task launched at: 74.558 sec
+
+Jobtime = 	 118.322 ms
+Task launched at: 74.795 sec
+
+Jobtime = 	 120.535 ms
+Task launched at: 75.035 sec
+
+Jobtime = 	 120.954 ms
+Task launched at: 75.276 sec
+
+Jobtime = 	 118.468 ms
+Task launched at: 75.512 sec
+
+Jobtime = 	 119.093 ms
+Task launched at: 75.752 sec
+
+Jobtime = 	 120.781 ms
+Task launched at: 75.993 sec
+
+Jobtime = 	 122.611 ms
+Task launched at: 76.234 sec
+
+Jobtime = 	 117.806 ms
+Task launched at: 76.47 sec
+
+Jobtime = 	 120.885 ms
+Task launched at: 76.712 sec
+
+Jobtime = 	 86.0197 ms
+Task launched at: 76.888 sec
+
+Jobtime = 	 118.677 ms
+Task launched at: 77.126 sec
+
+Jobtime = 	 120.302 ms
+Task launched at: 77.364 sec
+
+Jobtime = 	 120.758 ms
+Task launched at: 77.605 sec
+
+Jobtime = 	 118.121 ms
+Task launched at: 77.843 sec
+
+Jobtime = 	 119.624 ms
+Task launched at: 78.082 sec
+
+Jobtime = 	 119.82 ms
+Task launched at: 78.322 sec
+
+Jobtime = 	 120.094 ms
+Task launched at: 78.561 sec
+
+Jobtime = 	 118.348 ms
+Task launched at: 78.797 sec
+
+Jobtime = 	 121.266 ms
+Task launched at: 79.039 sec
+
+Jobtime = 	 119.548 ms
+Task launched at: 79.279 sec
+
+Jobtime = 	 119.528 ms
+Task launched at: 79.519 sec
+
+Jobtime = 	 118.842 ms
+Task launched at: 79.756 sec
+
+Jobtime = 	 120.418 ms
+Task launched at: 79.995 sec
+
+Jobtime = 	 120.697 ms
+Task launched at: 80.236 sec
+
+Jobtime = 	 120.809 ms
+Task launched at: 80.476 sec
+
+Jobtime = 	 119.635 ms
+Task launched at: 80.713 sec
+
+Jobtime = 	 121.635 ms
+Task launched at: 80.956 sec
+
+Jobtime = 	 118.165 ms
+Task launched at: 81.194 sec
+
+Jobtime = 	 118.318 ms
+Task launched at: 81.43 sec
+
+Jobtime = 	 89.4795 ms
+Task launched at: 81.608 sec
+
+Jobtime = 	 119.861 ms
+Task launched at: 81.853 sec
+
+Jobtime = 	 118.329 ms
+Task launched at: 82.09 sec
+
+Jobtime = 	 119.6 ms
+Task launched at: 82.328 sec
+
+Jobtime = 	 120.387 ms
+Task launched at: 82.568 sec
+
+Jobtime = 	 118.378 ms
+Task launched at: 82.805 sec
+
+Jobtime = 	 119.343 ms
+Task launched at: 83.045 sec
+
+Jobtime = 	 119.359 ms
+Task launched at: 83.285 sec
+
+Jobtime = 	 120.36 ms
+Task launched at: 83.523 sec
+
+Jobtime = 	 118.472 ms
+Task launched at: 83.76 sec
+
+Jobtime = 	 121.113 ms
+Task launched at: 84.001 sec
+
+Jobtime = 	 118.348 ms
+Task launched at: 84.24 sec
+
+Jobtime = 	 117.745 ms
+Task launched at: 84.478 sec
+
+Jobtime = 	 120.844 ms
+Task launched at: 84.718 sec
+
+Jobtime = 	 120.322 ms
+Task launched at: 84.957 sec
+
+Jobtime = 	 85.8886 ms
+Task launched at: 85.132 sec
+
+Jobtime = 	 117.877 ms
+Task launched at: 85.368 sec
+
+Jobtime = 	 121.51 ms
+Task launched at: 85.61 sec
+
+Jobtime = 	 93.598 ms
+Task launched at: 85.802 sec
+
+Jobtime = 	 121.216 ms
+Task launched at: 86.043 sec
+
+Jobtime = 	 117.911 ms
+Task launched at: 86.281 sec
+
+Jobtime = 	 119.156 ms
+Task launched at: 86.521 sec
+
+Jobtime = 	 121.071 ms
+Task launched at: 86.762 sec
+
+Jobtime = 	 118.15 ms
+Task launched at: 87.001 sec
+
+Jobtime = 	 119.893 ms
+Task launched at: 87.242 sec
+
+Jobtime = 	 117.601 ms
+Task launched at: 87.478 sec
+
+Jobtime = 	 120.825 ms
+Task launched at: 87.718 sec
+
+Jobtime = 	 120.646 ms
+Task launched at: 87.958 sec
+
+Jobtime = 	 119.898 ms
+Task launched at: 88.197 sec
+
+Jobtime = 	 120.258 ms
+Task launched at: 88.436 sec
+
+Jobtime = 	 120.801 ms
+Task launched at: 88.677 sec
+
+Jobtime = 	 118.465 ms
+Task launched at: 88.916 sec
+
+Jobtime = 	 117.76 ms
+Task launched at: 89.152 sec
+
+Jobtime = 	 120.442 ms
+Task launched at: 89.393 sec
+
+Jobtime = 	 120.745 ms
+Task launched at: 89.633 sec
+
+Jobtime = 	 120.87 ms
+Task launched at: 89.873 sec
+
+Jobtime = 	 120.226 ms
+Task launched at: 90.112 sec
+
+Jobtime = 	 119.834 ms
+Task launched at: 90.35 sec
+
+Jobtime = 	 121.488 ms
+Task launched at: 90.592 sec
+
+Jobtime = 	 120.014 ms
+Task launched at: 90.832 sec
+
+Jobtime = 	 104.475 ms
+Task launched at: 91.039 sec
+
+Jobtime = 	 120.872 ms
+Task launched at: 91.28 sec
+
+Jobtime = 	 118.952 ms
+Task launched at: 91.519 sec
+
+Jobtime = 	 120.435 ms
+Task launched at: 91.761 sec
+
+Jobtime = 	 117.93 ms
+Task launched at: 91.997 sec
+
+Jobtime = 	 119.945 ms
+Task launched at: 92.235 sec
+
+Jobtime = 	 119.997 ms
+Task launched at: 92.479 sec
+
+Jobtime = 	 118.383 ms
+Task launched at: 92.716 sec
+
+Jobtime = 	 120.1 ms
+Task launched at: 92.955 sec
+
+Jobtime = 	 119.695 ms
+Task launched at: 93.194 sec
+
+Jobtime = 	 119.483 ms
+Task launched at: 93.434 sec
+
+Jobtime = 	 117.853 ms
+Task launched at: 93.671 sec
+
+Jobtime = 	 119.734 ms
+Task launched at: 93.912 sec
+
+Jobtime = 	 120.014 ms
+Task launched at: 94.15 sec
+
+Jobtime = 	 121.017 ms
+Task launched at: 94.391 sec
+
+Jobtime = 	 120.367 ms
+Task launched at: 94.632 sec
+
+Jobtime = 	 119.978 ms
+Task launched at: 94.87 sec
+
+Jobtime = 	 120.01 ms
+Task launched at: 95.111 sec
+
+Jobtime = 	 118.612 ms
+Task launched at: 95.348 sec
+
+Jobtime = 	 103.343 ms
+Task launched at: 95.559 sec
+
+Jobtime = 	 121.225 ms
+Task launched at: 95.8 sec
+
+Jobtime = 	 118.119 ms
+Task launched at: 96.038 sec
+
+Jobtime = 	 121.07 ms
+Task launched at: 96.28 sec
+
+Jobtime = 	 118.237 ms
+Task launched at: 96.517 sec
+
+Jobtime = 	 120.5 ms
+Task launched at: 96.756 sec
+
+Jobtime = 	 120.838 ms
+Task launched at: 96.996 sec
+
+Jobtime = 	 118.941 ms
+Task launched at: 97.236 sec
+
+Jobtime = 	 119.002 ms
+Task launched at: 97.472 sec
+
+Jobtime = 	 119.569 ms
+Task launched at: 97.713 sec
+
+Jobtime = 	 120.11 ms
+Task launched at: 97.952 sec
+
+Jobtime = 	 118.283 ms
+Task launched at: 98.189 sec
+
+Jobtime = 	 120.687 ms
+Task launched at: 98.43 sec
+
+Jobtime = 	 118.326 ms
+Task launched at: 98.668 sec
+
+Jobtime = 	 120.392 ms
+Task launched at: 98.91 sec
+
+Jobtime = 	 119.584 ms
+Task launched at: 99.15 sec
+
+Jobtime = 	 118.629 ms
+Task launched at: 99.388 sec
+
+Jobtime = 	 119.846 ms
+Task launched at: 99.629 sec
+
+Jobtime = 	 118.852 ms
+Task launched at: 99.867 sec
+
+Jobtime = 	 107.046 ms
+Task launched at: 100.079 sec
+
+Jobtime = 	 118.04 ms
+Task launched at: 100.319 sec
+
+Jobtime = 	 119.798 ms
+Task launched at: 100.557 sec
+
+Jobtime = 	 120.577 ms
+Task launched at: 100.798 sec
+
+Jobtime = 	 117.811 ms
+Task launched at: 101.035 sec
+
+Jobtime = 	 119.172 ms
+Task launched at: 101.276 sec
+
+Jobtime = 	 120.658 ms
+Task launched at: 101.518 sec
+
+Jobtime = 	 118.474 ms
+Task launched at: 101.756 sec
+
+Jobtime = 	 118.424 ms
+Task launched at: 101.994 sec
+
+Jobtime = 	 120.204 ms
+Task launched at: 102.235 sec
+
+Jobtime = 	 120.309 ms
+Task launched at: 102.473 sec
+
+Jobtime = 	 118.871 ms
+Task launched at: 102.711 sec
+
+Jobtime = 	 120.409 ms
+Task launched at: 102.951 sec
+
+Jobtime = 	 122.257 ms
+Task launched at: 103.194 sec
+
+Jobtime = 	 120.448 ms
+Task launched at: 103.434 sec
+
+Jobtime = 	 120.462 ms
+Task launched at: 103.672 sec
+
+Jobtime = 	 120.239 ms
+Task launched at: 103.912 sec
+
+Jobtime = 	 121.096 ms
+Task launched at: 104.153 sec
+
+Jobtime = 	 118.882 ms
+Task launched at: 104.39 sec
+
+Jobtime = 	 118.479 ms
+Task launched at: 104.628 sec
+
+Jobtime = 	 120.741 ms
+Task launched at: 104.869 sec
+
+Jobtime = 	 120.226 ms
+Task launched at: 105.108 sec
+
+Jobtime = 	 111.262 ms
+Task launched at: 105.329 sec
+
+Jobtime = 	 120.62 ms
+Task launched at: 105.57 sec
+
+Jobtime = 	 108.413 ms
+Task launched at: 105.789 sec
+
+Jobtime = 	 120.272 ms
+Task launched at: 106.03 sec
+
+Jobtime = 	 119.191 ms
+Task launched at: 106.271 sec
+
+Jobtime = 	 118.295 ms
+Task launched at: 106.508 sec
+
+Jobtime = 	 119.575 ms
+Task launched at: 106.748 sec
+
+Jobtime = 	 120.512 ms
+Task launched at: 106.987 sec
+
+Jobtime = 	 119.039 ms
+Task launched at: 107.225 sec
+
+Jobtime = 	 120.341 ms
+Task launched at: 107.465 sec
+
+Jobtime = 	 118.709 ms
+Task launched at: 107.704 sec
+
+Jobtime = 	 120.365 ms
+Task launched at: 107.945 sec
+
+Jobtime = 	 119.564 ms
+Task launched at: 108.185 sec
+
+Jobtime = 	 118.643 ms
+Task launched at: 108.424 sec
+
+Jobtime = 	 119.786 ms
+Task launched at: 108.663 sec
+
+Jobtime = 	 119.263 ms
+Task launched at: 108.902 sec
+
+Jobtime = 	 119.86 ms
+Task launched at: 109.14 sec
+
+Jobtime = 	 121.457 ms
+Task launched at: 109.382 sec
+
+Jobtime = 	 121.425 ms
+Task launched at: 109.621 sec
+
+Jobtime = 	 113.471 ms
+Task launched at: 109.849 sec
+
+Jobtime = 	 121.599 ms
+Task launched at: 110.091 sec
+
+Jobtime = 	 104.632 ms
+Task launched at: 110.297 sec
+
+Jobtime = 	 120.474 ms
+Task launched at: 110.538 sec
+
+Jobtime = 	 117.73 ms
+Task launched at: 110.776 sec
+
+Jobtime = 	 119.544 ms
+Task launched at: 111.017 sec
+
+Jobtime = 	 119.689 ms
+Task launched at: 111.257 sec
+
+Jobtime = 	 118.992 ms
+Task launched at: 111.496 sec
+
+Jobtime = 	 119.58 ms
+Task launched at: 111.736 sec
+
+Jobtime = 	 118.97 ms
+Task launched at: 111.974 sec
+
+Jobtime = 	 120.523 ms
+Task launched at: 112.213 sec
+
+Jobtime = 	 120.953 ms
+Task launched at: 112.454 sec
+
+Jobtime = 	 118.011 ms
+Task launched at: 112.693 sec
+
+Jobtime = 	 120.208 ms
+Task launched at: 112.932 sec
+
+Jobtime = 	 121.219 ms
+Task launched at: 113.173 sec
+
+Jobtime = 	 119.001 ms
+Task launched at: 113.412 sec
+
+Jobtime = 	 117.863 ms
+Task launched at: 113.648 sec
+
+Jobtime = 	 120.765 ms
+Task launched at: 113.89 sec
+
+Jobtime = 	 95.5052 ms
+Task launched at: 114.079 sec
+
+Jobtime = 	 120.346 ms
+Task launched at: 114.32 sec
+
+Jobtime = 	 118.298 ms
+Task launched at: 114.559 sec
+
+Jobtime = 	 120.402 ms
+Task launched at: 114.8 sec
+
+Jobtime = 	 118.245 ms
+Task launched at: 115.037 sec
+
+Jobtime = 	 119.87 ms
+Task launched at: 115.276 sec
+
+Jobtime = 	 121.714 ms
+Task launched at: 115.518 sec
+
+Jobtime = 	 118.154 ms
+Task launched at: 115.756 sec
+
+Jobtime = 	 119.064 ms
+Task launched at: 115.995 sec
+
+Jobtime = 	 119.707 ms
+Task launched at: 116.235 sec
+
+Jobtime = 	 120.617 ms
+Task launched at: 116.475 sec
+
+Jobtime = 	 118.689 ms
+Task launched at: 116.712 sec
+
+Jobtime = 	 120.605 ms
+Task launched at: 116.952 sec
+
+Jobtime = 	 102.936 ms
+Task launched at: 117.162 sec
+
+Jobtime = 	 120.058 ms
+Task launched at: 117.401 sec
+
+Jobtime = 	 118.725 ms
+Task launched at: 117.64 sec
+
+Jobtime = 	 118.159 ms
+Task launched at: 117.877 sec
+
+Jobtime = 	 120.36 ms
+Task launched at: 118.118 sec
+
+Jobtime = 	 120.639 ms
+Task launched at: 118.358 sec
+
+Jobtime = 	 120.518 ms
+Task launched at: 118.598 sec
+
+Jobtime = 	 118.266 ms
+Task launched at: 118.835 sec
+
+Jobtime = 	 118.502 ms
+Task launched at: 119.074 sec
+
+Jobtime = 	 119.95 ms
+Task launched at: 119.315 sec
+
+Jobtime = 	 119.491 ms
+Task launched at: 119.553 sec
+
+Jobtime = 	 119.653 ms
+Task launched at: 119.791 sec
+
+Jobtime = 	 121.196 ms
+Task launched at: 120.033 sec
+
+Jobtime = 	 118.991 ms
+Task launched at: 120.272 sec
+
+Jobtime = 	 119.135 ms
+Task launched at: 120.51 sec
+
+Jobtime = 	 120.676 ms
+Task launched at: 120.751 sec
+
+Jobtime = 	 119.825 ms
+Task launched at: 120.989 sec
+
+Jobtime = 	 121.108 ms
+Task launched at: 121.231 sec
+
+Jobtime = 	 118.341 ms
+Task launched at: 121.469 sec
+
+Jobtime = 	 118.714 ms
+Task launched at: 121.707 sec
+
+Jobtime = 	 120.6 ms
+Task launched at: 121.948 sec
+
+Jobtime = 	 88.0678 ms
+Task launched at: 122.122 sec
+
+Jobtime = 	 121.497 ms
+Task launched at: 122.364 sec
+
+Jobtime = 	 118.434 ms
+Task launched at: 122.602 sec
+
+Jobtime = 	 95.1803 ms
+Task launched at: 122.794 sec
+
+Jobtime = 	 111.973 ms
+Task launched at: 123.017 sec
+
+Jobtime = 	 121.692 ms
+Task launched at: 123.259 sec
+
+Jobtime = 	 118.589 ms
+Task launched at: 123.495 sec
+
+Jobtime = 	 118.945 ms
+Task launched at: 123.735 sec
+
+Jobtime = 	 119.867 ms
+Task launched at: 123.975 sec
+
+Jobtime = 	 120.62 ms
+Task launched at: 124.215 sec
+
+Jobtime = 	 118.918 ms
+Task launched at: 124.452 sec
+
+Jobtime = 	 120.434 ms
+Task launched at: 124.692 sec
+
+Jobtime = 	 119.001 ms
+Task launched at: 124.932 sec
+
+Jobtime = 	 119.062 ms
+Task launched at: 125.171 sec
+
+Jobtime = 	 121.282 ms
+Task launched at: 125.413 sec
+
+Jobtime = 	 117.941 ms
+Task launched at: 125.651 sec
+
+Jobtime = 	 120.045 ms
+Task launched at: 125.893 sec
+
+Jobtime = 	 99.8001 ms
+Task launched at: 126.097 sec
+
+Jobtime = 	 121.012 ms
+Task launched at: 126.338 sec
+
+Jobtime = 	 118.568 ms
+Task launched at: 126.575 sec
+
+Jobtime = 	 118.4 ms
+Task launched at: 126.813 sec
+
+Jobtime = 	 121.135 ms
+Task launched at: 127.056 sec
+
+Jobtime = 	 118.487 ms
+Task launched at: 127.293 sec
+
+Jobtime = 	 120.657 ms
+Task launched at: 127.532 sec
+
+Jobtime = 	 121.177 ms
+Task launched at: 127.773 sec
+
+Jobtime = 	 118.807 ms
+Task launched at: 128.013 sec
+
+Jobtime = 	 118.814 ms
+Task launched at: 128.25 sec
+
+Jobtime = 	 119.803 ms
+Task launched at: 128.49 sec
+
+Jobtime = 	 120.872 ms
+Task launched at: 128.73 sec
+
+Jobtime = 	 118.87 ms
+Task launched at: 128.968 sec
+
+Jobtime = 	 120.309 ms
+Task launched at: 129.208 sec
+
+Jobtime = 	 118.193 ms
+Task launched at: 129.447 sec
+
+Jobtime = 	 119.876 ms
+Task launched at: 129.688 sec
+
+Jobtime = 	 119.874 ms
+Task launched at: 129.928 sec
+
+Jobtime = 	 118.606 ms
+Task launched at: 130.167 sec
+
+Jobtime = 	 119.862 ms
+Task launched at: 130.407 sec
+
+Jobtime = 	 119.022 ms
+Task launched at: 130.645 sec
+
+Jobtime = 	 120.168 ms
+Task launched at: 130.884 sec
+
+Jobtime = 	 120.403 ms
+Task launched at: 131.125 sec
+
+Jobtime = 	 118.052 ms
+Task launched at: 131.363 sec
+
+Jobtime = 	 118.563 ms
+Task launched at: 131.602 sec
+
+Jobtime = 	 121.275 ms
+Task launched at: 131.844 sec
+
+Jobtime = 	 118.71 ms
+Task launched at: 132.083 sec
+
+Jobtime = 	 118.373 ms
+Task launched at: 132.322 sec
+
+Jobtime = 	 121.111 ms
+Task launched at: 132.564 sec
+
+Jobtime = 	 118.722 ms
+Task launched at: 132.802 sec
+
+Jobtime = 	 120.705 ms
+Task launched at: 133.044 sec
+
+Jobtime = 	 118.476 ms
+Task launched at: 133.281 sec
+
+Jobtime = 	 120.155 ms
+Task launched at: 133.521 sec
+
+Jobtime = 	 120.864 ms
+Task launched at: 133.762 sec
+
+Jobtime = 	 118.351 ms
+Task launched at: 134 sec
+
+Jobtime = 	 118.88 ms
+Task launched at: 134.238 sec
+
+Jobtime = 	 119.677 ms
+Task launched at: 134.478 sec
+
+Jobtime = 	 120.595 ms
+Task launched at: 134.718 sec
+
+Jobtime = 	 118.528 ms
+Task launched at: 134.955 sec
+
+Jobtime = 	 121.084 ms
+Task launched at: 135.196 sec
+
+Jobtime = 	 119.306 ms
+Task launched at: 135.435 sec
+
+Jobtime = 	 120.601 ms
+Task launched at: 135.676 sec
+
+Jobtime = 	 118.591 ms
+Task launched at: 135.914 sec
+
+Jobtime = 	 120.148 ms
+Task launched at: 136.152 sec
+
+Jobtime = 	 119.542 ms
+Task launched at: 136.396 sec
+
+Jobtime = 	 118.691 ms
+Task launched at: 136.634 sec
+
+Jobtime = 	 107.192 ms
+Task launched at: 136.847 sec
+
+Jobtime = 	 120.434 ms
+Task launched at: 137.088 sec
+
+Jobtime = 	 109.558 ms
+Task launched at: 137.304 sec
+
+Jobtime = 	 121.299 ms
+Task launched at: 137.546 sec
+
+Jobtime = 	 117.89 ms
+Task launched at: 137.784 sec
+
+Jobtime = 	 118.933 ms
+Task launched at: 138.022 sec
+
+Jobtime = 	 119.612 ms
+Task launched at: 138.262 sec
+
+Jobtime = 	 120.718 ms
+Task launched at: 138.502 sec
+
+Jobtime = 	 120.582 ms
+Task launched at: 138.743 sec
+
+Jobtime = 	 119.84 ms
+Task launched at: 138.982 sec
+
+Jobtime = 	 120.688 ms
+Task launched at: 139.222 sec
+
+Jobtime = 	 120.21 ms
+Task launched at: 139.462 sec
+
+Jobtime = 	 119.417 ms
+Task launched at: 139.7 sec
+
+Jobtime = 	 118.579 ms
+Task launched at: 139.938 sec
+
+Jobtime = 	 120.34 ms
+Task launched at: 140.18 sec
+
+Jobtime = 	 119.977 ms
+Task launched at: 140.418 sec
+
+Jobtime = 	 118.996 ms
+Task launched at: 140.655 sec
+
+Jobtime = 	 121.233 ms
+Task launched at: 140.897 sec
+
+Jobtime = 	 118.277 ms
+Task launched at: 141.136 sec
+
+Jobtime = 	 118.419 ms
+Task launched at: 141.372 sec
+
+Jobtime = 	 120.37 ms
+Task launched at: 141.614 sec
+
+Jobtime = 	 83.7772 ms
+Task launched at: 141.785 sec
+
+Jobtime = 	 120.107 ms
+Task launched at: 142.023 sec
+
+Jobtime = 	 119.313 ms
+Task launched at: 142.261 sec
+
+Jobtime = 	 120.636 ms
+Task launched at: 142.501 sec
+
+Jobtime = 	 118.483 ms
+Task launched at: 142.74 sec
+
+Jobtime = 	 118.906 ms
+Task launched at: 142.978 sec
+
+Jobtime = 	 119.871 ms
+Task launched at: 143.219 sec
+
+Jobtime = 	 120.785 ms
+Task launched at: 143.459 sec
+
+Jobtime = 	 120.778 ms
+Task launched at: 143.699 sec
+
+Jobtime = 	 119.89 ms
+Task launched at: 143.939 sec
+
+Jobtime = 	 120.488 ms
+Task launched at: 144.178 sec
+
+Jobtime = 	 120.533 ms
+Task launched at: 144.419 sec
+
+Jobtime = 	 120.348 ms
+Task launched at: 144.659 sec
+
+Jobtime = 	 120.42 ms
+Task launched at: 144.898 sec
+
+Jobtime = 	 120.275 ms
+Task launched at: 145.138 sec
+
+Jobtime = 	 119.008 ms
+Task launched at: 145.377 sec
+
+Jobtime = 	 118.524 ms
+Task launched at: 145.614 sec
+
+Jobtime = 	 120.297 ms
+Task launched at: 145.856 sec
+
+Jobtime = 	 119.723 ms
+Task launched at: 146.093 sec
+
+Jobtime = 	 88.5025 ms
+Task launched at: 146.27 sec
+
+Jobtime = 	 118.358 ms
+Task launched at: 146.509 sec
+
+Jobtime = 	 120.865 ms
+Task launched at: 146.751 sec
+
+Jobtime = 	 117.898 ms
+Task launched at: 146.987 sec
+
+Jobtime = 	 120.066 ms
+Task launched at: 147.226 sec
+
+Jobtime = 	 121.328 ms
+Task launched at: 147.468 sec
+
+Jobtime = 	 118.631 ms
+Task launched at: 147.707 sec
+
+Jobtime = 	 118.721 ms
+Task launched at: 147.943 sec
+
+Jobtime = 	 119.887 ms
+Task launched at: 148.184 sec
+
+Jobtime = 	 120.767 ms
+Task launched at: 148.424 sec
+
+Jobtime = 	 120.482 ms
+Task launched at: 148.664 sec
+
+Jobtime = 	 118.07 ms
+Task launched at: 148.9 sec
+
+Jobtime = 	 119.097 ms
+Task launched at: 149.14 sec
+
+Jobtime = 	 120.222 ms
+Task launched at: 149.381 sec
+
+Jobtime = 	 119.742 ms
+Task launched at: 149.622 sec
+
+Jobtime = 	 117.832 ms
+Task launched at: 149.859 sec
+
+Jobtime = 	 120.687 ms
+Task launched at: 150.101 sec
+
+Jobtime = 	 120.128 ms
+Task launched at: 150.34 sec
+
+Jobtime = 	 118.46 ms
+Task launched at: 150.577 sec
+
+Jobtime = 	 120.552 ms
+Task launched at: 150.818 sec
+
+Jobtime = 	 119.096 ms
+Task launched at: 151.057 sec
+
+Jobtime = 	 119.62 ms
+Task launched at: 151.295 sec
+
+Jobtime = 	 119.948 ms
+Task launched at: 151.536 sec
+
+Jobtime = 	 119.728 ms
+Task launched at: 151.774 sec
+
+Jobtime = 	 121.174 ms
+Task launched at: 152.016 sec
+
+Jobtime = 	 120.283 ms
+Task launched at: 152.256 sec
+
+Jobtime = 	 120.783 ms
+Task launched at: 152.496 sec
+
+Jobtime = 	 119.717 ms
+Task launched at: 152.735 sec
+
+Jobtime = 	 120.048 ms
+Task launched at: 152.975 sec
+
+Jobtime = 	 120.963 ms
+Task launched at: 153.215 sec
+
+Jobtime = 	 120.568 ms
+Task launched at: 153.456 sec
+
+Jobtime = 	 118.472 ms
+Task launched at: 153.695 sec
+
+Jobtime = 	 118.969 ms
+Task launched at: 153.932 sec
+
+Jobtime = 	 120.556 ms
+Task launched at: 154.173 sec
+
+Jobtime = 	 120.481 ms
+Task launched at: 154.412 sec
+
+Jobtime = 	 118.232 ms
+Task launched at: 154.648 sec
+
+Jobtime = 	 121.242 ms
+Task launched at: 154.89 sec
+
+Jobtime = 	 119.396 ms
+Task launched at: 155.129 sec
+
+Jobtime = 	 120.368 ms
+Task launched at: 155.37 sec
+
+Jobtime = 	 94.8464 ms
+Task launched at: 155.558 sec
+
+Jobtime = 	 121.675 ms
+Task launched at: 155.8 sec
+
+Jobtime = 	 118.994 ms
+Task launched at: 156.037 sec
+
+Jobtime = 	 118.841 ms
+Task launched at: 156.276 sec
+
+Jobtime = 	 120.196 ms
+Task launched at: 156.517 sec
+
+Jobtime = 	 120.006 ms
+Task launched at: 156.755 sec
+
+Jobtime = 	 121.265 ms
+Task launched at: 156.996 sec
+
+Jobtime = 	 120.482 ms
+Task launched at: 157.237 sec
+
+Jobtime = 	 117.548 ms
+Task launched at: 157.477 sec
+
+Jobtime = 	 118.405 ms
+Task launched at: 157.715 sec
+
+Jobtime = 	 120.259 ms
+Task launched at: 157.956 sec
+
+Jobtime = 	 120.693 ms
+Task launched at: 158.196 sec
+
+Jobtime = 	 120.602 ms
+Task launched at: 158.436 sec
+
+Jobtime = 	 118.71 ms
+Task launched at: 158.672 sec
+
+Jobtime = 	 118.644 ms
+Task launched at: 158.911 sec
+
+Jobtime = 	 120.387 ms
+Task launched at: 159.152 sec
+
+Jobtime = 	 119.374 ms
+Task launched at: 159.392 sec
+
+Jobtime = 	 117.929 ms
+Task launched at: 159.631 sec
+
+Jobtime = 	 119.571 ms
+Task launched at: 159.87 sec
+
+Jobtime = 	 119.86 ms
+Task launched at: 160.112 sec
+
+Jobtime = 	 118.221 ms
+Task launched at: 160.35 sec
+
+Jobtime = 	 124.491 ms
+Task launched at: 160.594 sec
+
+Jobtime = 	 117.277 ms
+Task launched at: 160.831 sec
+
+Jobtime = 	 117.001 ms
+Task launched at: 161.067 sec
+
+Jobtime = 	 120.866 ms
+Task launched at: 161.308 sec
+
+Jobtime = 	 118.86 ms
+Task launched at: 161.547 sec
+
+Jobtime = 	 119.991 ms
+Task launched at: 161.788 sec
+
+Jobtime = 	 117.798 ms
+Task launched at: 162.024 sec
+
+Jobtime = 	 120.892 ms
+Task launched at: 162.264 sec
+
+Jobtime = 	 119.565 ms
+Task launched at: 162.507 sec
+
+Jobtime = 	 118.404 ms
+Task launched at: 162.744 sec
+
+Jobtime = 	 120.389 ms
+Task launched at: 162.983 sec
+
+Jobtime = 	 120.477 ms
+Task launched at: 163.223 sec
+
+Jobtime = 	 119.336 ms
+Task launched at: 163.464 sec
+
+Jobtime = 	 117.864 ms
+Task launched at: 163.699 sec
+
+Jobtime = 	 120.116 ms
+Task launched at: 163.941 sec
+
+Jobtime = 	 119.334 ms
+Task launched at: 164.182 sec
+
+Jobtime = 	 118.665 ms
+Task launched at: 164.421 sec
+
+Jobtime = 	 85.6625 ms
+Task launched at: 164.596 sec
+
+Jobtime = 	 121.625 ms
+Task launched at: 164.838 sec
+
+Jobtime = 	 110.886 ms
+Task launched at: 165.062 sec
+
+Jobtime = 	 119.102 ms
+Task launched at: 165.3 sec
+
+Jobtime = 	 119.987 ms
+Task launched at: 165.54 sec
+
+Jobtime = 	 100.923 ms
+Task launched at: 165.739 sec
+
+Jobtime = 	 120.737 ms
+Task launched at: 165.981 sec
+
+Jobtime = 	 118.241 ms
+Task launched at: 166.219 sec
+
+Jobtime = 	 120.324 ms
+Task launched at: 166.461 sec
+
+Jobtime = 	 119.283 ms
+Task launched at: 166.7 sec
+
+Jobtime = 	 118.854 ms
+Task launched at: 166.939 sec
+
+Jobtime = 	 120.234 ms
+Task launched at: 167.18 sec
+
+Jobtime = 	 118.407 ms
+Task launched at: 167.417 sec
+
+Jobtime = 	 120.017 ms
+Task launched at: 167.656 sec
+
+Jobtime = 	 120.184 ms
+Task launched at: 167.896 sec
+
+Jobtime = 	 119.189 ms
+Task launched at: 168.136 sec
+
+Jobtime = 	 117.992 ms
+Task launched at: 168.373 sec
+
+Jobtime = 	 119.757 ms
+Task launched at: 168.613 sec
+
+Jobtime = 	 120.207 ms
+Task launched at: 168.852 sec
+
+Jobtime = 	 118.292 ms
+Task launched at: 169.089 sec
+
+Jobtime = 	 121.113 ms
+Task launched at: 169.33 sec
+
+Jobtime = 	 99.8493 ms
+Task launched at: 169.533 sec
+
+Jobtime = 	 120.685 ms
+Task launched at: 169.775 sec
+
+Jobtime = 	 119.653 ms
+Task launched at: 170.012 sec
+
+Jobtime = 	 117.862 ms
+Task launched at: 170.253 sec
+
+Jobtime = 	 118.125 ms
+Task launched at: 170.49 sec
+
+Jobtime = 	 119.148 ms
+Task launched at: 170.73 sec
+
+Jobtime = 	 124.16 ms
+Task launched at: 170.974 sec
+
+Jobtime = 	 119.651 ms
+Task launched at: 171.213 sec
+
+Jobtime = 	 119.942 ms
+Task launched at: 171.451 sec
+
+Jobtime = 	 120.82 ms
+Task launched at: 171.692 sec
+
+Jobtime = 	 119.231 ms
+Task launched at: 171.932 sec
+
+Jobtime = 	 118.954 ms
+Task launched at: 172.17 sec
+
+Jobtime = 	 119.448 ms
+Task launched at: 172.409 sec
+
+Jobtime = 	 120.331 ms
+Task launched at: 172.649 sec
+
+Jobtime = 	 118.289 ms
+Task launched at: 172.885 sec
+
+Jobtime = 	 121.488 ms
+Task launched at: 173.128 sec
+
+Jobtime = 	 117.745 ms
+Task launched at: 173.366 sec
+
+Jobtime = 	 120.242 ms
+Task launched at: 173.606 sec
+
+Jobtime = 	 119.251 ms
+Task launched at: 173.844 sec
+
+Jobtime = 	 95.4407 ms
+Task launched at: 174.033 sec
+
+Jobtime = 	 118.283 ms
+Task launched at: 174.269 sec
+
+Jobtime = 	 119.04 ms
+Task launched at: 174.508 sec
+
+Jobtime = 	 89.7994 ms
+Task launched at: 174.687 sec
+
+Jobtime = 	 118.348 ms
+Task launched at: 174.925 sec
+
+Jobtime = 	 120.447 ms
+Task launched at: 175.165 sec
+
+Jobtime = 	 118.744 ms
+Task launched at: 175.404 sec
+
+Jobtime = 	 120.792 ms
+Task launched at: 175.646 sec
+
+Jobtime = 	 118.321 ms
+Task launched at: 175.882 sec
+
+Jobtime = 	 120.311 ms
+Task launched at: 176.122 sec
+
+Jobtime = 	 120.33 ms
+Task launched at: 176.362 sec
+
+Jobtime = 	 118.865 ms
+Task launched at: 176.601 sec
+
+Jobtime = 	 118.764 ms
+Task launched at: 176.839 sec
+
+Jobtime = 	 119.781 ms
+Task launched at: 177.079 sec
+
+Jobtime = 	 120.595 ms
+Task launched at: 177.318 sec
+
+Jobtime = 	 118.251 ms
+Task launched at: 177.555 sec
+
+Jobtime = 	 121.586 ms
+Task launched at: 177.797 sec
+
+Jobtime = 	 117.745 ms
+Task launched at: 178.035 sec
+
+Jobtime = 	 89.6409 ms
+Task launched at: 178.21 sec
+
+Jobtime = 	 106.169 ms
+Task launched at: 178.425 sec
+
+Jobtime = 	 121.471 ms
+Task launched at: 178.667 sec
+
+Jobtime = 	 117.787 ms
+Task launched at: 178.907 sec
+
+Jobtime = 	 121.043 ms
+Task launched at: 179.149 sec
+
+Jobtime = 	 118.322 ms
+Task launched at: 179.386 sec
+
+Jobtime = 	 119.252 ms
+Task launched at: 179.626 sec
+
+Jobtime = 	 119.56 ms
+Task launched at: 179.866 sec
+
+Jobtime = 	 117.771 ms
+Task launched at: 180.103 sec
+
+Jobtime = 	 120.896 ms
+Task launched at: 180.342 sec
+
+Jobtime = 	 121.288 ms
+Task launched at: 180.584 sec
+
+Jobtime = 	 118.554 ms
+Task launched at: 180.823 sec
+
+Jobtime = 	 117.798 ms
+Task launched at: 181.059 sec
+
+Jobtime = 	 120.388 ms
+Task launched at: 181.3 sec
+
+Jobtime = 	 120.424 ms
+Task launched at: 181.54 sec
+
+Jobtime = 	 120.673 ms
+Task launched at: 181.781 sec
+
+Jobtime = 	 120.005 ms
+Task launched at: 182.019 sec
+
+Jobtime = 	 120.381 ms
+Task launched at: 182.259 sec
+
+Jobtime = 	 120.387 ms
+Task launched at: 182.499 sec
+
+Jobtime = 	 120.81 ms
+Task launched at: 182.74 sec
+
+Jobtime = 	 119.793 ms
+Task launched at: 182.977 sec
+
+Jobtime = 	 120.982 ms
+Task launched at: 183.219 sec
+
+Jobtime = 	 118.513 ms
+Task launched at: 183.458 sec
+
+Jobtime = 	 108.723 ms
+Task launched at: 183.677 sec
+
+Jobtime = 	 118.513 ms
+Task launched at: 183.92 sec
+
+Jobtime = 	 122.532 ms
+Task launched at: 184.161 sec
+
+Jobtime = 	 120.709 ms
+Task launched at: 184.403 sec
+
+Jobtime = 	 118.506 ms
+Task launched at: 184.64 sec
+
+Jobtime = 	 119.911 ms
+Task launched at: 184.878 sec
+
+Jobtime = 	 121.173 ms
+Task launched at: 185.119 sec
+
+Jobtime = 	 119.789 ms
+Task launched at: 185.358 sec
+
+Jobtime = 	 120.656 ms
+Task launched at: 185.598 sec
+
+Jobtime = 	 119.858 ms
+Task launched at: 185.838 sec
+
+Jobtime = 	 119.508 ms
+Task launched at: 186.078 sec
+
+Jobtime = 	 118.452 ms
+Task launched at: 186.314 sec
+
+Jobtime = 	 120.313 ms
+Task launched at: 186.555 sec
+
+Jobtime = 	 120.522 ms
+Task launched at: 186.794 sec
+
+Jobtime = 	 118.271 ms
+Task launched at: 187.031 sec
+
+Jobtime = 	 120.843 ms
+Task launched at: 187.272 sec
+
+Jobtime = 	 118.716 ms
+Task launched at: 187.51 sec
+
+Jobtime = 	 120.25 ms
+Task launched at: 187.752 sec
+
+Jobtime = 	 118.283 ms
+Task launched at: 187.989 sec
+
+Jobtime = 	 105.009 ms
+Task launched at: 188.197 sec
+
+Jobtime = 	 121.062 ms
+Task launched at: 188.439 sec
+
+Jobtime = 	 121.808 ms
+Task launched at: 188.68 sec
+
+Jobtime = 	 120.873 ms
+Task launched at: 188.922 sec
+
+Jobtime = 	 117.605 ms
+Task launched at: 189.158 sec
+
+Jobtime = 	 118.576 ms
+Task launched at: 189.397 sec
+
+Jobtime = 	 120.208 ms
+Task launched at: 189.639 sec
+
+Jobtime = 	 117.978 ms
+Task launched at: 189.875 sec
+
+Jobtime = 	 120.226 ms
+Task launched at: 190.114 sec
+
+Jobtime = 	 120.6 ms
+Task launched at: 190.354 sec
+
+Jobtime = 	 118.785 ms
+Task launched at: 190.594 sec
+
+Jobtime = 	 118.641 ms
+Task launched at: 190.831 sec
+
+Jobtime = 	 120.017 ms
+Task launched at: 191.072 sec
+
+Jobtime = 	 120.766 ms
+Task launched at: 191.311 sec
+
+Jobtime = 	 120.926 ms
+Task launched at: 191.552 sec
+
+Jobtime = 	 120.442 ms
+Task launched at: 191.792 sec
+
+Jobtime = 	 119.991 ms
+Task launched at: 192.03 sec
+
+Jobtime = 	 121.192 ms
+Task launched at: 192.271 sec
+
+Jobtime = 	 118.756 ms
+Task launched at: 192.509 sec
+
+Jobtime = 	 118.565 ms
+Task launched at: 192.747 sec
+
+Jobtime = 	 120.673 ms
+Task launched at: 192.989 sec
+
+Jobtime = 	 119.341 ms
+Task launched at: 193.23 sec
+
+Jobtime = 	 108.017 ms
+Task launched at: 193.449 sec
+
+Jobtime = 	 121.31 ms
+Task launched at: 193.691 sec
+
+Jobtime = 	 117.818 ms
+Task launched at: 193.928 sec
+
+Jobtime = 	 120.685 ms
+Task launched at: 194.17 sec
+
+Jobtime = 	 119.235 ms
+Task launched at: 194.409 sec
+
+Jobtime = 	 119.131 ms
+Task launched at: 194.648 sec
+
+Jobtime = 	 119.767 ms
+Task launched at: 194.889 sec
+
+Jobtime = 	 118.571 ms
+Task launched at: 195.126 sec
+
+Jobtime = 	 120.66 ms
+Task launched at: 195.365 sec
+
+Jobtime = 	 120.012 ms
+Task launched at: 195.606 sec
+
+Jobtime = 	 118.386 ms
+Task launched at: 195.845 sec
+
+Jobtime = 	 119.2 ms
+Task launched at: 196.082 sec
+
+Jobtime = 	 120.404 ms
+Task launched at: 196.323 sec
+
+Jobtime = 	 120.414 ms
+Task launched at: 196.562 sec
+
+Jobtime = 	 120.926 ms
+Task launched at: 196.803 sec
+
+Jobtime = 	 119.022 ms
+Task launched at: 197.041 sec
+
+Jobtime = 	 118.077 ms
+Task launched at: 197.279 sec
+
+Jobtime = 	 119.789 ms
+Task launched at: 197.52 sec
+
+Jobtime = 	 119.924 ms
+Task launched at: 197.76 sec
+
+Jobtime = 	 103.725 ms
+Task launched at: 197.971 sec
+
+Jobtime = 	 121.395 ms
+Task launched at: 198.213 sec
+
+Jobtime = 	 118.088 ms
+Task launched at: 198.451 sec
+
+Jobtime = 	 120.618 ms
+Task launched at: 198.693 sec
+
+Jobtime = 	 97.1398 ms
+Task launched at: 198.887 sec
+
+Jobtime = 	 94.4905 ms
+Task launched at: 199.081 sec
+
+Jobtime = 	 119.889 ms
+Task launched at: 199.319 sec
+
+Jobtime = 	 121.229 ms
+Task launched at: 199.561 sec
+
+Jobtime = 	 118.121 ms
+Task launched at: 199.798 sec
+
+Jobtime = 	 119.115 ms
+Task launched at: 200.037 sec
+
+Jobtime = 	 119.978 ms
+Task launched at: 200.277 sec
+
+Jobtime = 	 119.987 ms
+Task launched at: 200.516 sec
+
+Jobtime = 	 119.391 ms
+Task launched at: 200.754 sec
+
+Jobtime = 	 119.668 ms
+Task launched at: 200.993 sec
+
+Jobtime = 	 118.762 ms
+Task launched at: 201.233 sec
+
+Jobtime = 	 119.058 ms
+Task launched at: 201.472 sec
+
+Jobtime = 	 121.047 ms
+Task launched at: 201.713 sec
+
+Jobtime = 	 118.674 ms
+Task launched at: 201.952 sec
+
+Jobtime = 	 120.345 ms
+Task launched at: 202.192 sec
+
+Jobtime = 	 119.498 ms
+Task launched at: 202.43 sec
+
+Jobtime = 	 120.035 ms
+Task launched at: 202.668 sec
+
+Jobtime = 	 85.4878 ms
+Task launched at: 202.843 sec
+
+Jobtime = 	 118.654 ms
+Task launched at: 203.081 sec
+
+Jobtime = 	 121.214 ms
+Task launched at: 203.322 sec
+
+Jobtime = 	 118.332 ms
+Task launched at: 203.561 sec
+
+Jobtime = 	 120.375 ms
+Task launched at: 203.802 sec
+
+Jobtime = 	 118.612 ms
+Task launched at: 204.039 sec
+
+Jobtime = 	 120.494 ms
+Task launched at: 204.279 sec
+
+Jobtime = 	 121.55 ms
+Task launched at: 204.521 sec
+
+Jobtime = 	 119.824 ms
+Task launched at: 204.759 sec
+
+Jobtime = 	 120.627 ms
+Task launched at: 205.002 sec
+
+Jobtime = 	 119.964 ms
+Task launched at: 205.242 sec
+
+Jobtime = 	 120.601 ms
+Task launched at: 205.482 sec
+
+Jobtime = 	 118.485 ms
+Task launched at: 205.719 sec
+
+Jobtime = 	 120.719 ms
+Task launched at: 205.96 sec
+
+Jobtime = 	 118.846 ms
+Task launched at: 206.199 sec
+
+Jobtime = 	 118.883 ms
+Task launched at: 206.437 sec
+
+Jobtime = 	 119.842 ms
+Task launched at: 206.676 sec
+
+Jobtime = 	 120.638 ms
+Task launched at: 206.916 sec
+
+Jobtime = 	 120.343 ms
+Task launched at: 207.157 sec
+
+Jobtime = 	 120.5 ms
+Task launched at: 207.397 sec
+
+Jobtime = 	 120.009 ms
+Task launched at: 207.635 sec
+
+Jobtime = 	 121.091 ms
+Task launched at: 207.876 sec
+
+Jobtime = 	 118.881 ms
+Task launched at: 208.114 sec
+
+Jobtime = 	 118.251 ms
+Task launched at: 208.352 sec
+
+Jobtime = 	 120.561 ms
+Task launched at: 208.594 sec
+
+Jobtime = 	 120.307 ms
+Task launched at: 208.832 sec
+
+Jobtime = 	 113.043 ms
+Task launched at: 209.059 sec
+
+Jobtime = 	 121.483 ms
+Task launched at: 209.301 sec
+
+Jobtime = 	 118.44 ms
+Task launched at: 209.539 sec
+
+Jobtime = 	 120.291 ms
+Task launched at: 209.78 sec
+
+Jobtime = 	 118.068 ms
+Task launched at: 210.017 sec
+
+Jobtime = 	 120.91 ms
+Task launched at: 210.257 sec
+
+Jobtime = 	 121.126 ms
+Task launched at: 210.498 sec
+
+Jobtime = 	 117.889 ms
+Task launched at: 210.736 sec
+
+Jobtime = 	 120.656 ms
+Task launched at: 210.976 sec
+
+Jobtime = 	 121.172 ms
+Task launched at: 211.216 sec
+
+Jobtime = 	 119.01 ms
+Task launched at: 211.456 sec
+
+Jobtime = 	 117.69 ms
+Task launched at: 211.692 sec
+
+Jobtime = 	 120.53 ms
+Task launched at: 211.933 sec
+
+Jobtime = 	 120.33 ms
+Task launched at: 212.172 sec
+
+Jobtime = 	 120.509 ms
+Task launched at: 212.413 sec
+
+Jobtime = 	 120.867 ms
+Task launched at: 212.654 sec
+
+Jobtime = 	 118.825 ms
+Task launched at: 212.894 sec
+
+Jobtime = 	 120.703 ms
+Task launched at: 213.136 sec
+
+Jobtime = 	 77.5501 ms
+Task launched at: 213.29 sec
+
+Jobtime = 	 121.155 ms
+Task launched at: 213.531 sec
+
+Jobtime = 	 103.791 ms
+Task launched at: 213.74 sec
+
+Jobtime = 	 120.635 ms
+Task launched at: 213.981 sec
+
+Jobtime = 	 120.477 ms
+Task launched at: 214.22 sec
+
+Jobtime = 	 102.808 ms
+Task launched at: 214.43 sec
+
+Jobtime = 	 119.812 ms
+Task launched at: 214.668 sec
+
+Jobtime = 	 119.058 ms
+Task launched at: 214.905 sec
+
+Jobtime = 	 121.375 ms
+Task launched at: 215.147 sec
+
+Jobtime = 	 119.171 ms
+Task launched at: 215.386 sec
+
+Jobtime = 	 118.456 ms
+Task launched at: 215.625 sec
+
+Jobtime = 	 120.742 ms
+Task launched at: 215.866 sec
+
+Jobtime = 	 118.913 ms
+Task launched at: 216.106 sec
+
+Jobtime = 	 120.336 ms
+Task launched at: 216.347 sec
+
+Jobtime = 	 118.509 ms
+Task launched at: 216.584 sec
+
+Jobtime = 	 120.713 ms
+Task launched at: 216.823 sec
+
+Jobtime = 	 120.173 ms
+Task launched at: 217.063 sec
+
+Jobtime = 	 118.972 ms
+Task launched at: 217.303 sec
+
+Jobtime = 	 118.359 ms
+Task launched at: 217.54 sec
+
+Jobtime = 	 120.553 ms
+Task launched at: 217.781 sec
+
+Jobtime = 	 119.796 ms
+Task launched at: 218.02 sec
+
+Jobtime = 	 81.8357 ms
+Task launched at: 218.188 sec
+
+Jobtime = 	 120.205 ms
+Task launched at: 218.427 sec
+
+Jobtime = 	 120.626 ms
+Task launched at: 218.668 sec
+
+Jobtime = 	 118.5 ms
+Task launched at: 218.906 sec
+
+Jobtime = 	 119.181 ms
+Task launched at: 219.144 sec
+
+Jobtime = 	 120.059 ms
+Task launched at: 219.386 sec
+
+Jobtime = 	 119.95 ms
+Task launched at: 219.623 sec
+
+Jobtime = 	 118.855 ms
+Task launched at: 219.86 sec
+
+Jobtime = 	 120.916 ms
+Task launched at: 220.101 sec
+
+Jobtime = 	 119.399 ms
+Task launched at: 220.341 sec
+
+Jobtime = 	 119.77 ms
+Task launched at: 220.581 sec
+
+Jobtime = 	 118.419 ms
+Task launched at: 220.819 sec
+
+Jobtime = 	 119.993 ms
+Task launched at: 221.058 sec
+
+Jobtime = 	 121.015 ms
+Task launched at: 221.299 sec
+
+Jobtime = 	 120.432 ms
+Task launched at: 221.539 sec
+
+Jobtime = 	 119.951 ms
+Task launched at: 221.777 sec
+
+Jobtime = 	 121.009 ms
+Task launched at: 222.019 sec
+
+Jobtime = 	 118.714 ms
+Task launched at: 222.258 sec
+
+Jobtime = 	 117.6 ms
+Task launched at: 222.494 sec
+
+Jobtime = 	 120.645 ms
+Task launched at: 222.736 sec
+
+Jobtime = 	 119.734 ms
+Task launched at: 222.975 sec
+
+Jobtime = 	 118.526 ms
+Task launched at: 223.212 sec
+
+Jobtime = 	 87.7666 ms
+Task launched at: 223.39 sec
+
+Jobtime = 	 120.44 ms
+Task launched at: 223.631 sec
+
+Jobtime = 	 107.722 ms
+Task launched at: 223.844 sec
+
+Jobtime = 	 121.592 ms
+Task launched at: 224.087 sec
+
+Jobtime = 	 118.212 ms
+Task launched at: 224.324 sec
+
+Jobtime = 	 103.014 ms
+Task launched at: 224.533 sec
+
+Jobtime = 	 119.738 ms
+Task launched at: 224.773 sec
+
+Jobtime = 	 120.111 ms
+Task launched at: 225.013 sec
+
+Jobtime = 	 121.395 ms
+Task launched at: 225.254 sec
+
+Jobtime = 	 119.402 ms
+Task launched at: 225.492 sec
+
+Jobtime = 	 120.739 ms
+Task launched at: 225.731 sec
+
+Jobtime = 	 120.969 ms
+Task launched at: 225.972 sec
+
+Jobtime = 	 120.211 ms
+Task launched at: 226.213 sec
+
+Jobtime = 	 119.864 ms
+Task launched at: 226.451 sec
+
+Jobtime = 	 120.636 ms
+Task launched at: 226.692 sec
+
+Jobtime = 	 118.886 ms
+Task launched at: 226.931 sec
+
+Jobtime = 	 108.1 ms
+Task launched at: 227.15 sec
+
+Jobtime = 	 120.805 ms
+Task launched at: 227.391 sec
+
+Jobtime = 	 118.096 ms
+Task launched at: 227.629 sec
+
+Jobtime = 	 121.016 ms
+Task launched at: 227.871 sec
+
+Jobtime = 	 118.425 ms
+Task launched at: 228.108 sec
+
+Jobtime = 	 120.339 ms
+Task launched at: 228.347 sec
+
+Jobtime = 	 120.655 ms
+Task launched at: 228.587 sec
+
+Jobtime = 	 119.357 ms
+Task launched at: 228.827 sec
+
+Jobtime = 	 118.29 ms
+Task launched at: 229.065 sec
+
+Jobtime = 	 119.724 ms
+Task launched at: 229.305 sec
+
+Jobtime = 	 120.646 ms
+Task launched at: 229.544 sec
+
+Jobtime = 	 118.727 ms
+Task launched at: 229.782 sec
+
+Jobtime = 	 121.253 ms
+Task launched at: 230.023 sec
+
+Jobtime = 	 118.834 ms
+Task launched at: 230.262 sec
+
+Jobtime = 	 119.763 ms
+Task launched at: 230.502 sec
+
+Jobtime = 	 118.88 ms
+Task launched at: 230.74 sec
+
+Jobtime = 	 120.46 ms
+Task launched at: 230.979 sec
+
+Jobtime = 	 120.739 ms
+Task launched at: 231.22 sec
+
+Jobtime = 	 118.099 ms
+Task launched at: 231.457 sec
+
+Jobtime = 	 118.708 ms
+Task launched at: 231.696 sec
+
+Jobtime = 	 119.971 ms
+Task launched at: 231.937 sec
+
+Jobtime = 	 120.436 ms
+Task launched at: 232.176 sec
+
+Jobtime = 	 118.303 ms
+Task launched at: 232.412 sec
+
+Jobtime = 	 120.919 ms
+Task launched at: 232.653 sec
+
+Jobtime = 	 118.65 ms
+Task launched at: 232.893 sec
+
+Jobtime = 	 118.597 ms
+Task launched at: 233.132 sec
+
+Jobtime = 	 120.498 ms
+Task launched at: 233.373 sec
+
+Jobtime = 	 94.9598 ms
+Task launched at: 233.565 sec
+
+Jobtime = 	 118.84 ms
+Task launched at: 233.803 sec
+
+Jobtime = 	 119.853 ms
+Task launched at: 234.041 sec
+
+Jobtime = 	 121.25 ms
+Task launched at: 234.283 sec
+
+Jobtime = 	 120.076 ms
+Task launched at: 234.521 sec
+
+Jobtime = 	 120.837 ms
+Task launched at: 234.761 sec
+
+Jobtime = 	 121.239 ms
+Task launched at: 235.002 sec
+
+Jobtime = 	 117.827 ms
+Task launched at: 235.24 sec
+
+Jobtime = 	 118.214 ms
+Task launched at: 235.476 sec
+
+Jobtime = 	 120.205 ms
+Task launched at: 235.717 sec
+
+Jobtime = 	 120.681 ms
+Task launched at: 235.957 sec
+
+Jobtime = 	 117.912 ms
+Task launched at: 236.192 sec
+
+Jobtime = 	 120.922 ms
+Task launched at: 236.434 sec
+
+Jobtime = 	 118.63 ms
+Task launched at: 236.673 sec
+
+Jobtime = 	 120.673 ms
+Task launched at: 236.914 sec
+
+Jobtime = 	 92.293 ms
+Task launched at: 237.097 sec
+
+Jobtime = 	 121.112 ms
+Task launched at: 237.338 sec
+
+Jobtime = 	 118.487 ms
+Task launched at: 237.578 sec
+
+Jobtime = 	 120.441 ms
+Task launched at: 237.817 sec
+
+Jobtime = 	 83.0698 ms
+Task launched at: 237.987 sec
+
+Jobtime = 	 120.811 ms
+Task launched at: 238.228 sec
+
+Jobtime = 	 118.026 ms
+Task launched at: 238.465 sec
+
+Jobtime = 	 119.253 ms
+Task launched at: 238.704 sec
+
+Jobtime = 	 120.461 ms
+Task launched at: 238.946 sec
+
+Jobtime = 	 117.785 ms
+Task launched at: 239.181 sec
+
+Jobtime = 	 120.199 ms
+Task launched at: 239.421 sec
+
+Jobtime = 	 121.06 ms
+Task launched at: 239.662 sec
+
+Jobtime = 	 118.231 ms
+Task launched at: 239.9 sec
+
+Jobtime = 	 118.309 ms
+Task launched at: 240.138 sec
+
+Jobtime = 	 119.883 ms
+Task launched at: 240.378 sec
+
+Jobtime = 	 120.464 ms
+Task launched at: 240.617 sec
+
+Jobtime = 	 121.24 ms
+Task launched at: 240.858 sec
+
+Jobtime = 	 119.512 ms
+Task launched at: 241.097 sec
+
+Jobtime = 	 120.533 ms
+Task launched at: 241.336 sec
+
+Jobtime = 	 121.35 ms
+Task launched at: 241.577 sec
+
+Jobtime = 	 119.335 ms
+Task launched at: 241.815 sec
+
+Jobtime = 	 118.015 ms
+Task launched at: 242.053 sec
+
+Jobtime = 	 119.876 ms
+Task launched at: 242.293 sec
+
+Jobtime = 	 120.443 ms
+Task launched at: 242.532 sec
+
+Jobtime = 	 118.647 ms
+Task launched at: 242.769 sec
+
+Jobtime = 	 120.89 ms
+Task launched at: 243.01 sec
+
+Jobtime = 	 88.4896 ms
+Task launched at: 243.191 sec
+
+Jobtime = 	 121.065 ms
+Task launched at: 243.433 sec
+
+Jobtime = 	 118.965 ms
+Task launched at: 243.672 sec
+
+Jobtime = 	 120.34 ms
+Task launched at: 243.913 sec
+
+Jobtime = 	 117.721 ms
+Task launched at: 244.149 sec
+
+Jobtime = 	 120.223 ms
+Task launched at: 244.388 sec
+
+Jobtime = 	 120.933 ms
+Task launched at: 244.629 sec
+
+Jobtime = 	 118.814 ms
+Task launched at: 244.868 sec
+
+Jobtime = 	 120.411 ms
+Task launched at: 245.107 sec
+
+Jobtime = 	 120.308 ms
+Task launched at: 245.348 sec
+
+Jobtime = 	 118.908 ms
+Task launched at: 245.587 sec
+
+Jobtime = 	 117.857 ms
+Task launched at: 245.824 sec
+
+Jobtime = 	 120.366 ms
+Task launched at: 246.065 sec
+
+Jobtime = 	 119.996 ms
+Task launched at: 246.303 sec
+
+Jobtime = 	 120.372 ms
+Task launched at: 246.544 sec
+
+Jobtime = 	 120.581 ms
+Task launched at: 246.786 sec
+
+Jobtime = 	 119.817 ms
+Task launched at: 247.023 sec
+
+Jobtime = 	 120.045 ms
+Task launched at: 247.264 sec
+
+Jobtime = 	 43.9901 ms
+Task launched at: 247.351 sec
+
+Jobtime = 	 119.382 ms
+Task launched at: 247.588 sec
+
+Jobtime = 	 121.477 ms
+Task launched at: 247.83 sec
+
+Jobtime = 	 118.488 ms
+Task launched at: 248.069 sec
+
+Jobtime = 	 118.723 ms
+Task launched at: 248.305 sec
+
+Jobtime = 	 120.236 ms
+Task launched at: 248.546 sec
+
+Jobtime = 	 95.2902 ms
+Task launched at: 248.735 sec
+
+Jobtime = 	 121.5 ms
+Task launched at: 248.977 sec
+
+Jobtime = 	 118.522 ms
+Task launched at: 249.215 sec
+
+Jobtime = 	 120.456 ms
+Task launched at: 249.457 sec
+
+Jobtime = 	 99.7695 ms
+Task launched at: 249.655 sec
+
+Jobtime = 	 112.354 ms
+Task launched at: 249.884 sec
+
+Jobtime = 	 118.863 ms
+Task launched at: 250.123 sec
+
+Jobtime = 	 118.383 ms
+Task launched at: 250.362 sec
+
+Jobtime = 	 120.232 ms
+Task launched at: 250.604 sec
+
+Jobtime = 	 120.241 ms
+Task launched at: 250.843 sec
+
+Jobtime = 	 118.34 ms
+Task launched at: 251.08 sec
+
+Jobtime = 	 120.805 ms
+Task launched at: 251.321 sec
+
+Jobtime = 	 118.178 ms
+Task launched at: 251.559 sec
+
+Jobtime = 	 119.519 ms
+Task launched at: 251.8 sec
+
+Jobtime = 	 119.801 ms
+Task launched at: 252.04 sec
+
+Jobtime = 	 118.957 ms
+Task launched at: 252.279 sec
+
+Jobtime = 	 119.639 ms
+Task launched at: 252.519 sec
+
+Jobtime = 	 118.044 ms
+Task launched at: 252.756 sec
+
+Jobtime = 	 120.644 ms
+Task launched at: 252.996 sec
+
+Jobtime = 	 121.169 ms
+Task launched at: 253.236 sec
+
+Jobtime = 	 117.987 ms
+Task launched at: 253.475 sec
+
+Jobtime = 	 118.85 ms
+Task launched at: 253.712 sec
+
+Jobtime = 	 120.198 ms
+Task launched at: 253.952 sec
+
+Jobtime = 	 120.58 ms
+Task launched at: 254.191 sec
+
+Jobtime = 	 117.503 ms
+Task launched at: 254.426 sec
+
+Jobtime = 	 121.276 ms
+Task launched at: 254.669 sec
+
+Jobtime = 	 118.286 ms
+Task launched at: 254.906 sec
+
+Jobtime = 	 122.154 ms
+Task launched at: 255.146 sec
+
+Jobtime = 	 117.567 ms
+Task launched at: 255.381 sec
+
+Jobtime = 	 119.138 ms
+Task launched at: 255.621 sec
+
+Jobtime = 	 119.972 ms
+Task launched at: 255.862 sec
+
+Jobtime = 	 118.555 ms
+Task launched at: 256.1 sec
+
+Jobtime = 	 120.08 ms
+Task launched at: 256.338 sec
+
+Jobtime = 	 120.029 ms
+Task launched at: 256.579 sec
+
+Jobtime = 	 118.623 ms
+Task launched at: 256.818 sec
+
+Jobtime = 	 118.243 ms
+Task launched at: 257.055 sec
+
+Jobtime = 	 119.67 ms
+Task launched at: 257.295 sec
+
+Jobtime = 	 120.038 ms
+Task launched at: 257.534 sec
+
+Jobtime = 	 121.026 ms
+Task launched at: 257.775 sec
+
+Jobtime = 	 120.302 ms
+Task launched at: 258.016 sec
+
+Jobtime = 	 119.627 ms
+Task launched at: 258.253 sec
+
+Jobtime = 	 120.872 ms
+Task launched at: 258.494 sec
+
+Jobtime = 	 124.521 ms
+Task launched at: 258.737 sec
+
+Jobtime = 	 88.4892 ms
+Task launched at: 258.916 sec
+
+Jobtime = 	 119.618 ms
+Task launched at: 259.153 sec
+
+Jobtime = 	 117.666 ms
+Task launched at: 259.39 sec
+
+Jobtime = 	 121.525 ms
+Task launched at: 259.632 sec
+
+Jobtime = 	 96.291 ms
+Task launched at: 259.826 sec
+
+Jobtime = 	 120.067 ms
+Task launched at: 260.066 sec
+
+Jobtime = 	 119.621 ms
+Task launched at: 260.304 sec
+
+Jobtime = 	 121.047 ms
+Task launched at: 260.546 sec
+
+Jobtime = 	 118.294 ms
+Task launched at: 260.783 sec
+
+Jobtime = 	 118.009 ms
+Task launched at: 261.022 sec
+
+Jobtime = 	 120.131 ms
+Task launched at: 261.263 sec
+
+Jobtime = 	 122.652 ms
+Task launched at: 261.502 sec
+
+Jobtime = 	 118.578 ms
+Task launched at: 261.741 sec
+
+Jobtime = 	 119.496 ms
+Task launched at: 261.981 sec
+
+Jobtime = 	 120.696 ms
+Task launched at: 262.221 sec
+
+Jobtime = 	 118.321 ms
+Task launched at: 262.458 sec
+
+Jobtime = 	 120.265 ms
+Task launched at: 262.698 sec
+
+Jobtime = 	 118.258 ms
+Task launched at: 262.936 sec
+
+Jobtime = 	 117.973 ms
+Task launched at: 263.173 sec
+
+Jobtime = 	 120.886 ms
+Task launched at: 263.415 sec
+
+Jobtime = 	 119.645 ms
+Task launched at: 263.653 sec
+
+Jobtime = 	 120.097 ms
+Task launched at: 263.893 sec
+
+Jobtime = 	 118.351 ms
+Task launched at: 264.13 sec
+
+Jobtime = 	 118.752 ms
+Task launched at: 264.369 sec
+
+Jobtime = 	 120.289 ms
+Task launched at: 264.61 sec
+
+Jobtime = 	 118.235 ms
+Task launched at: 264.847 sec
+
+Jobtime = 	 120.287 ms
+Task launched at: 265.086 sec
+
+Jobtime = 	 120.742 ms
+Task launched at: 265.327 sec
+
+Jobtime = 	 117.553 ms
+Task launched at: 265.565 sec
+
+Jobtime = 	 119.029 ms
+Task launched at: 265.803 sec
+
+Jobtime = 	 119.689 ms
+Task launched at: 266.043 sec
+
+Jobtime = 	 120.564 ms
+Task launched at: 266.283 sec
+
+Jobtime = 	 119.874 ms
+Task launched at: 266.523 sec
+
+Jobtime = 	 119.924 ms
+Task launched at: 266.761 sec
+
+Jobtime = 	 120.983 ms
+Task launched at: 267.001 sec
+
+Jobtime = 	 121.025 ms
+Task launched at: 267.243 sec
+
+Jobtime = 	 118.46 ms
+Task launched at: 267.48 sec
+
+Jobtime = 	 118.291 ms
+Task launched at: 267.718 sec
+
+Jobtime = 	 119.737 ms
+Task launched at: 267.959 sec
+
+Jobtime = 	 120.458 ms
+Task launched at: 268.199 sec
+
+Jobtime = 	 117.344 ms
+Task launched at: 268.437 sec
+
+Jobtime = 	 120.712 ms
+Task launched at: 268.679 sec
+
+Jobtime = 	 120.176 ms
+Task launched at: 268.917 sec
+
+Jobtime = 	 118.79 ms
+Task launched at: 269.155 sec
+
+Jobtime = 	 102.857 ms
+Task launched at: 269.363 sec
+
+Jobtime = 	 117.53 ms
+Task launched at: 269.599 sec
+
+Jobtime = 	 120.943 ms
+Task launched at: 269.841 sec
+
+Jobtime = 	 119.648 ms
+Task launched at: 270.08 sec
+
+Jobtime = 	 118.163 ms
+Task launched at: 270.317 sec
+
+Jobtime = 	 119.742 ms
+Task launched at: 270.556 sec
+
+Jobtime = 	 118.905 ms
+Task launched at: 270.796 sec
+
+Jobtime = 	 120.499 ms
+Task launched at: 271.038 sec
+
+Jobtime = 	 117.904 ms
+Task launched at: 271.274 sec
+
+Jobtime = 	 119.805 ms
+Task launched at: 271.513 sec
+
+Jobtime = 	 120.561 ms
+Task launched at: 271.754 sec
+
+Jobtime = 	 118.539 ms
+Task launched at: 271.993 sec
+
+Jobtime = 	 118.424 ms
+Task launched at: 272.23 sec
+
+Jobtime = 	 119.737 ms
+Task launched at: 272.47 sec
+
+Jobtime = 	 120.118 ms
+Task launched at: 272.709 sec
+
+Jobtime = 	 118.965 ms
+Task launched at: 272.946 sec
+
+Jobtime = 	 121.079 ms
+Task launched at: 273.187 sec
+
+Jobtime = 	 118.446 ms
+Task launched at: 273.426 sec
+
+Jobtime = 	 119.699 ms
+Task launched at: 273.666 sec
+
+Jobtime = 	 119.026 ms
+Task launched at: 273.903 sec
+
+Jobtime = 	 120.346 ms
+Task launched at: 274.141 sec
+
+Jobtime = 	 120.913 ms
+Task launched at: 274.382 sec
+
+Jobtime = 	 88.3524 ms
+Task launched at: 274.561 sec
+
+Jobtime = 	 99.6495 ms
+Task launched at: 274.759 sec
+
+Jobtime = 	 118.234 ms
+Task launched at: 274.996 sec
+
+Jobtime = 	 121.243 ms
+Task launched at: 275.237 sec
+
+Jobtime = 	 117.837 ms
+Task launched at: 275.474 sec
+
+Jobtime = 	 119.504 ms
+Task launched at: 275.713 sec
+
+Jobtime = 	 119.782 ms
+Task launched at: 275.953 sec
+
+Jobtime = 	 120.167 ms
+Task launched at: 276.192 sec
+
+Jobtime = 	 120.734 ms
+Task launched at: 276.433 sec
+
+Jobtime = 	 118.449 ms
+Task launched at: 276.669 sec
+
+Jobtime = 	 118.401 ms
+Task launched at: 276.909 sec
+
+Jobtime = 	 119.641 ms
+Task launched at: 277.148 sec
+
+Jobtime = 	 119.343 ms
+Task launched at: 277.387 sec
+
+Jobtime = 	 119.734 ms
+Task launched at: 277.625 sec
+
+Jobtime = 	 121.015 ms
+Task launched at: 277.866 sec
+
+Jobtime = 	 118.504 ms
+Task launched at: 278.104 sec
+
+Jobtime = 	 118.651 ms
+Task launched at: 278.341 sec
+
+Jobtime = 	 120.735 ms
+Task launched at: 278.582 sec
+
+Jobtime = 	 120.305 ms
+Task launched at: 278.82 sec
+
+Jobtime = 	 121.093 ms
+Task launched at: 279.062 sec
+
+Jobtime = 	 92.1151 ms
+Task launched at: 279.243 sec
+
+Jobtime = 	 121.31 ms
+Task launched at: 279.484 sec
+
+Jobtime = 	 99.0259 ms
+Task launched at: 279.683 sec
+
+Jobtime = 	 109.715 ms
+Task launched at: 279.898 sec
+
+Jobtime = 	 118.626 ms
+Task launched at: 280.136 sec
+
+Jobtime = 	 118.741 ms
+Task launched at: 280.376 sec
+
+Jobtime = 	 120.913 ms
+Task launched at: 280.617 sec
+
+Jobtime = 	 118.624 ms
+Task launched at: 280.856 sec
+
+Jobtime = 	 120.804 ms
+Task launched at: 281.098 sec
+
+Jobtime = 	 117.993 ms
+Task launched at: 281.333 sec
+
+Jobtime = 	 120.781 ms
+Task launched at: 281.573 sec
+
+Jobtime = 	 120.883 ms
+Task launched at: 281.814 sec
+
+Jobtime = 	 118.408 ms
+Task launched at: 282.052 sec
+
+Jobtime = 	 118.058 ms
+Task launched at: 282.288 sec
+
+Jobtime = 	 119.584 ms
+Task launched at: 282.529 sec
+
+Jobtime = 	 120.706 ms
+Task launched at: 282.768 sec
+
+Jobtime = 	 118.199 ms
+Task launched at: 283.005 sec
+
+Jobtime = 	 120.414 ms
+Task launched at: 283.246 sec
+
+Jobtime = 	 118.201 ms
+Task launched at: 283.484 sec
+
+Jobtime = 	 120.705 ms
+Task launched at: 283.726 sec
+
+Jobtime = 	 92.1683 ms
+Task launched at: 283.909 sec
+
+Jobtime = 	 121.248 ms
+Task launched at: 284.15 sec
+
+Jobtime = 	 117.996 ms
+Task launched at: 284.386 sec
+
+Jobtime = 	 119.312 ms
+Task launched at: 284.626 sec
+
+Jobtime = 	 119.471 ms
+Task launched at: 284.867 sec
+
+Jobtime = 	 120.521 ms
+Task launched at: 285.106 sec
+
+Jobtime = 	 118.337 ms
+Task launched at: 285.342 sec
+
+Jobtime = 	 121.098 ms
+Task launched at: 285.583 sec
+
+Jobtime = 	 118.559 ms
+Task launched at: 285.822 sec
+
+Jobtime = 	 118.324 ms
+Task launched at: 286.061 sec
+
+Jobtime = 	 120.823 ms
+Task launched at: 286.302 sec
+
+Jobtime = 	 118.685 ms
+Task launched at: 286.541 sec
+
+Jobtime = 	 120.396 ms
+Task launched at: 286.782 sec
+
+Jobtime = 	 119.85 ms
+Task launched at: 287.022 sec
+
+Jobtime = 	 117.97 ms
+Task launched at: 287.26 sec
+
+Jobtime = 	 123.984 ms
+Task launched at: 287.504 sec
+
+Jobtime = 	 118.806 ms
+Task launched at: 287.741 sec
+
+Jobtime = 	 117.776 ms
+Task launched at: 287.979 sec
+
+Jobtime = 	 120.744 ms
+Task launched at: 288.22 sec
+
+Jobtime = 	 90.0675 ms
+Task launched at: 288.399 sec
+
+Jobtime = 	 98.2833 ms
+Task launched at: 288.599 sec
+
+Jobtime = 	 118.996 ms
+Task launched at: 288.837 sec
+
+Jobtime = 	 120.687 ms
+Task launched at: 289.078 sec
+
+Jobtime = 	 93.9663 ms
+Task launched at: 289.269 sec
+
+Jobtime = 	 120.925 ms
+Task launched at: 289.51 sec
+
+Jobtime = 	 118.76 ms
+Task launched at: 289.749 sec
+
+Jobtime = 	 120.062 ms
+Task launched at: 289.99 sec
+
+Jobtime = 	 118.085 ms
+Task launched at: 290.226 sec
+
+Jobtime = 	 117.469 ms
+Task launched at: 290.464 sec
+
+Jobtime = 	 119.735 ms
+Task launched at: 290.704 sec
+
+Jobtime = 	 119.116 ms
+Task launched at: 290.945 sec
+
+Jobtime = 	 118.728 ms
+Task launched at: 291.182 sec
+
+Jobtime = 	 119.862 ms
+Task launched at: 291.422 sec
+
+Jobtime = 	 120.719 ms
+Task launched at: 291.662 sec
+
+Jobtime = 	 117.829 ms
+Task launched at: 291.898 sec
+
+Jobtime = 	 121.017 ms
+Task launched at: 292.139 sec
+
+Jobtime = 	 118.16 ms
+Task launched at: 292.377 sec
+
+Jobtime = 	 120.741 ms
+Task launched at: 292.619 sec
+
+Jobtime = 	 87.1187 ms
+Task launched at: 292.792 sec
+
+Jobtime = 	 120.843 ms
+Task launched at: 293.034 sec
+
+Jobtime = 	 117.51 ms
+Task launched at: 293.271 sec
+
+Jobtime = 	 119.352 ms
+Task launched at: 293.51 sec
+
+Jobtime = 	 119.882 ms
+Task launched at: 293.751 sec
+
+Jobtime = 	 119.572 ms
+Task launched at: 293.989 sec
+
+Jobtime = 	 118.232 ms
+Task launched at: 294.226 sec
+
+Jobtime = 	 120.506 ms
+Task launched at: 294.467 sec
+
+Jobtime = 	 119.83 ms
+Task launched at: 294.704 sec
+
+Jobtime = 	 120.149 ms
+Task launched at: 294.944 sec
+
+Jobtime = 	 119.864 ms
+Task launched at: 295.183 sec
+
+Jobtime = 	 119.159 ms
+Task launched at: 295.425 sec
+
+Jobtime = 	 120.448 ms
+Task launched at: 295.666 sec
+
+Jobtime = 	 118.625 ms
+Task launched at: 295.903 sec
+
+Jobtime = 	 120.186 ms
+Task launched at: 296.141 sec
+
+Jobtime = 	 120.691 ms
+Task launched at: 296.382 sec
+
+Jobtime = 	 118.98 ms
+Task launched at: 296.621 sec
+
+Jobtime = 	 118.11 ms
+Task launched at: 296.859 sec
+
+Jobtime = 	 119.651 ms
+Task launched at: 297.099 sec
+
+Jobtime = 	 120.463 ms
+Task launched at: 297.338 sec
+
+Jobtime = 	 121.129 ms
+Task launched at: 297.579 sec
+
+Jobtime = 	 120.348 ms
+Task launched at: 297.819 sec
+
+Jobtime = 	 119.621 ms
+Task launched at: 298.057 sec
+
+Jobtime = 	 120.294 ms
+Task launched at: 298.297 sec
+
+Jobtime = 	 120.68 ms
+Task launched at: 298.537 sec
+
+Jobtime = 	 119.717 ms
+Task launched at: 298.775 sec
+
+Jobtime = 	 120.73 ms
+Task launched at: 299.016 sec
+
+Jobtime = 	 84.7817 ms
+Task launched at: 299.184 sec
+
+Jobtime = 	 120.63 ms
+Task launched at: 299.424 sec
+
+Jobtime = 	 117.991 ms
+Task launched at: 299.663 sec
+
+Jobtime = 	 120.076 ms
+Task launched at: 299.904 sec
+
+Jobtime = 	 118.111 ms
+Task launched at: 300.14 sec
+
+Jobtime = 	 120.808 ms
+Task launched at: 300.38 sec
+
+Jobtime = 	 121.098 ms
+Task launched at: 300.62 sec
+
+Jobtime = 	 119.757 ms
+Task launched at: 300.86 sec
+
+Jobtime = 	 119.921 ms
+Task launched at: 301.098 sec
+
+Jobtime = 	 121.341 ms
+Task launched at: 301.339 sec
+
+Jobtime = 	 118.844 ms
+Task launched at: 301.579 sec
+
+Jobtime = 	 118.261 ms
+Task launched at: 301.815 sec
+
+Jobtime = 	 120.886 ms
+Task launched at: 302.056 sec
+
+Jobtime = 	 120.435 ms
+Task launched at: 302.295 sec
+
+Jobtime = 	 120.59 ms
+Task launched at: 302.535 sec
+
+Jobtime = 	 118.733 ms
+Task launched at: 302.773 sec
+
+Jobtime = 	 118.627 ms
+Task launched at: 303.011 sec
+
+Jobtime = 	 120.805 ms
+Task launched at: 303.254 sec
+
+Jobtime = 	 118.048 ms
+Task launched at: 303.489 sec
+
+Jobtime = 	 120.376 ms
+Task launched at: 303.728 sec
+
+Jobtime = 	 120.431 ms
+Task launched at: 303.969 sec
+
+Jobtime = 	 118.716 ms
+Task launched at: 304.208 sec
+
+Jobtime = 	 118.438 ms
+Task launched at: 304.446 sec
+
+Jobtime = 	 119.672 ms
+Task launched at: 304.686 sec
+
+Jobtime = 	 119.849 ms
+Task launched at: 304.925 sec
+
+Jobtime = 	 118.84 ms
+Task launched at: 305.163 sec
+
+Jobtime = 	 120.447 ms
+Task launched at: 305.403 sec
+
+Jobtime = 	 118.323 ms
+Task launched at: 305.641 sec
+
+Jobtime = 	 119.634 ms
+Task launched at: 305.881 sec
+
+Jobtime = 	 120.139 ms
+Task launched at: 306.122 sec
+
+Jobtime = 	 118.783 ms
+Task launched at: 306.361 sec
+
+Jobtime = 	 119.674 ms
+Task launched at: 306.601 sec
+
+Jobtime = 	 119.107 ms
+Task launched at: 306.838 sec
+
+Jobtime = 	 120.012 ms
+Task launched at: 307.077 sec
+
+Jobtime = 	 121.556 ms
+Task launched at: 307.319 sec
+
+Jobtime = 	 118.416 ms
+Task launched at: 307.558 sec
+
+Jobtime = 	 117.706 ms
+Task launched at: 307.793 sec
+
+Jobtime = 	 120.96 ms
+Task launched at: 308.036 sec
+
+Jobtime = 	 119.781 ms
+Task launched at: 308.274 sec
+
+Jobtime = 	 121.402 ms
+Task launched at: 308.516 sec
+
+Jobtime = 	 119.828 ms
+Task launched at: 308.754 sec
+
+Jobtime = 	 120.261 ms
+Task launched at: 308.993 sec
+
+Jobtime = 	 120.511 ms
+Task launched at: 309.234 sec
+
+Jobtime = 	 118.517 ms
+Task launched at: 309.471 sec
+
+Jobtime = 	 118.44 ms
+Task launched at: 309.711 sec
+
+Jobtime = 	 119.81 ms
+Task launched at: 309.951 sec
+
+Jobtime = 	 120.585 ms
+Task launched at: 310.19 sec
+
+Jobtime = 	 118.718 ms
+Task launched at: 310.427 sec
+
+Jobtime = 	 120.529 ms
+Task launched at: 310.668 sec
+
+Jobtime = 	 119.449 ms
+Task launched at: 310.907 sec
+
+Jobtime = 	 117.999 ms
+Task launched at: 311.144 sec
+
+Jobtime = 	 120.04 ms
+Task launched at: 311.385 sec
+
+Jobtime = 	 120.152 ms
+Task launched at: 311.623 sec
+
+Jobtime = 	 121.187 ms
+Task launched at: 311.865 sec
+
+Jobtime = 	 118.251 ms
+Task launched at: 312.102 sec
+
+Jobtime = 	 118.236 ms
+Task launched at: 312.34 sec
+
+Jobtime = 	 124.101 ms
+Task launched at: 312.583 sec
+
+Jobtime = 	 88.9257 ms
+Task launched at: 312.762 sec
+
+Jobtime = 	 94.386 ms
+Task launched at: 312.948 sec
+
+Jobtime = 	 118.692 ms
+Task launched at: 313.185 sec
+
+Jobtime = 	 119.873 ms
+Task launched at: 313.425 sec
+
+Jobtime = 	 120.301 ms
+Task launched at: 313.664 sec
+
+Jobtime = 	 120.928 ms
+Task launched at: 313.905 sec
+
+Jobtime = 	 119.92 ms
+Task launched at: 314.144 sec
+
+Jobtime = 	 119.969 ms
+Task launched at: 314.382 sec
+
+Jobtime = 	 121.044 ms
+Task launched at: 314.624 sec
+
+Jobtime = 	 118.369 ms
+Task launched at: 314.86 sec
+
+Jobtime = 	 118.246 ms
+Task launched at: 315.099 sec
+
+Jobtime = 	 119.568 ms
+Task launched at: 315.339 sec
+
+Jobtime = 	 120.161 ms
+Task launched at: 315.579 sec
+
+Jobtime = 	 118.529 ms
+Task launched at: 315.816 sec
+
+Jobtime = 	 120.087 ms
+Task launched at: 316.056 sec
+
+Jobtime = 	 118.099 ms
+Task launched at: 316.294 sec
+
+Jobtime = 	 118.745 ms
+Task launched at: 316.533 sec
+
+Jobtime = 	 121.304 ms
+Task launched at: 316.775 sec
+
+Jobtime = 	 118.358 ms
+Task launched at: 317.014 sec
+
+Jobtime = 	 119.535 ms
+Task launched at: 317.253 sec
+
+Jobtime = 	 119.66 ms
+Task launched at: 317.494 sec
+
+Jobtime = 	 118.312 ms
+Task launched at: 317.732 sec
+
+Jobtime = 	 97.1426 ms
+Task launched at: 317.921 sec
+
+Jobtime = 	 105.658 ms
+Task launched at: 318.137 sec
+
+Jobtime = 	 116.29 ms
+Task launched at: 318.375 sec
+
+Jobtime = 	 120.386 ms
+Task launched at: 318.614 sec
+
+Jobtime = 	 120.475 ms
+Task launched at: 318.855 sec
+
+Jobtime = 	 117.834 ms
+Task launched at: 319.091 sec
+
+Jobtime = 	 118.893 ms
+Task launched at: 319.331 sec
+
+Jobtime = 	 120.335 ms
+Task launched at: 319.572 sec
+
+Jobtime = 	 119.791 ms
+Task launched at: 319.81 sec
+
+Jobtime = 	 119.07 ms
+Task launched at: 320.048 sec
+
+Jobtime = 	 116.321 ms
+Task launched at: 320.286 sec
+
+Jobtime = 	 120.548 ms
+Task launched at: 320.526 sec
+
+Jobtime = 	 118.03 ms
+Task launched at: 320.763 sec
+
+Jobtime = 	 120.289 ms
+Task launched at: 321.003 sec
+
+Jobtime = 	 118.808 ms
+Task launched at: 321.242 sec
+
+Jobtime = 	 119.722 ms
+Task launched at: 321.482 sec
+
+Jobtime = 	 119.712 ms
+Task launched at: 321.722 sec
+
+Jobtime = 	 118.537 ms
+Task launched at: 321.961 sec
+
+Jobtime = 	 121.513 ms
+Task launched at: 322.199 sec
+
+Jobtime = 	 119.202 ms
+Task launched at: 322.438 sec
+
+Jobtime = 	 119.084 ms
+Task launched at: 322.675 sec
+
+Jobtime = 	 120.553 ms
+Task launched at: 322.917 sec
+
+Jobtime = 	 119.745 ms
+Task launched at: 323.155 sec
+
+Jobtime = 	 115.825 ms
+Task launched at: 323.386 sec
+
+Jobtime = 	 121.54 ms
+Task launched at: 323.628 sec
+
+Jobtime = 	 101.282 ms
+Task launched at: 323.833 sec
+
+Jobtime = 	 119.767 ms
+Task launched at: 324.073 sec
+
+Jobtime = 	 119.71 ms
+Task launched at: 324.311 sec
+
+Jobtime = 	 121.201 ms
+Task launched at: 324.553 sec
+
+Jobtime = 	 119.688 ms
+Task launched at: 324.792 sec
+
+Jobtime = 	 120.666 ms
+Task launched at: 325.032 sec
+
+Jobtime = 	 119.98 ms
+Task launched at: 325.272 sec
+
+Jobtime = 	 120.597 ms
+Task launched at: 325.511 sec
+
+Jobtime = 	 120.572 ms
+Task launched at: 325.75 sec
+
+Jobtime = 	 121.051 ms
+Task launched at: 325.991 sec
+
+Jobtime = 	 118.507 ms
+Task launched at: 326.23 sec
+
+Jobtime = 	 124.122 ms
+Task launched at: 326.471 sec
+
+Jobtime = 	 120.113 ms
+Task launched at: 326.713 sec
+
+Jobtime = 	 120.795 ms
+Task launched at: 326.952 sec
+
+Jobtime = 	 118.046 ms
+Task launched at: 327.188 sec
+
+Jobtime = 	 120.756 ms
+Task launched at: 327.43 sec
+
+Jobtime = 	 118.942 ms
+Task launched at: 327.671 sec
+
+Jobtime = 	 117.866 ms
+Task launched at: 327.907 sec
+
+Jobtime = 	 121.116 ms
+Task launched at: 328.148 sec
+
+Jobtime = 	 95.4097 ms
+Task launched at: 328.341 sec
+
+Jobtime = 	 118.676 ms
+Task launched at: 328.578 sec
+
+Jobtime = 	 120.195 ms
+Task launched at: 328.817 sec
+
+Jobtime = 	 121.247 ms
+Task launched at: 329.059 sec
+
+Jobtime = 	 120.345 ms
+Task launched at: 329.298 sec
+
+Jobtime = 	 120.538 ms
+Task launched at: 329.537 sec
+
+Jobtime = 	 121.127 ms
+Task launched at: 329.778 sec
+
+Jobtime = 	 118.923 ms
+Task launched at: 330.017 sec
+
+Jobtime = 	 118.638 ms
+Task launched at: 330.253 sec
+
+Jobtime = 	 119.628 ms
+Task launched at: 330.494 sec
+
+Jobtime = 	 120.316 ms
+Task launched at: 330.734 sec
+
+Jobtime = 	 118.204 ms
+Task launched at: 330.97 sec
+
+Jobtime = 	 120.139 ms
+Task launched at: 331.21 sec
+
+Jobtime = 	 119.135 ms
+Task launched at: 331.45 sec
+
+Jobtime = 	 119.658 ms
+Task launched at: 331.69 sec
+
+Jobtime = 	 118.792 ms
+Task launched at: 331.928 sec
+
+Jobtime = 	 119.692 ms
+Task launched at: 332.166 sec
+
+Jobtime = 	 121.332 ms
+Task launched at: 332.408 sec
+
+Jobtime = 	 118.519 ms
+Task launched at: 332.646 sec
+
+Jobtime = 	 89.5217 ms
+Task launched at: 332.82 sec
+
+Jobtime = 	 117.642 ms
+Task launched at: 333.058 sec
+
+Jobtime = 	 120.789 ms
+Task launched at: 333.3 sec
+
+Jobtime = 	 72.3615 ms
+Task launched at: 333.452 sec
+
+Jobtime = 	 119.972 ms
+Task launched at: 333.692 sec
+
+Jobtime = 	 117.815 ms
+Task launched at: 333.93 sec
+
+Jobtime = 	 120.268 ms
+Task launched at: 334.171 sec
+
+Jobtime = 	 119.445 ms
+Task launched at: 334.411 sec
+
+Jobtime = 	 118.775 ms
+Task launched at: 334.65 sec
+
+Jobtime = 	 119.576 ms
+Task launched at: 334.89 sec
+
+Jobtime = 	 118.305 ms
+Task launched at: 335.127 sec
+
+Jobtime = 	 120.898 ms
+Task launched at: 335.366 sec
+
+Jobtime = 	 120.768 ms
+Task launched at: 335.607 sec
+
+Jobtime = 	 118.069 ms
+Task launched at: 335.845 sec
+
+Jobtime = 	 118.91 ms
+Task launched at: 336.082 sec
+
+Jobtime = 	 120.098 ms
+Task launched at: 336.323 sec
+
+Jobtime = 	 120.254 ms
+Task launched at: 336.562 sec
+
+Jobtime = 	 120.385 ms
+Task launched at: 336.802 sec
+
+Jobtime = 	 120.43 ms
+Task launched at: 337.042 sec
+
+Jobtime = 	 120.632 ms
+Task launched at: 337.281 sec
+
+Jobtime = 	 120.942 ms
+Task launched at: 337.521 sec
+
+Jobtime = 	 118.311 ms
+Task launched at: 337.759 sec
+
+Jobtime = 	 118.6 ms
+Task launched at: 337.997 sec
+
+Jobtime = 	 120.471 ms
+Task launched at: 338.238 sec
+
+Jobtime = 	 122.389 ms
+Task launched at: 338.479 sec
+
+Jobtime = 	 108.187 ms
+Task launched at: 338.697 sec
+
+Jobtime = 	 120.511 ms
+Task launched at: 338.939 sec
+
+Jobtime = 	 118.786 ms
+Task launched at: 339.178 sec
+
+Jobtime = 	 120.443 ms
+Task launched at: 339.419 sec
+
+Jobtime = 	 117.895 ms
+Task launched at: 339.655 sec
+
+Jobtime = 	 119.868 ms
+Task launched at: 339.894 sec
+
+Jobtime = 	 120.862 ms
+Task launched at: 340.135 sec
+
+Jobtime = 	 118.633 ms
+Task launched at: 340.373 sec
+
+Jobtime = 	 118.734 ms
+Task launched at: 340.61 sec
+
+Jobtime = 	 119.533 ms
+Task launched at: 340.85 sec
+
+Jobtime = 	 120.751 ms
+Task launched at: 341.089 sec
+
+Jobtime = 	 118.717 ms
+Task launched at: 341.326 sec
+
+Jobtime = 	 120.53 ms
+Task launched at: 341.567 sec
+
+Jobtime = 	 118.494 ms
+Task launched at: 341.806 sec
+
+Jobtime = 	 119.65 ms
+Task launched at: 342.046 sec
+
+Jobtime = 	 118.489 ms
+Task launched at: 342.283 sec
+
+Jobtime = 	 119.794 ms
+Task launched at: 342.522 sec
+
+Jobtime = 	 120.172 ms
+Task launched at: 342.762 sec
+
+Jobtime = 	 118.493 ms
+Task launched at: 342.999 sec
+
+Jobtime = 	 105.312 ms
+Task launched at: 343.215 sec
+
+Jobtime = 	 121.331 ms
+Task launched at: 343.457 sec
+
+Jobtime = 	 119.576 ms
+Task launched at: 343.697 sec
+
+Jobtime = 	 120.748 ms
+Task launched at: 343.938 sec
+
+Jobtime = 	 120.313 ms
+Task launched at: 344.178 sec
+
+Jobtime = 	 120.6 ms
+Task launched at: 344.417 sec
+
+Jobtime = 	 121.054 ms
+Task launched at: 344.658 sec
+
+Jobtime = 	 118.52 ms
+Task launched at: 344.894 sec
+
+Jobtime = 	 118.323 ms
+Task launched at: 345.133 sec
+
+Jobtime = 	 120.109 ms
+Task launched at: 345.374 sec
+
+Jobtime = 	 119.586 ms
+Task launched at: 345.616 sec
+
+Jobtime = 	 118.95 ms
+Task launched at: 345.853 sec
+
+Jobtime = 	 119.733 ms
+Task launched at: 346.093 sec
+
+Jobtime = 	 120.545 ms
+Task launched at: 346.333 sec
+
+Jobtime = 	 118.935 ms
+Task launched at: 346.569 sec
+
+Jobtime = 	 120.701 ms
+Task launched at: 346.811 sec
+
+Jobtime = 	 118.328 ms
+Task launched at: 347.049 sec
+
+Jobtime = 	 119.906 ms
+Task launched at: 347.29 sec
+
+Jobtime = 	 122.692 ms
+Task launched at: 347.53 sec
+
+Jobtime = 	 117.38 ms
+Task launched at: 347.767 sec
+
+Jobtime = 	 120.784 ms
+Task launched at: 348.009 sec
+
+Jobtime = 	 99.5296 ms
+Task launched at: 348.206 sec
+
+Jobtime = 	 120.013 ms
+Task launched at: 348.451 sec
+
+Jobtime = 	 117.781 ms
+Task launched at: 348.686 sec
+
+Jobtime = 	 121.098 ms
+Task launched at: 348.926 sec
+
+Jobtime = 	 120.706 ms
+Task launched at: 349.166 sec
+
+Jobtime = 	 118.828 ms
+Task launched at: 349.405 sec
+
+Jobtime = 	 118.315 ms
+Task launched at: 349.641 sec
+
+Jobtime = 	 119.609 ms
+Task launched at: 349.882 sec
+
+Jobtime = 	 120.613 ms
+Task launched at: 350.121 sec
+
+Jobtime = 	 118.358 ms
+Task launched at: 350.358 sec
+
+Jobtime = 	 120.471 ms
+Task launched at: 350.599 sec
+
+Jobtime = 	 118.114 ms
+Task launched at: 350.838 sec
+
+Jobtime = 	 119.71 ms
+Task launched at: 351.077 sec
+
+Jobtime = 	 118.744 ms
+Task launched at: 351.315 sec
+
+Jobtime = 	 119.675 ms
+Task launched at: 351.554 sec
+
+Jobtime = 	 119.095 ms
+Task launched at: 351.797 sec
+
+Jobtime = 	 118.113 ms
+Task launched at: 352.034 sec
+
+Jobtime = 	 110.487 ms
+Task launched at: 352.253 sec
+
+Jobtime = 	 120.825 ms
+Task launched at: 352.494 sec
+
+Jobtime = 	 117.958 ms
+Task launched at: 352.732 sec
+
+Jobtime = 	 120.435 ms
+Task launched at: 352.973 sec
+
+Jobtime = 	 118.667 ms
+Task launched at: 353.21 sec
+
+Jobtime = 	 120.014 ms
+Task launched at: 353.45 sec
+
+Jobtime = 	 121.075 ms
+Task launched at: 353.69 sec
+
+Jobtime = 	 119.445 ms
+Task launched at: 353.928 sec
+
+Jobtime = 	 120.748 ms
+Task launched at: 354.168 sec
+
+Jobtime = 	 120.772 ms
+Task launched at: 354.409 sec
+
+Jobtime = 	 118.083 ms
+Task launched at: 354.647 sec
+
+Jobtime = 	 117.679 ms
+Task launched at: 354.884 sec
+
+Jobtime = 	 119.654 ms
+Task launched at: 355.124 sec
+
+Jobtime = 	 120.284 ms
+Task launched at: 355.364 sec
+
+Jobtime = 	 121.049 ms
+Task launched at: 355.605 sec
+
+Jobtime = 	 118.372 ms
+Task launched at: 355.841 sec
+
+Jobtime = 	 118.357 ms
+Task launched at: 356.08 sec
+
+Jobtime = 	 120.292 ms
+Task launched at: 356.32 sec
+
+Jobtime = 	 118.662 ms
+Task launched at: 356.558 sec
+
+Jobtime = 	 107.165 ms
+Task launched at: 356.771 sec
+
+Jobtime = 	 120.302 ms
+Task launched at: 357.012 sec
+
+Jobtime = 	 118.643 ms
+Task launched at: 357.25 sec
+
+Jobtime = 	 120.389 ms
+Task launched at: 357.492 sec
+
+Jobtime = 	 106.8 ms
+Task launched at: 357.707 sec
+
+Jobtime = 	 118.87 ms
+Task launched at: 357.944 sec
+
+Jobtime = 	 120.093 ms
+Task launched at: 358.185 sec
+
+Jobtime = 	 120.398 ms
+Task launched at: 358.423 sec
+
+Jobtime = 	 121.041 ms
+Task launched at: 358.664 sec
+
+Jobtime = 	 119.675 ms
+Task launched at: 358.902 sec
+
+Jobtime = 	 120.579 ms
+Task launched at: 359.142 sec
+
+Jobtime = 	 120.793 ms
+Task launched at: 359.383 sec
+
+Jobtime = 	 118.411 ms
+Task launched at: 359.619 sec
+
+Jobtime = 	 118.358 ms
+Task launched at: 359.858 sec
+
+Jobtime = 	 120.364 ms
+Task launched at: 360.098 sec
+
+Jobtime = 	 120.751 ms
+Task launched at: 360.337 sec
+
+Jobtime = 	 118.303 ms
+Task launched at: 360.574 sec
+
+Jobtime = 	 120.938 ms
+Task launched at: 360.815 sec
+
+Jobtime = 	 118.721 ms
+Task launched at: 361.054 sec
+
+Jobtime = 	 118.39 ms
+Task launched at: 361.291 sec
+
+Jobtime = 	 120.382 ms
+Task launched at: 361.532 sec
+
+Jobtime = 	 119.699 ms
+Task launched at: 361.77 sec
+
+Jobtime = 	 120.957 ms
+Task launched at: 362.011 sec
+
+Jobtime = 	 93.9963 ms
+Task launched at: 362.203 sec
+
+Jobtime = 	 121.018 ms
+Task launched at: 362.443 sec
+
+Jobtime = 	 118.504 ms
+Task launched at: 362.68 sec
+
+Jobtime = 	 118.85 ms
+Task launched at: 362.919 sec
+
+Jobtime = 	 120.495 ms
+Task launched at: 363.16 sec
+
+Jobtime = 	 118.763 ms
+Task launched at: 363.4 sec
+
+Jobtime = 	 118.753 ms
+Task launched at: 363.638 sec
+
+Jobtime = 	 119.876 ms
+Task launched at: 363.878 sec
+
+Jobtime = 	 120.727 ms
+Task launched at: 364.118 sec
+
+Jobtime = 	 118.46 ms
+Task launched at: 364.354 sec
+
+Jobtime = 	 120.31 ms
+Task launched at: 364.594 sec
+
+Jobtime = 	 119.109 ms
+Task launched at: 364.834 sec
+
+Jobtime = 	 119.884 ms
+Task launched at: 365.074 sec
+
+Jobtime = 	 118.905 ms
+Task launched at: 365.312 sec
+
+Jobtime = 	 120.046 ms
+Task launched at: 365.551 sec
+
+Jobtime = 	 120.456 ms
+Task launched at: 365.791 sec
+
+Jobtime = 	 120.817 ms
+Task launched at: 366.032 sec
+
+Jobtime = 	 119.687 ms
+Task launched at: 366.269 sec
+
+Jobtime = 	 121.004 ms
+Task launched at: 366.511 sec
+
+Jobtime = 	 118.352 ms
+Task launched at: 366.75 sec
+
+Jobtime = 	 118.671 ms
+Task launched at: 366.987 sec
+
+Jobtime = 	 120.557 ms
+Task launched at: 367.228 sec
+
+Jobtime = 	 83.4067 ms
+Task launched at: 367.398 sec
+
+Jobtime = 	 118.213 ms
+Task launched at: 367.635 sec
+
+Jobtime = 	 120.364 ms
+Task launched at: 367.874 sec
+
+Jobtime = 	 120.617 ms
+Task launched at: 368.115 sec
+
+Jobtime = 	 118.275 ms
+Task launched at: 368.353 sec
+
+Jobtime = 	 119.025 ms
+Task launched at: 368.591 sec
+
+Jobtime = 	 120.026 ms
+Task launched at: 368.832 sec
+
+Jobtime = 	 119.913 ms
+Task launched at: 369.07 sec
+
+Jobtime = 	 119.808 ms
+Task launched at: 369.309 sec
+
+Jobtime = 	 119.833 ms
+Task launched at: 369.55 sec
+
+Jobtime = 	 120.871 ms
+Task launched at: 369.79 sec
+
+Jobtime = 	 119.966 ms
+Task launched at: 370.029 sec
+
+Jobtime = 	 117.813 ms
+Task launched at: 370.266 sec
+
+Jobtime = 	 118.527 ms
+Task launched at: 370.504 sec
+
+Jobtime = 	 120.445 ms
+Task launched at: 370.746 sec
+
+Jobtime = 	 119.214 ms
+Task launched at: 370.983 sec
+
+Jobtime = 	 119.546 ms
+Task launched at: 371.221 sec
+
+Jobtime = 	 120.362 ms
+Task launched at: 371.461 sec
+
+Jobtime = 	 119.097 ms
+Task launched at: 371.7 sec
+
+Jobtime = 	 118.273 ms
+Task launched at: 371.937 sec
+
+Jobtime = 	 79.2764 ms
+Task launched at: 372.094 sec
+
+Jobtime = 	 120.814 ms
+Task launched at: 372.336 sec
+
+Jobtime = 	 118.307 ms
+Task launched at: 372.574 sec
+
+Jobtime = 	 119.025 ms
+Task launched at: 372.813 sec
+
+Jobtime = 	 119.544 ms
+Task launched at: 373.053 sec
+
+Jobtime = 	 119.925 ms
+Task launched at: 373.291 sec
+
+Jobtime = 	 119.906 ms
+Task launched at: 373.531 sec
+
+Jobtime = 	 118.891 ms
+Task launched at: 373.769 sec
+
+Jobtime = 	 118.435 ms
+Task launched at: 374.007 sec
+
+Jobtime = 	 119.686 ms
+Task launched at: 374.248 sec
+
+Jobtime = 	 118.779 ms
+Task launched at: 374.485 sec
+
+Jobtime = 	 120.436 ms
+Task launched at: 374.725 sec
+
+Jobtime = 	 120.446 ms
+Task launched at: 374.965 sec
+
+Jobtime = 	 118.273 ms
+Task launched at: 375.204 sec
+
+Jobtime = 	 118.601 ms
+Task launched at: 375.44 sec
+
+Jobtime = 	 120.936 ms
+Task launched at: 375.683 sec
+
+Jobtime = 	 92.068 ms
+Task launched at: 375.865 sec
+
+Jobtime = 	 121.055 ms
+Task launched at: 376.106 sec
+
+Jobtime = 	 118.329 ms
+Task launched at: 376.344 sec
+
+Jobtime = 	 120.807 ms
+Task launched at: 376.586 sec
+
+Jobtime = 	 94.0209 ms
+Task launched at: 376.777 sec
+
+Jobtime = 	 104.635 ms
+Task launched at: 376.98 sec
+
+Jobtime = 	 117.652 ms
+Task launched at: 377.218 sec
+
+Jobtime = 	 120.488 ms
+Task launched at: 377.46 sec
+
+Jobtime = 	 118.538 ms
+Task launched at: 377.697 sec
+
+Jobtime = 	 119.824 ms
+Task launched at: 377.935 sec
+
+Jobtime = 	 120.497 ms
+Task launched at: 378.176 sec
+
+Jobtime = 	 118.368 ms
+Task launched at: 378.414 sec
+
+Jobtime = 	 122.337 ms
+Task launched at: 378.654 sec
+
+Jobtime = 	 120.71 ms
+Task launched at: 378.895 sec
+
+Jobtime = 	 118.345 ms
+Task launched at: 379.133 sec
+
+Jobtime = 	 118.308 ms
+Task launched at: 379.37 sec
+
+Jobtime = 	 119.493 ms
+Task launched at: 379.61 sec
+
+Jobtime = 	 120.302 ms
+Task launched at: 379.849 sec
+
+Jobtime = 	 120.694 ms
+Task launched at: 380.09 sec
+
+Jobtime = 	 120.489 ms
+Task launched at: 380.33 sec
+
+Jobtime = 	 120.051 ms
+Task launched at: 380.568 sec
+
+Jobtime = 	 120.373 ms
+Task launched at: 380.808 sec
+
+Jobtime = 	 118.417 ms
+Task launched at: 381.045 sec
+
+Jobtime = 	 83.2215 ms
+Task launched at: 381.213 sec
+
+Jobtime = 	 120.204 ms
+Task launched at: 381.452 sec
+
+Jobtime = 	 120.584 ms
+Task launched at: 381.693 sec
+
+Jobtime = 	 117.831 ms
+Task launched at: 381.928 sec
+
+Jobtime = 	 118.962 ms
+Task launched at: 382.168 sec
+
+Jobtime = 	 120.183 ms
+Task launched at: 382.409 sec
+
+Jobtime = 	 117.836 ms
+Task launched at: 382.645 sec
+
+Jobtime = 	 120.615 ms
+Task launched at: 382.883 sec
+
+Jobtime = 	 120.793 ms
+Task launched at: 383.124 sec
+
+Jobtime = 	 119.06 ms
+Task launched at: 383.364 sec
+
+Jobtime = 	 117.611 ms
+Task launched at: 383.6 sec
+
+Jobtime = 	 119.783 ms
+Task launched at: 383.84 sec
+
+Jobtime = 	 120.264 ms
+Task launched at: 384.079 sec
+
+Jobtime = 	 119.42 ms
+Task launched at: 384.318 sec
+
+Jobtime = 	 120.577 ms
+Task launched at: 384.558 sec
+
+Jobtime = 	 118.474 ms
+Task launched at: 384.799 sec
+
+Jobtime = 	 119.317 ms
+Task launched at: 385.043 sec
+
+Jobtime = 	 119.777 ms
+Task launched at: 385.283 sec
+
+Jobtime = 	 117.877 ms
+Task launched at: 385.521 sec
+
+Jobtime = 	 119.923 ms
+Task launched at: 385.761 sec
+
+Jobtime = 	 118.698 ms
+Task launched at: 385.999 sec
+
+Jobtime = 	 120.33 ms
+Task launched at: 386.238 sec
+
+Jobtime = 	 121.069 ms
+Task launched at: 386.48 sec
+
+Jobtime = 	 117.806 ms
+Task launched at: 386.717 sec
+
+Jobtime = 	 118.364 ms
+Task launched at: 386.953 sec
+
+Jobtime = 	 120.727 ms
+Task launched at: 387.195 sec
+
+Jobtime = 	 105.274 ms
+Task launched at: 387.404 sec
+
+Jobtime = 	 120.946 ms
+Task launched at: 387.645 sec
+
+Jobtime = 	 118.664 ms
+Task launched at: 387.884 sec
+
+Jobtime = 	 118.983 ms
+Task launched at: 388.121 sec
+
+Jobtime = 	 120.095 ms
+Task launched at: 388.362 sec
+
+Jobtime = 	 120.203 ms
+Task launched at: 388.601 sec
+
+Jobtime = 	 118.299 ms
+Task launched at: 388.837 sec
+
+Jobtime = 	 120.499 ms
+Task launched at: 389.078 sec
+
+Jobtime = 	 118.67 ms
+Task launched at: 389.317 sec
+
+Jobtime = 	 119.715 ms
+Task launched at: 389.558 sec
+
+Jobtime = 	 119.784 ms
+Task launched at: 389.798 sec
+
+Jobtime = 	 118.601 ms
+Task launched at: 390.036 sec
+
+Jobtime = 	 119.544 ms
+Task launched at: 390.276 sec
+
+Jobtime = 	 118.929 ms
+Task launched at: 390.514 sec
+
+Jobtime = 	 119.676 ms
+Task launched at: 390.752 sec
+
+Jobtime = 	 121.483 ms
+Task launched at: 390.994 sec
+
+Jobtime = 	 85.63 ms
+Task launched at: 391.17 sec
+
+Jobtime = 	 120.278 ms
+Task launched at: 391.411 sec
+
+Jobtime = 	 118.297 ms
+Task launched at: 391.649 sec
+
+Jobtime = 	 120.757 ms
+Task launched at: 391.892 sec
+
+Jobtime = 	 118.015 ms
+Task launched at: 392.128 sec
+
+Jobtime = 	 119.965 ms
+Task launched at: 392.366 sec
+
+Jobtime = 	 120.961 ms
+Task launched at: 392.607 sec
+
+Jobtime = 	 118.04 ms
+Task launched at: 392.846 sec
+
+Jobtime = 	 118.178 ms
+Task launched at: 393.083 sec
+
+Jobtime = 	 120.053 ms
+Task launched at: 393.324 sec
+
+Jobtime = 	 120.26 ms
+Task launched at: 393.563 sec
+
+Jobtime = 	 119.028 ms
+Task launched at: 393.8 sec
+
+Jobtime = 	 120.661 ms
+Task launched at: 394.041 sec
+
+Jobtime = 	 118.958 ms
+Task launched at: 394.28 sec
+
+Jobtime = 	 124.077 ms
+Task launched at: 394.523 sec
+
+Jobtime = 	 119.968 ms
+Task launched at: 394.762 sec
+
+Jobtime = 	 120.669 ms
+Task launched at: 395.001 sec
+
+Jobtime = 	 120.131 ms
+Task launched at: 395.241 sec
+
+Jobtime = 	 120.195 ms
+Task launched at: 395.482 sec
+
+Jobtime = 	 119.658 ms
+Task launched at: 395.719 sec
+
+Jobtime = 	 121.029 ms
+Task launched at: 395.961 sec
+
+Jobtime = 	 85.0652 ms
+Task launched at: 396.134 sec
+
+Jobtime = 	 120.867 ms
+Task launched at: 396.376 sec
+
+Jobtime = 	 119.651 ms
+Task launched at: 396.613 sec
+
+Jobtime = 	 121.016 ms
+Task launched at: 396.855 sec
+
+Jobtime = 	 119.577 ms
+Task launched at: 397.093 sec
+
+Jobtime = 	 120.51 ms
+Task launched at: 397.333 sec
+
+Jobtime = 	 120.458 ms
+Task launched at: 397.573 sec
+
+Jobtime = 	 119.777 ms
+Task launched at: 397.811 sec
+
+Jobtime = 	 120.683 ms
+Task launched at: 398.05 sec
+
+Jobtime = 	 120.941 ms
+Task launched at: 398.291 sec
+
+Jobtime = 	 118.43 ms
+Task launched at: 398.53 sec
+
+Jobtime = 	 118.068 ms
+Task launched at: 398.766 sec
+
+Jobtime = 	 119.982 ms
+Task launched at: 399.007 sec
+
+Jobtime = 	 120.15 ms
+Task launched at: 399.246 sec
+
+Jobtime = 	 118.203 ms
+Task launched at: 399.482 sec
+
+Jobtime = 	 120.73 ms
+Task launched at: 399.724 sec
+
+Jobtime = 	 117.675 ms
+Task launched at: 399.961 sec
+
+Jobtime = 	 120.561 ms
+Task launched at: 400.203 sec
+
+Jobtime = 	 74.9357 ms

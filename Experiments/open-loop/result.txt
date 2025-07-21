@@ -1,0 +1,16 @@
+0.8  0.8
+Mean reltime1: 0.6644779090909091
+Mean reltime2: 0.49776565
+
+0.4  0.8
+Mean reltime1: 1.3252226666666667
+Mean reltime2: 1.53428775
+
+0.4  0.8
+Mean reltime1: 1.5778465833333335
+Mean reltime2: 1.5192890000000003
+
+0.9  0.9
+Mean reltime1: 1.567374833333334
+Mean reltime2: 1.2505800000000002
+
