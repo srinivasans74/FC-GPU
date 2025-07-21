@@ -1,5 +1,0 @@
-time: 1749304529369 ms, period: 400 ms, response: 462 ms
-time: 1749304533370 ms, period: 400 ms, response: 3600 ms
-time: 1749304537370 ms, period: 400 ms, response: 3600 ms
-time: 1749304541370 ms, period: 400 ms, response: 3599 ms
-time: 1749304545370 ms, period: 400 ms, response: 3599 ms
