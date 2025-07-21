@@ -104,4 +104,4 @@ To reproduce **Figure 9c** and **9d**:
 
 -----
 
-**Note:** More Online experiments and experiments focusing on AMD-GPU will be released in the next version (v.1). 
+**Note:** Experiment 5.4 (Table 2 and 3) and  more Online experiments will be released in (v.1). 
