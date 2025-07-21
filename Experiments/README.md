@@ -22,7 +22,7 @@ To reproduce **Figure 6a** and **6b**:
 
 ## Closed-Loop Experiments
 
-To reproduce **Figure 6a** and **6b**:
+To reproduce **Figure 6c** and **6d**:
 
 1.  Navigate to the `closed-loop` directory:
     ```bash
@@ -59,6 +59,8 @@ This experiment compares closed-loop and FC-GPU, producing **Figure 7a**, **7b**
 
 ## Ad-hoc Experiments
 
+This experiment can produce  **Figure 8a**, **8b**, **8c**, and **8d**. 
+
 1.  Navigate to the `Ad-hoc/` directory:
     ```bash
     cd Ad-hoc/
@@ -72,6 +74,7 @@ This experiment compares closed-loop and FC-GPU, producing **Figure 7a**, **7b**
 -----
 
 ## SISO Experiments
+This experiment can produce  **Figure 9a**, **9b**. 
 
 1.  Navigate to the `SISO/` directory:
     ```bash
