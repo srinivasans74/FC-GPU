@@ -20,10 +20,26 @@ To reproduce **Figure 6a** and **6b**:
 
 -----
 
+## Closed-Loop Experiments
+
+To reproduce **Figure 6a** and **6b**:
+
+1.  Navigate to the `closed-loop` directory:
+    ```bash
+    cd closed-loop
+    ```
+2.  Run the experiment script:
+    ```bash
+    ./experiment.sh
+    ```
+3.  To visualize the results, run all cells in the `closed-loop.ipynb` Jupyter notebook.
+
+-----
+
 
 ## GPU-TDMH and closed-loop Experiment
 
-This experiment compares closed-loop and FC-GPU, producing **Figure 7a**, **7b**, **7c**, and **7d**. The same closed-loop can be adjusted by changing mm to stencil for **6c** and **6d**
+This experiment compares closed-loop and FC-GPU, producing **Figure 7a**, **7b**, **7c**, and **7d**. 
 
 1.  Navigate to the `GPU_TDMh_and_closed_loop` directory:
     ```bash
