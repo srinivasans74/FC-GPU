@@ -6,11 +6,11 @@ This repository contains code used to reproduce the main figures in our research
 
 ### Directory Summary
 
-| Directory       | Purpose                                            | Figure    |
-|----------------|----------------------------------------------------|-----------|
-| `Overhead/`     | Measure runtime overhead of the FC-GPU controller | Figure 5  |
-| `Modelling/`    | Analytical model and scripts                      | Figure 3  |
-| `Experiments/`  | Workloads with the FC-GPU controller integrated   | Figures 6-10|
+| Directory       | Purpose                                            | Figure     |
+|----------------|----------------------------------------------------|-----------  |
+| `Overhead/`     | Measure runtime overhead of the FC-GPU controller | Figure 5    |
+| `Modelling/`    | Analytical model and scripts                      | Figure 3    |
+| `Experiments/`  | Workloads with the FC-GPU controller integrated   | Figures 6-11|
 
 Different experiment variants demonstrate how the controller performs under various GPU memory configurations (zero-copy vs. explicit copies) and different control parameters.
 
@@ -80,7 +80,7 @@ This will generate and save `overhead_figure5.png`.
 
 ---
 
-## Experiments
+## Figure 6-11
 
 The `Experiments/` folder contains all benchmark workloads with the FC-GPU controller embedded. To run these:
 
@@ -96,26 +96,14 @@ The results should be reproducible as shown in the paper.
 
 ## Porting CUDA Workloads to AMD ROCm
 
-To convert CUDA code to HIP for AMD GPUs Please check (Experiments/FC-GPU_amd/):
-:
+To convert CUDA code to HIP for AMD GPUs Please check (Experiments/FC-GPU_amd/) [`AMD`](.Experiments/FC-GPU_amd/) please run the perl script used there to port the code. Note for later versions HiphostAlloc may be depreceated. If yes please change it to hipHostMalloc.
 
-```bash
-for file in *.cu; do
-    hipify-perl "$file" > "${file%.cu}.cpp"
-done
-hipcc *.cpp -o executable
-```
-Include this in `experiment.sh` and then run:
-
-```bash
-./experiment.sh
-```
 
 ## Important Note on GPU Tuning
 
 **If you are using a GPU different from the one used for initial development and tuning, the controller gains (`a11` through `a44`) will likely need to be re-tuned.** These gains are critical for the stability of the control system and are highly dependent on the underlying hardware's performance characteristics.
 
-We recommend performing a stability analysis (as per your system design) to determine the optimal gain values for your specific GPU to ensure the controller operates effectively and maintains real-time guarantees. Failure to re-tune these gains on different hardware may lead to performance degradation or instability.
+We recommend performing a stability analysis (as per your system design) to determine the optimal gain values for your specific GPU to ensure the controller operates effectively and maintains real-time guarantees. Failure to re-tune these gains on different hardware may lead to performance degradation or instability. In addition Please ensure the system has large RAM to ensure optimal performance and avoid out-of-memory issues, especially when utilizing page-locked (pinned) memory for data transfer, the system running this code requires a large amount of available RAM. This is critical as functions like cudaHostAlloc (or hipHostMalloc for HIP) allocate memory that cannot be swapped to disk.
 
 
 ## Support

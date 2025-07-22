@@ -105,3 +105,4 @@ The `requirements.txt` file captures all libraries used, including those needed 
 - The artifact has been tested and validated on both AMD ROCm 5.6 and NVIDIA CUDA 11.6 environments.
 - CPU fallback may work for some components but GPU acceleration is recommended for best performance.
 - To ensure full reproducibility, please match or exceed the versions listed above for your system.
+- In addition Please ensure the system has large RAM to ensure optimal performance and avoid out-of-memory issues, especially when utilizing page-locked (pinned) memory for data transfer, the system running this code requires a large amount of available RAM. This is critical as functions like cudaHostAlloc (or hipHostMalloc for HIP) allocate memory that cannot be swapped to disk.
