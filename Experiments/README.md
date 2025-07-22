@@ -118,6 +118,7 @@ To reproduce **Figure 11*
 -----
 
 ## AMD GPU
+
 To execute FC-GPU in AMD GPU
 cd FC-GPU_amd/
 ./experiment.sh

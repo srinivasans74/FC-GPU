@@ -96,7 +96,7 @@ The results should be reproducible as shown in the paper.
 
 ## Porting CUDA Workloads to AMD ROCm
 
-To convert CUDA code to HIP for AMD GPUs Please check (Experiments/FC-GPU_amd/) [`AMD`](.Experiments/FC-GPU_amd/) please run the perl script used there to port the code. Note for later versions HiphostAlloc may be depreceated. If yes please change it to hipHostMalloc.
+To convert CUDA code to HIP for AMD GPUs Please check (Experiments/FC-GPU_amd/) [`AMD`](Experiments/FC-GPU_amd/) please run the perl script used there to port the code. Note for later versions HiphostAlloc may be depreceated. If yes please change it to hipHostMalloc.
 
 
 ## Important Note on GPU Tuning
