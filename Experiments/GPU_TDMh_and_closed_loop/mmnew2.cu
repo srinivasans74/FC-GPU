@@ -144,7 +144,7 @@ void runPeriodicService() {
         period1 << period_ms << '\n';
         rtj1 << sharedData->values[SHARED_MEM_INDEX] << '\n';
 
-        next_release += std::chrono::milliseconds((long)(period_ms));
+        next_release += std::chrono::milliseconds((long)(sharedData->newperiods[SHARED_MEM_INDEX]));
     }
 
     freeMemory();

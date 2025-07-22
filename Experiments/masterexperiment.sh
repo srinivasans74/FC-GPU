@@ -10,17 +10,17 @@ cd closed-loop/
 ./experiment.sh
 cd ..
 
-# Run GPU-TDMH and Closed-loop comparison (Figure 7a–7d)
+# Run GPU-TDMh and Closed-loop comparison (Figure 7a–7d)
 cd GPU_TDMh_and_closed_loop/
 ./masterexperiment.sh
 cd ..
 
-# Run Ad-hoc controller experiments (custom step sizes)
+# Run Ad-hoc controller experiments (custom step sizes)  (Figure 8)
 cd Ad-hoc/
 ./experiment.sh
 cd ..
 
-# Run SISO controller experiments (gain-tuned via MATLAB)
+# Run SISO controller experiments (Figure 9a,9b)
 cd SISO/
 ./experiment.sh
 cd ..
@@ -30,7 +30,7 @@ cd FC-GPU/
 ./experiment.sh
 cd ..
 
-#onlineexperiments
+#onlineexperiments (Figure 11)
 cd online_new_task_arrival_nvidia/
 ./experiment.sh
 cd ..

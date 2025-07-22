@@ -123,10 +123,12 @@ To reproduce **Figure 11*
     cd FC-GPU_amd/
     '''
 2. Note please enable time-slicing by following the instruction in [`INSTALL.md`](../INSTALL.md)
+
+3. Launch the experiment 
     '''
     ./experiment.sh
     '''
-2. Note this is for two tasks only we show how the framework is portable here
+4. Note this is for two tasks only we show how the framework is portable here
 
 -----
 
