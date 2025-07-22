@@ -29,3 +29,13 @@ cd ..
 cd FC-GPU/
 ./experiment.sh
 cd ..
+
+#onlineexperiments
+cd online_new_task_arrival_nvidia/
+./experiment.sh
+cd ..
+
+#AMD GPU
+cd FC-GPU_amd/
+./experiment.sh
+cd ..

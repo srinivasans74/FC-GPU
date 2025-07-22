@@ -31,6 +31,23 @@ All experimental results, including overhead measurements, are available in this
 
 ---
 
+---
+
+## Repository Structure
+
+Other documentation files available in this repository:
+
+- [`INSTALL.md`](./INSTALL.md) – Step-by-step installation guide  
+- [`REQUIREMENTS.md`](./REQUIREMENTS.md) – Additional dependencies and hardware notes  
+- [`STATUS.md`](./STATUS.md) – Status updates and to-dos  
+- [`LICENSE`](./LICENSE) – Licensing information  
+ -[`CAMERA READY`](./EMSOFT2025_cameraready.pdf) – CAMERA Ready
+
+---
+
+For more details, please explore the individual documents listed above.
+
+
 ## Citation
 
 If you use this code or dataset in your work, please cite the following paper:
@@ -45,19 +62,5 @@ If you use this code or dataset in your work, please cite the following paper:
   publisher = {ACM},
   note      = {To appear. Presented at EMSOFT 2025, Taipei, Taiwan}
 }
-```
 
----
 
-## Repository Structure
-
-Other documentation files available in this repository:
-
-- [`INSTALL.md`](./INSTALL.md) – Step-by-step installation guide  
-- [`REQUIREMENTS.md`](./REQUIREMENTS.md) – Additional dependencies and hardware notes  
-- [`STATUS.md`](./STATUS.md) – Status updates and to-dos  
-- [`LICENSE`](./LICENSE) – Licensing information  
-
----
-
-For more details, please explore the individual documents listed above.

@@ -109,21 +109,15 @@ Include this in `experiment.sh` and then run:
 ```bash
 ./experiment.sh
 ```
-
-The FC-GPU controller remains functional post-porting. Users may need to tune control gains slightly.
-
+An experiment regarding the same is given. Please check `Experiments/FC-GPU_amd`
 ---
 
-## Notes
+## Important Note on GPU Tuning
 
-- Figures will be saved in their respective directories.
-- Ensure all scripts are executable:
-  ```bash
-  chmod +x *.sh
-  ```
-- Additional workloads and experimental scenarios will be added in future versions.
+**If you are using a GPU different from the one used for initial development and tuning, the controller gains (`a11` through `a44`) will likely need to be re-tuned.** These gains are critical for the stability of the control system and are highly dependent on the underlying hardware's performance characteristics.
 
----
+We recommend performing a stability analysis (as per your system design) to determine the optimal gain values for your specific GPU to ensure the controller operates effectively and maintains real-time guarantees. Failure to re-tune these gains on different hardware may lead to performance degradation or instability.
+
 
 ## Support
 
