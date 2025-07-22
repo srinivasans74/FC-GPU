@@ -29,7 +29,6 @@ To run the experiments, please refer to [`INSTALL.md`](./INSTALL.md), which cont
 
 All experimental results, including overhead measurements, are available in this repository. Each experiment includes fully-commented code and plotting scripts. Various workloads can be tested using the provided configurations.
 
----
 
 ---
 
@@ -41,7 +40,7 @@ Other documentation files available in this repository:
 - [`REQUIREMENTS.md`](./REQUIREMENTS.md) – Additional dependencies and hardware notes  
 - [`STATUS.md`](./STATUS.md) – Status updates and to-dos  
 - [`LICENSE`](./LICENSE) – Licensing information  
- -[`CAMERA READY`](./EMSOFT2025_cameraready.pdf) – CAMERA Ready
+- [`CAMERA READY`](./EMSOFT2025_cameraready.pdf) – CAMERA Ready
 
 ---
 

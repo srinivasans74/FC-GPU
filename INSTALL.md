@@ -10,7 +10,7 @@ This repository contains code used to reproduce the main figures in our research
 |----------------|----------------------------------------------------|-----------|
 | `Overhead/`     | Measure runtime overhead of the FC-GPU controller | Figure 5  |
 | `Modelling/`    | Analytical model and scripts                      | Figure 3  |
-| `Experiments/`  | Workloads with the FC-GPU controller integrated    | –         |
+| `Experiments/`  | Workloads with the FC-GPU controller integrated   | Figures 6-10|
 
 Different experiment variants demonstrate how the controller performs under various GPU memory configurations (zero-copy vs. explicit copies) and different control parameters.
 
@@ -96,7 +96,8 @@ The results should be reproducible as shown in the paper.
 
 ## Porting CUDA Workloads to AMD ROCm
 
-To convert CUDA code to HIP for AMD GPUs:
+To convert CUDA code to HIP for AMD GPUs Please check (Experiments/FC-GPU_amd/):
+:
 
 ```bash
 for file in *.cu; do
@@ -109,8 +110,6 @@ Include this in `experiment.sh` and then run:
 ```bash
 ./experiment.sh
 ```
-An experiment regarding the same is given. Please check `Experiments/FC-GPU_amd`
----
 
 ## Important Note on GPU Tuning
 
