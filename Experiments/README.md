@@ -118,14 +118,16 @@ To reproduce **Figure 11*
 -----
 
 ## AMD GPU
------
 1. To execute FC-GPU in AMD GPU
     '''bash
     cd FC-GPU_amd/
-    Note please enable time-slicing by following the instruction in [`INSTALL.md`](../INSTALL.md),
+    '''
+2. Note please enable time-slicing by following the instruction in [`INSTALL.md`](../INSTALL.md)
+    '''
     ./experiment.sh
     '''
-Note this is for two tasks only we show how the framework is portable here
+2. Note this is for two tasks only we show how the framework is portable here
+
 -----
 
 
