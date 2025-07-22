@@ -85,10 +85,7 @@ After the experiment concludes, you can visualize the results using the provided
 
 1.  Open `FC-GPU.ipynb` in Jupyter.
 2.  Run all notebook cells to:
-      * Load the CSV files from the `logs/` directory.
       * Plot real-time response, period adaptation, deadline misses, slack, and other relevant metrics.
-      * Compare open-loop versus closed-loop behavior.
-
 -----
 
 ## 4\. Customization
