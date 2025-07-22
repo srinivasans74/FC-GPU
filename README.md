@@ -46,6 +46,8 @@ Other documentation files available in this repository:
 
 For more details, please explore the individual documents listed above.
 
+[![DOI](https://zenodo.org/badge/1022743917.svg)](https://doi.org/10.5281/zenodo.16242265)
+
 
 ## Citation
 
