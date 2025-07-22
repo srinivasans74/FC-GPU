@@ -61,11 +61,12 @@ const int vol = nx * ny * nz;
 
 steady_clock::time_point start_time, next_release, preemptionlaunch;
 
+
 __global__ void stencil3d(
-    const Real *__restrict__ d_psi,
-    Real *__restrict__ d_npsi,
-    const Real *__restrict__ d_sigmaX,
-    const Real *__restrict__ d_sigmaY,
+    const Real *__restrict__ d_psi, 
+          Real *__restrict__ d_npsi, 
+    const Real *__restrict__ d_sigmaX, 
+    const Real *__restrict__ d_sigmaY, 
     const Real *__restrict__ d_sigmaZ,
     int nx, int ny, int nz)
 {
@@ -74,25 +75,51 @@ __global__ void stencil3d(
     const int tjj = threadIdx.y;
     const int tkk = threadIdx.x;
 
+    #define V0(y,z) sm_psi[pii][y][z]
+    #define V1(y,z) sm_psi[cii][y][z]
+    #define V2(y,z) sm_psi[nii][y][z]
+
+    #define sigmaX(x,y,z,dir) d_sigmaX[ z + nz * ( y + ny * ( x + nx * dir ) ) ]
+    #define sigmaY(x,y,z,dir) d_sigmaY[ z + nz * ( y + ny * ( x + nx * dir ) ) ]
+    #define sigmaZ(x,y,z,dir) d_sigmaZ[ z + nz * ( y + ny * ( x + nx * dir ) ) ]
+
+    #define psi(x,y,z) d_psi[ z + nz * ( y + ny * ( x ) ) ]
+    #define npsi(x,y,z) d_npsi[ z + nz * ( y + ny * ( x ) ) ]
+
+    d_psi = &(psi(XTILE * blockIdx.x, (BSIZE - 2) * blockIdx.y, (BSIZE - 2) * blockIdx.z));
+    d_npsi = &(npsi(XTILE * blockIdx.x, (BSIZE - 2) * blockIdx.y, (BSIZE - 2) * blockIdx.z));
+
+    int nLast_x = XTILE + 1;
+    int nLast_y = (BSIZE - 1);
+    int nLast_z = (BSIZE - 1);
+
+    if (blockIdx.x == gridDim.x - 1) nLast_x = nx - 2 - XTILE * blockIdx.x + 1;
+    if (blockIdx.y == gridDim.y - 1) nLast_y = ny - 2 - (BSIZE - 2) * blockIdx.y + 1;
+    if (blockIdx.z == gridDim.z - 1) nLast_z = nz - 2 - (BSIZE - 2) * blockIdx.z + 1;
+
+    if (tjj > nLast_y || tkk > nLast_z) return;
+
     int pii = 0, cii = 1, nii = 2, tii;
-
-    d_psi = &(d_psi[XTILE * blockIdx.x + nx * ((BSIZE - 2) * blockIdx.y + ny * (BSIZE - 2) * blockIdx.z)]);
-    d_npsi = &(d_npsi[XTILE * blockIdx.x + nx * ((BSIZE - 2) * blockIdx.y + ny * (BSIZE - 2) * blockIdx.z)]);
-
-    if (tjj >= BSIZE || tkk >= BSIZE) return;
-
-    sm_psi[cii][tjj][tkk] = d_psi[tjj * nz + tkk];
-    sm_psi[nii][tjj][tkk] = d_psi[nx * ny + tjj * nz + tkk];
+    sm_psi[cii][tjj][tkk] = psi(0, tjj, tkk);
+    sm_psi[nii][tjj][tkk] = psi(1, tjj, tkk);
+    Real xcharge, ycharge, zcharge, dV = 0;
 
     __syncthreads();
 
-    for (int ii = 1; ii < XTILE; ++ii) {
-        sm_psi[nii][tjj][tkk] = d_psi[(ii + 1) * ny * nz + tjj * nz + tkk];
+    for (int ii = 1; ii < nLast_x; ii++) {
+        sm_psi[nii][tjj][tkk] = psi(ii + 1, tjj, tkk);
         __syncthreads();
+
+        // Compute and accumulate charges here (omitted for brevity)
+
         __syncthreads();
-        tii = pii; pii = cii; cii = nii; nii = tii;
+        tii = pii;
+        pii = cii;
+        cii = nii;
+        nii = tii;
     }
 }
+
 
 void allocateAndInitMemory()
 {
